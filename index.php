@@ -27,100 +27,96 @@
     <link rel="stylesheet" href="fw/css/font-awesome.css"></link>
 </head>    
 
-
-
-
 <body class="single single-product woocommerce woocommerce-page">
 
-            <header class="top_panel_wrap top_panel_style_1 scheme_original">
-                <?php  include("header.php"); ?>
-                <?php  
-                    $menu="home";
-                    include("navbar.php");
-                ?> 
-            </header>
+    <header class="top_panel_wrap top_panel_style_1 scheme_original">
+        <?php  include("header.php"); ?>
+        <?php  
+            $menu="home";
+            include("navbar.php");
+        ?> 
+    </header>
        
-        <section class="no-col-padding">
-            <div class="container-fluid sc_home-box-bg-type-d">    
-                <div class="content_container_fluid">
-                    <div class="columns_wrap">
-                        <div class="column_container">
-                            <div class="column-inner">
-                                <div class="m_wrapper">
-                                    <div class="sc_section aligncenter sc_home-box-margin-type-f">
-                                        <div class="sc_section_inner">
-                                            <div class="sc_section_content_wrap">
-                                                <div class="esg-media-cover-wrapper">
-                                                    <div class="esg-entry-media">
-                                                        <img src="images/anillo.jpg" alt="" style="height: 637px; width: 1492px;">
-                                                    </div>
-                                                </div>         
-                                            </div>
+    <section class="no-col-padding">
+        <div class="container-fluid sc_home-box-bg-type-d">    
+            <div class="content_container_fluid">
+                <div class="columns_wrap">
+                    <div class="column_container">
+                        <div class="column-inner">
+                            <div class="m_wrapper">
+                                <div class="sc_section aligncenter sc_home-box-margin-type-f">
+                                    <div class="sc_section_inner">
+                                        <div class="sc_section_content_wrap">
+                                            <div class="esg-media-cover-wrapper">
+                                                <div class="esg-entry-media">
+                                                    <img src="images/anillo.jpg" alt="" style="height: 637px; width: 1492px;">
+                                                </div>
+                                            </div>         
                                         </div>
-                                    </div>    
-                                </div>
+                                    </div>
+                                </div>    
                             </div>
                         </div>
                     </div>
-                </div> 
-            </div>
-        </section>
-        <section class="no-col-padding">
-            <div class="container-fluid">    
-                <div class="content_container">
-                    <div class="columns_wrap">
-                        <div class="column_container column-1_1">
-                            <div class="column-inner">
-                                <div class="m_wrapper">
-                                    <div class="sc_section sc_section_block sc_home-margin-type-j">
-                                        <div class="sc_section_inner">
-                                            <h3 class="sc_section_title sc_item_title sc_item_title_without_descr">Paquetes de Wedding
-                                            <br>& Event Planner</h3>
-                                            <h4 class="sc_section_subtitle sc_item_subtitle"></h4>
-                                            <div class="sc_section_content_wrap">
-                                                <div class="columns_wrap sc_columns columns_nofluid sc_columns_count_3">
-                                                    <div class="column-1_3 sc_column_item odd first">
-                                                        <div class="sc_price_block sc_price_block_style_1">
-                                                            <div class="featured_image"><img src="images/OBFM0O0.jpg"></div>
-                                                            <div class="sc_price_block_title"><h6>FULL SERVICE GUIDE</h6></div>
-                                                            <div class="sc_price_block_description">
-                                                                <ul>
-                                                                    <li>¡Estamos aquí para ti!</li>
-                                                                    <br>
-                                                                </ul>
-                                                            </div>
-                                                            <div class="sc_price_block_money"><div class="sc_price"></div></div>
-                                                            <div class="sc_price_block_link">
-                                                                <a href="shop-fullservice.php" class="sc_button sc_button_square sc_button_style_hovered sc_button_size_small">Cotizar</a>
-                                                            </div>
+                </div>
+            </div> 
+        </div>
+    </section>
+    <section class="no-col-padding">
+        <div class="container-fluid">    
+            <div class="content_container">
+                <div class="columns_wrap">
+                    <div class="column_container column-1_1">
+                        <div class="column-inner">
+                            <div class="m_wrapper">
+                                <div class="sc_section sc_section_block sc_home-margin-type-j">
+                                    <div class="sc_section_inner">
+                                        <h3 class="sc_section_title sc_item_title sc_item_title_without_descr">Paquetes de Wedding
+                                        <br>& Event Planner</h3>
+                                        <h4 class="sc_section_subtitle sc_item_subtitle"></h4>
+                                        <div class="sc_section_content_wrap">
+                                            <div class="columns_wrap sc_columns columns_nofluid sc_columns_count_3">
+                                                <div class="column-1_3 sc_column_item odd first">
+                                                    <div class="sc_price_block sc_price_block_style_1">
+                                                        <div class="featured_image"><img src="images/OBFM0O0.jpg"></div>
+                                                        <div class="sc_price_block_title"><h6>FULL SERVICE GUIDE</h6></div>
+                                                        <div class="sc_price_block_description">
+                                                            <ul>
+                                                                <li>¡Estamos aquí para ti!</li>
+                                                                <br>
+                                                            </ul>
                                                         </div>
-                                                    </div><div class="column-1_3 sc_column_item even">
-                                                        <div class="sc_price_block sc_price_block_style_1">
-                                                            <div class="featured_image"><img src="images/8415.jpg"></div>
-                                                            <div class="sc_price_block_title"><H6>DAY-OF COORDINATION</H6></div>
-                                                            <div class="sc_price_block_description">
-                                                                <ul>
-                                                                    <li>¡Tú planeas, nosotros <br>lo ejecutamos!</li>
-                                                                </ul>
-                                                            </div>
-                                                            <div class="sc_price_block_money"><div class="sc_price"></div></div>
-                                                            <div class="sc_price_block_link">
-                                                                <a href="shop-dcoordination.php" class="sc_button sc_button_square sc_button_style_hovered sc_button_size_small">Cotizar</a>
-                                                            </div>
+                                                        <div class="sc_price_block_money"><div class="sc_price"></div></div>
+                                                        <div class="sc_price_block_link">
+                                                            <a href="shop-fullservice.php" class="sc_button sc_button_square sc_button_style_hovered sc_button_size_small">Cotizar</a>
                                                         </div>
-                                                    </div><div class="column-1_3 sc_column_item odd">
-                                                        <div class="sc_price_block sc_price_block_style_1">
-                                                            <div class="featured_image"><img alt="Full Package" src="images/688.jpg"></div>
-                                                            <div class="sc_price_block_title"><h6>COORDINATION PACKAGE</h6></div>
-                                                            <div class="sc_price_block_description">
-                                                                <ul>
-                                                                    <li>¡Relájate y deja todo en <br>nuestras manos!</li>
-                                                                </ul>
-                                                            </div>
-                                                            <div class="sc_price_block_money"><div class="sc_price"></div></div>
-                                                            <div class="sc_price_block_link">
-                                                                <a href="shop-cpackage.php" class="sc_button sc_button_square sc_button_style_hovered sc_button_size_small">Cotizar</a>
-                                                            </div>
+                                                    </div>
+                                                </div><div class="column-1_3 sc_column_item even">
+                                                    <div class="sc_price_block sc_price_block_style_1">
+                                                        <div class="featured_image"><img src="images/8415.jpg"></div>
+                                                        <div class="sc_price_block_title"><H6>DAY-OF COORDINATION</H6></div>
+                                                        <div class="sc_price_block_description">
+                                                            <ul>
+                                                                <li>¡Tú planeas, nosotros <br>lo ejecutamos!</li>
+                                                            </ul>
+                                                        </div>
+                                                        <div class="sc_price_block_money"><div class="sc_price"></div></div>
+                                                        <div class="sc_price_block_link">
+                                                            <a href="shop-dcoordination.php" class="sc_button sc_button_square sc_button_style_hovered sc_button_size_small">Cotizar</a>
+                                                        </div>
+                                                    </div>
+                                                </div><div class="column-1_3 sc_column_item odd">
+                                                    <div class="sc_price_block sc_price_block_style_1">
+                                                        <div class="featured_image"><img alt="Full Package" src="images/688.jpg"></div>
+                                                        <div class="sc_price_block_title"><h6>COORDINATION PACKAGE</h6></div>
+                                                        <div class="sc_price_block_description">
+                                                            <ul>
+                                                                <li>¡Relájate y deja todo en <br>nuestras manos!</li>
+                                                            </ul>
+                                                        </div>
+                                                        <div class="sc_price_block_money"><div class="sc_price"></div></div>
+                                                        <div class="sc_price_block_link">
+                                                            <a href="shop-cpackage.php" class="sc_button sc_button_square sc_button_style_hovered sc_button_size_small">Cotizar</a>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -131,15 +127,16 @@
                             </div>
                         </div>
                     </div>
-                </div> 
-            </div>
-        </section>
+                </div>
+            </div> 
+        </div>
+    </section>
 
-        <section class="related_wrap related_wrap_empty"></section>
+    <section class="related_wrap related_wrap_empty"></section>
 
-        <footer class="footer_wrap widget_area scheme_original">
-            <?php require("footer.php"); ?>
-        </footer>     
+    <footer class="footer_wrap widget_area scheme_original">
+        <?php require("footer.php"); ?>
+    </footer>     
 
     <a href="#" class="scroll_to_top icon-up" title="Scroll to top"></a>
     

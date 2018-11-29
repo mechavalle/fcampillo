@@ -18,6 +18,7 @@ switch($menu)
     }
 
 ?>
+
 <div class="page_wrap">
     <div class="top_panel_wrap_inner top_panel_inner_style_2 top_panel_position_above">
     <header class="top_panel_wrap top_panel_style_2 scheme_original">
