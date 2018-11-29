@@ -27,6 +27,9 @@
     <link rel="stylesheet" href="fw/css/font-awesome.css"></link>
 </head>    
 
+
+
+
 <body class="single single-product woocommerce woocommerce-page">
 
             <header class="top_panel_wrap top_panel_style_1 scheme_original">
