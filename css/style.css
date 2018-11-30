@@ -36,6 +36,17 @@
 
 @import url('https://fonts.googleapis.com/css?family=Courgette|Droid+Serif:400,400i,700,700i|Open+Sans:300,300i,400,400i,600,600i,700,700i,800,800i|PT+Serif:400,400i,700,700i|Raleway:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i&subset=cyrillic,cyrillic-ext,latin-ext');
 
+@font-face {
+    font-family: bariol;
+    src: url(../fonts/bariolregular/Bariol_Regular.otf);    
+} 
+
+@font-face {
+    font-family: delicious;
+    src: url(../fonts/delicious_adventures/DeliciousAdventures.ttf);    
+}
+
+
 /* 1. Reset tags
 -------------------------------------------------------------- */
 html, body, div, span, applet, object, iframe,
@@ -47,7 +58,7 @@ dl, dt, dd, ol, ul, li,
 fieldset, form, label, legend,input,textarea,button,
 table, caption, tbody, tfoot, thead, tr, th, td,
 article, aside, address, section, video, audio {
-	font-family: inherit;
+	font-family: bariol,Arial;
 	font-size: 100%;
 	font-style: inherit;
 	font-weight: inherit;
