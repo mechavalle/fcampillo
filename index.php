@@ -49,7 +49,7 @@
                                         <div class="sc_section_content_wrap">
                                             <div class="esg-media-cover-wrapper">
                                                 <div class="esg-entry-media">
-                                                    <img src="images/anillo.jpg" alt="" style="height: 637px; width: 1492px;">
+                                                    <img src="images/anillo.jpg" alt="" style="height: 576px; width: 1349px;">
                                                 </div>
                                             </div>         
                                         </div>
