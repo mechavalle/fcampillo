@@ -71,7 +71,7 @@
                             <div class="m_wrapper">
                                 <div class="sc_section sc_section_block sc_home-margin-type-j">
                                     <div class="sc_section_inner">
-                                        <h3 class="sc_section_title sc_item_title sc_item_title_without_descr">Paquetes de Wedding
+                                        <h3 class="sc_section_title sc_item_title sc_item_title_without_descr" style="font-family: delicious;">Paquetes de Wedding
                                         <br>& Event Planner</h3>
                                         <h4 class="sc_section_subtitle sc_item_subtitle"></h4>
                                         <div class="sc_section_content_wrap">
