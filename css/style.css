@@ -58,8 +58,7 @@ dl, dt, dd, ol, ul, li,
 fieldset, form, label, legend,input,textarea,button,
 table, caption, tbody, tfoot, thead, tr, th, td,
 article, aside, address, section, video, audio {
-	/*font-family: bariol,Arial;*/
-	font-family: inherit;
+	font-family: bariol,Arial;
 	font-size: 100%;
 	font-style: inherit;
 	font-weight: inherit;
