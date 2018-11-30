@@ -29,7 +29,7 @@
     <header class="top_panel_wrap top_panel_style_1 scheme_original">
         <?php  include("header.php"); ?>
         <?php  
-            $menu="equipo";
+            $menu="nosotros";
             include("navbar.php");
         ?> 
     </header>   
@@ -54,7 +54,7 @@
                                             <div class="m_wrapper">
                                                 <div class="columns_wrap sc_columns columns_nofluid sc_columns_count_9 sc_a-us-margin-type-a">
                                                     <div class="column-5_9 sc_column_item odd first">
-                                                        <h3 class="sc_title sc_title_iconed margin_top_tiny margin_bottom_null sc_a-us-margin-type-c fsz_cust" style="color: #88ccca;">Para crear algo excepcional debemos de buscar que cada detalle, cliente, evento o servicio sea realmente significativo.<span class="sc_title_icon sc_title_icon_bottom  sc_title_icon_small"><img src="images/vector-smart-object-copy-12.png" alt="" /></span></h2>
+                                                        <h3 class="sc_title sc_title_iconed margin_top_tiny margin_bottom_null sc_a-us-margin-type-c fsz_cust" style="color: #88ccca; font-family: delicious;">Para crear algo excepcional debemos de buscar que cada detalle, cliente, evento o servicio sea realmente significativo.<span class="sc_title_icon sc_title_icon_bottom  sc_title_icon_small"><img src="images/vector-smart-object-copy-12.png" alt="" /></span></h2>
                                                         <div class="m_text_column m_content_element ">
                                                             <div class="m_wrapper">
                                                                 <p>Fernanda Campillo Wedding & Event Planner es una empresa que opera en México, eficiente y dedicada a la creación y planificación de bodas y eventos. Su gestión y realización se basan en la combinación de estrategia y creatividad, utilizando recursos y experiencia para seguir satisfaciendo clientes, destacando en elementos visuales.</p>

@@ -60,73 +60,73 @@
                                             <div class="sc_services_wrap">
                                                 <!-- .sc_services -->
                                                 <div class="sc_services sc_services_style_services-1 sc_services_type_images  margin_top_tiny- margin_bottom_large full-width">
-                                                    <h3 class="sc_services_title sc_item_title sc_item_title_without_descr">Nuestros Servicios</h3>
+                                                    <h3 class="sc_services_title sc_item_title sc_item_title_without_descr" style="font-family: delicious;">Nuestros Servicios</h3>
                                                     <h6 class="sc_services_subtitle sc_item_subtitle"></h6>
                                                     <div class="sc_columns columns_wrap">
                                                         <div class="column-1_3 column_padding_bottom">
                                                             <div class="sc_services_item odd first">
                                                                 <div class="sc_services_item_featured post_featured">
                                                                     <div class="post_thumb" data-image="images/service-6.jpg" data-title="Bouquets &#038; Style">
-                                                                        <a class="hover_icon hover_icon_link" href="services-single.html"><img class="post-image" alt="Bouquets &#038; Style" src="images/service-6-370x240.jpg"></a>
+                                                                        <a class="hover_icon hover_icon_link" href="swedding.php"><img class="post-image" alt="Bouquets &#038; Style" src="images/service-6-370x240.jpg"></a>
                                                                     </div>
                                                                 </div>
                                                                 <div class="sc_services_item_content">
-                                                                    <h4 class="sc_services_item_title"><a href="services-single.html"><b>Wedding planning</b></a></h4>
+                                                                    <h4 class="sc_services_item_title"><a href="swedding.php" style="font-family: delicious;">Wedding planning</a></h4>
                                                                 </div>
                                                             </div>
                                                         </div><div class="column-1_3 column_padding_bottom">
                                                             <div class="sc_services_item even">
                                                                 <div class="sc_services_item_featured post_featured">
                                                                     <div class="post_thumb" data-image="images/service-5.jpg" data-title="Wedding Planning">
-                                                                        <a class="hover_icon hover_icon_link" href="services-single.html"><img class="post-image" alt="Wedding Planning" src="images/service-5-370x240.jpg"></a>
+                                                                        <a class="hover_icon hover_icon_link" href="sevent.php"><img class="post-image" alt="Wedding Planning" src="images/service-5-370x240.jpg"></a>
                                                                     </div>
                                                                 </div>
                                                                 <div class="sc_services_item_content">
-                                                                    <h4 class="sc_services_item_title"><a href="services-single.html"><b>Event planning</b></a></h4>
+                                                                    <h4 class="sc_services_item_title"><a href="sevent.php" style="font-family: delicious;">Event planning</a></h4>
                                                                 </div>
                                                             </div>
                                                         </div><div class="column-1_3 column_padding_bottom">
                                                             <div class="sc_services_item odd">
                                                                 <div class="sc_services_item_featured post_featured">
                                                                     <div class="post_thumb" data-image="images/service-4.jpg" data-title="Catering &#038; Decoration">
-                                                                        <a class="hover_icon hover_icon_link" href="services-single.html"><img class="post-image" alt="Catering &#038; Decoration" src="images/service-4-370x240.jpg"></a>
+                                                                        <a class="hover_icon hover_icon_link" href="sdecoracion.php"><img class="post-image" alt="Catering &#038; Decoration" src="images/service-4-370x240.jpg"></a>
                                                                     </div>
                                                                 </div>
                                                                 <div class="sc_services_item_content">
-                                                                    <h4 class="sc_services_item_title"><a href="services-single.html"><b>Decoración y Ambientación</b></a></h4>
+                                                                    <h4 class="sc_services_item_title"><a href="sdecoracion.php" style="font-family: delicious;">Decoración y Ambientación</a></h4>
                                                                 </div>
                                                             </div>
                                                         </div><div class="column-1_3 column_padding_bottom">
                                                             <div class="sc_services_item even">
                                                                 <div class="sc_services_item_featured post_featured">
                                                                     <div class="post_thumb" data-image="images/service-3.jpg" data-title="Gift Ideas">
-                                                                        <a class="hover_icon hover_icon_link" href="services-single.html"><img class="post-image" alt="Gift Ideas" src="images/service-3-370x240.jpg"></a>
+                                                                        <a class="hover_icon hover_icon_link" href="smobiliario.php"><img class="post-image" alt="Gift Ideas" src="images/service-3-370x240.jpg"></a>
                                                                     </div>
                                                                 </div>
                                                                 <div class="sc_services_item_content">
-                                                                    <h4 class="sc_services_item_title"><a href="services-single.html"><b>Mobiliario e Iluminación</b></a></h4>
+                                                                    <h4 class="sc_services_item_title"><a href="smobiliario.php" style="font-family: delicious;">Mobiliario e Iluminación</a></h4>
                                                                 </div>
                                                             </div>
                                                         </div><div class="column-1_3 column_padding_bottom">
                                                             <div class="sc_services_item odd">
                                                                 <div class="sc_services_item_featured post_featured">
                                                                     <div class="post_thumb" data-image="images/service-2.jpg" data-title="Ceremony Ideas">
-                                                                        <a class="hover_icon hover_icon_link" href="services-single.html"><img class="post-image" alt="Ceremony Ideas" src="images/service-2-370x240.jpg"></a>
+                                                                        <a class="hover_icon hover_icon_link" href="sbanquetes.php"><img class="post-image" alt="Ceremony Ideas" src="images/service-2-370x240.jpg"></a>
                                                                     </div>
                                                                 </div>
                                                                 <div class="sc_services_item_content">
-                                                                    <h4 class="sc_services_item_title"><a href="services-single.html"><b>Banquetes y Mesas de dulces</b></a></h4>
+                                                                    <h4 class="sc_services_item_title"><a href="sbanquetes.php" style="font-family: delicious;">Banquetes y Mesas de dulces</a></h4>
                                                                 </div>
                                                             </div>
                                                         </div><div class="column-1_3 column_padding_bottom">
                                                             <div class="sc_services_item even">
                                                                 <div class="sc_services_item_featured post_featured">
                                                                     <div class="post_thumb" data-image="images/service-1.jpg" data-title="Beach Weddings">
-                                                                        <a class="hover_icon hover_icon_link" href="services-single.html"><img class="post-image" alt="Beach Weddings" src="images/service-1-370x240.jpg"></a>
+                                                                        <a class="hover_icon hover_icon_link" href="sbodasdestino.php"><img class="post-image" alt="Beach Weddings" src="images/service-1-370x240.jpg"></a>
                                                                     </div>
                                                                 </div>
                                                                 <div class="sc_services_item_content">
-                                                                    <h4 class="sc_services_item_title"><a href="services-single.html"><b>Bodas destino</b></a></h4>
+                                                                    <h4 class="sc_services_item_title"><a href="sbodasdestino.php" style="font-family: delicious;">Bodas destino</a></h4>
                                                                 </div>
                                                             </div>
                                                         </div>

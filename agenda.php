@@ -74,7 +74,7 @@
                                                                             </div>
                                                                         </li>
                                                                         <li class="product has-post-thumbnail last" style="text-align: left;">
-                                                                            <h4 class="widget_title" style="color: #cab374;">Bride2be Planner</h4>
+                                                                            <h4 class="widget_title" style="color: #cab374; font-family: delicious;">Bride2be Planner</h4>
                                                                             <div class="m_wrapper">
                                                                                 <p style="font-weight: bold;">Este planeador te servirá de apoyo para que consideres y plasmes cada detalle en la organización de tu boda. Queremos que en este día tan especial vivas cada momento y todo salga como lo soñaste.</p>
                                                                                 <p style="font-weight: bold;">Esta libreta está pensanda 100% en ti, novia, que con las prisas y el estrés muchas veces olvidas detalles pequeños que pueden ser importantes para ese día.</p>

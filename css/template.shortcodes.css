@@ -5139,7 +5139,7 @@ body.sidebar_hide .sc_recent_news_style_news-announce .post_size_small { height:
 .sc_title {
 	overflow: hidden;
 	position:relative;
-	padding-bottom:2px;
+	padding-bottom:0.2em;
 }
 .sc_title.sc_align_center {
 	text-align:center;
@@ -5530,7 +5530,6 @@ body.sidebar_hide .sc_recent_news_style_news-announce .post_size_small { height:
 	margin: 0;
 	text-align:center;
 	margin-bottom: 0.37em;
-	font-weight: bold;
 }
 
 /* Description */

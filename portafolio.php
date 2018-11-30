@@ -45,7 +45,7 @@
     <div class="page_content_wrap page_paddings_yes">
         <div class="sc_services_wrap">
             <div class="sc_services sc_services_style_services-1 sc_services_type_images  margin_top_tiny- margin_bottom_large full-width">
-                <h3 class="sc_services_title sc_item_title sc_item_title_without_descr">Nuestros Proyectos</h3>
+                <h3 class="sc_services_title sc_item_title sc_item_title_without_descr" style="font-family: delicious;">Nuestros proyectos</h3>
                 <h6 class="sc_services_subtitle sc_item_subtitle"></h6>
             </div>    
             <div class="content_wrap">

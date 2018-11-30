@@ -89,7 +89,7 @@
                                                                 <div class="columns_wrap sc_columns columns_nofluid sc_columns_count_3">
                                                                     <div class="column-1_2 sc_column_item odd first sc-contacts-column-custom">
                                                                         <span class="sc_icon icon-icon4 sc_icon_shape_round sc-contacts-transform"></span>
-                                                                        <h5 class="sc_title sc_title_regular sc_align_center sc-contacts-custom-h5">CDMX</h5>
+                                                                        <h5 class="sc_title sc_title_regular sc_align_center sc-contacts-custom-h5" style="font-family: delicious;">CDMX</h5>
                                                                         <div class="m_text_column m_content_element ">
                                                                             <div class="m_wrapper">
                                                                                 <p>123 New Lenox,
@@ -99,7 +99,7 @@
                                                                         <div class="sc-contacts-emptyspace" ></div>
                                                                     </div><div class="column-1_2 sc_column_item even sc-contacts-column-custom">
                                                                         <span class="sc_icon icon-icon5 sc_icon_shape_round sc-contacts-transform"></span>
-                                                                        <h5 class="sc_title sc_title_regular sc_align_center sc-contacts-custom-h5">Riviera Maya</h5>
+                                                                        <h5 class="sc_title sc_title_regular sc_align_center sc-contacts-custom-h5" style="font-family: delicious;">Riviera Maya</h5>
                                                                         <div class="m_text_column m_content_element ">
                                                                             <div class="m_wrapper">
                                                                                 <p>(800)-456-7890</p>
@@ -126,7 +126,7 @@
                                         <div class="m_wrapper">
                                             <div class="sc_form_wrap">
                                                 <div class="sc_form sc_form_style_form_1 aligncenter sc-contacts-form">
-                                                    <h3 class="sc_form_title sc_item_title sc_item_title_without_descr">¡Queremos saber de ti!</h3>
+                                                    <h3 class="sc_form_title sc_item_title sc_item_title_without_descr" style="font-family: delicious;">¡Queremos saber de ti!</h3>
                                                     <h6 class="sc_form_subtitle sc_item_subtitle"></h6>
                                                     <form class="sc_input_hover_default" data-formtype="form_1" method="post" action="include/contact-form.php">
                                                     <div class="sc_form_info columns_wrap">

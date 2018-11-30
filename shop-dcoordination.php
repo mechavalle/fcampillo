@@ -34,7 +34,7 @@
     <div class="top_panel_title title_present">
         <div class="top_panel_title_inner title_present bg-breadcrumbs">
             <div class="content_wrap">
-                <h1 class="page_title">Day-of coordination </h1>
+                <h1 class="page_title" style="font-family: delicious;">Day-of coordination </h1>
                 <div class="breadcrumbs">
                 <br>
                 </div>	
