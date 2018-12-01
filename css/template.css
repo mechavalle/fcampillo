@@ -297,7 +297,7 @@ input[type="password"],
 select,
 textarea {
   font-size: 1.07em;
-  line-height: 3.55em;
+  line-height: 1.55em;
   height: 3.55em;
 }
 .scheme_original input[type="text"],

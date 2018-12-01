@@ -80,7 +80,7 @@
                                                     <div class="sc_price_block sc_price_block_style_1">
                                                         <div class="featured_image"><img src="images/OBFM0O0.jpg"></div>
                                                         <div class="sc_price_block_title"><h6>FULL SERVICE GUIDE</h6></div>
-                                                        <div class="sc_price_block_description">
+                                                        <div class="sc_price_block_description" style="font-size: medium;">
                                                             <ul>
                                                                 <li>¡Estamos aquí para ti!</li>
                                                                 <br>
