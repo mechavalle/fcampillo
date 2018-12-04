@@ -57,20 +57,19 @@
                                     <div class="column-inner">
                                         <div class="m_wrapper">
                                             <div class="columns_wrap sc_columns columns_nofluid sc_columns_count_7 sc_our-team-single-column-margin">
-                                                <div class=" sc_column_item odd first">
+                                                <div class="column-3_7 sc_column_item odd first">
                                                     <figure class="sc_image  sc_image_shape_square"><img src="images/team1.jpg" alt="" /></figure>
-                                                    </div><div class="column-4_7 sc_column_item even">
-                                                        <h6 class="sc_title sc_title_regular margin_bottom_tiny sc_our-team-single-title-margin" style="color: #cab374; font-size: 20px; text-align: left;">Fernanda Campillo</h6>
-                                                        <div class="m_text_column m_content_element ">
-                                                            <div class="m_wrapper">
-                                                                <p">Hola soy Fer, Licenciada en Dirección de Empresas de Entretenimiento y certificada por el INIBEP en Wedding & Event Planner. Lo que más me caracteriza es que siempre estoy creando ideas nuevas, es por eso que este gran proyecto lo creé para ti de una forma muy especial y junto con mi equipo coordinaremos minuciosamente cada paso en la organización de tu boda o evento."</p>
-                                                                <p>Somos una empresa dedicada 100% a ti y a través de cinco puntos clave (planeación, diseño, administración, coordinación y supervisión) todo aquello que te gusta, buscas e imaginas te aseguramos que lo encontrarás con nosotros. Hemos planificado y ejecutado eventos únicos, ¡y esperamos sean más! Nos sentimos increíblemente afortunados de ser parte de un momento tan especial en la vida de nuestras parejas y clientes, ¡y estamos ansiosos por ayudarlo con cada detalle especial!
-                                                                <br>Siempre buscaremos la perfección en nuestro trabajo: no existe una boda bien, sólo existen bodas perfectas.</p">
-                                                                <p>Misión
-                                                                <br>Estamos dedicados a la creación y planificación de eventos con un alto nivel de profesionalismo, en donde nos aseguraremos de innovar para sorprender a todos y cada uno de nuestros clientes, cuidando que nuestros servicios se cumplan en tiempo y forma.</p>
-                                                                <p>Visión
-                                                                <br>Ser una empresa líder dentro de la industria de los eventos, siendo ampliamente reconocidos por nuestro profesionalismo, calidad, vocación y compromiso con los objetivos de nuestros clientes.</p>
-                                                            </div>
+                                                </div><div class="column-4_7 sc_column_item even">
+                                                    <h6 class="sc_title sc_title_regular margin_bottom_tiny sc_our-team-single-title-margin" style="color: #cab374; font-size: 20px; text-align: left;">Fernanda Campillo</h6>
+                                                    <div class="m_text_column m_content_element ">
+                                                        <div class="m_wrapper">
+                                                            <p>Hola soy Fer, Licenciada en Dirección de Empresas de Entretenimiento y certificada por el INIBEP en Wedding & Event Planner. Lo que más me caracteriza es que siempre estoy creando ideas nuevas, es por eso que este gran proyecto lo creé para ti de una forma muy especial y junto con mi equipo coordinaremos minuciosamente cada paso en la organización de tu boda o evento.</p>
+                                                            <p>Somos una empresa dedicada 100% a ti y a través de cinco puntos clave (planeación, diseño, administración, coordinación y supervisión) todo aquello que te gusta, buscas e imaginas te aseguramos que lo encontrarás con nosotros. Hemos planificado y ejecutado eventos únicos, ¡y esperamos sean más! Nos sentimos increíblemente afortunados de ser parte de un momento tan especial en la vida de nuestras parejas y clientes, ¡y estamos ansiosos por ayudarlo con cada detalle especial!
+                                                            <br>Siempre buscaremos la perfección en nuestro trabajo: no existe una boda bien, sólo existen bodas perfectas.</p>
+                                                            <p>Misión
+                                                            <br>Estamos dedicados a la creación y planificación de eventos con un alto nivel de profesionalismo, en donde nos aseguraremos de innovar para sorprender a todos y cada uno de nuestros clientes, cuidando que nuestros servicios se cumplan en tiempo y forma.</p>
+                                                            <p>Visión
+                                                            <br>Ser una empresa líder dentro de la industria de los eventos, siendo ampliamente reconocidos por nuestro profesionalismo, calidad, vocación y compromiso con los objetivos de nuestros clientes.</p>
                                                         </div>
                                                     </div>
                                                 </div>

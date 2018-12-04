@@ -294,7 +294,7 @@
                                                             <!--.isotope_item -->
                                                             <div class="isotope_item isotope_item_portfolio isotope_column_3">
                                                                 <!--.post_item -->
-                                                                    <div class="post_item even">
+                                                                <div class="post_item even">
                                                                     <!--.post_content -->
                                                                     <div class="post_content isotope_item_content ih-item colored square effect_shift left_to_right">
                                                                         <div class="post_featured img ">
