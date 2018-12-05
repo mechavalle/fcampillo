@@ -111,7 +111,7 @@
                                                             <div class="sc_services_item even">
                                                                 <div class="sc_services_item_featured post_featured">
                                                                     <div class="post_thumb" data-image="images/service-1.jpg" data-title="Beach Weddings">
-                                                                        <a class="hover_icon hover_icon_view" href="images/service-1.jpg"><img class="post-image" alt="Beach Weddings" src="images/BODASDESTINO.jpg"></a>
+                                                                        <a class="hover_icon hover_icon_view" href="images/BODASDESTINO.jpg"><img class="post-image" alt="Beach Weddings" src="images/BODASDESTINO.jpg"></a>
                                                                     </div>
                                                                 </div>
                                                                 <div class="sc_services_item_content">

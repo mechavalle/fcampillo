@@ -25,7 +25,7 @@
     <link property="stylesheet" rel='stylesheet' href='js/vendor/mediaelement/wp-mediaelement.css' type='text/css' media='all' />
     <link property="stylesheet" rel='stylesheet' href='css/responsive.css' type='text/css' media='all' /> 
     <link rel="stylesheet" href="fw/css/font-awesome.css"></link>
-</head>    
+</head>   
 
 <body class="single single-product woocommerce woocommerce-page">
 
@@ -77,7 +77,7 @@
                                         <div class="sc_section_content_wrap">
                                             <div class="columns_wrap sc_columns columns_nofluid sc_columns_count_3">
                                                 <div class="column-1_3 sc_column_item odd first">
-                                                    <div class="sc_price_block sc_price_block_style_1">
+                                                    <div class="sc_price_block sc_price_block_style_1" style="height: 1050px;">
                                                         <div class="featured_image"><img src="images/FULLSERVICEGUIDE.jpg"></div>
                                                         <div class="sc_price_block_title"><h6 style="font-size: 14pt;">FULL SERVICE GUIDE</h6></div>
                                                         <div class="sc_price_block_description" style="font-size: 14pt;">
@@ -95,7 +95,7 @@
                                                             <p align="left">•   Contacto ilimitado por teléfono y correo electrónico desde el momento de la reserva para recibir consejos, preguntas y orientación.</p>
                                                             <p align="left">•   Investigar y recomendar todas las opciones de lugares y proveedores.</p>
                                                         </div>
-                                                        <div class="sc_price_block_link">
+                                                        <div class="sc_price_block_link" style="margin-top: 245px;">
                                                             <a href="presupuesto.php" class="sc_button sc_button_square sc_button_size_small">Pedir Presupuesto</a>
                                                         </div>
                                                     </div>
@@ -127,7 +127,7 @@
                                                         </div>
                                                     </div>
                                                 </div><div class="column-1_3 sc_column_item odd">
-                                                    <div class="sc_price_block sc_price_block_style_1">
+                                                    <div class="sc_price_block sc_price_block_style_1" style="height: 1050px;">
                                                         <div class="featured_image"><img alt="Full Package" src="images/COORDINATIONPACKAGE.jpg"></div>
                                                         <div class="sc_price_block_title"><h6 style="font-size: 14pt;">COORDINATION PACKAGE</h6></div>
                                                         <div class="sc_price_block_description">
@@ -142,8 +142,9 @@
                                                                 <p>Le daremos forma a ese gran día y pondremos en marcha todas tus ideas.</p>
                                                             </div>
                                                         </div>
-                                                        <div class="sc_price_block_link">
+                                                        <div class="sc_price_block_link" style="margin-top: 330px;">
                                                             <a href="presupuesto.php" class="sc_button sc_button_square sc_button_size_small">Pedir Presupuesto</a>
+                                                        </div>
                                                         </div>
                                                     </div>
                                                 </div>

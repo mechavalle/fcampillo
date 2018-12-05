@@ -51,10 +51,15 @@
                                             <div class="m_wrapper">
                                                 <div class="columns_wrap sc_columns columns_nofluid sc_columns_count_9 sc_a-us-margin-type-a">
                                                     <div class="column-5_9 sc_column_item odd first">
-                                                        <h3 class="sc_title sc_title_iconed margin_top_tiny margin_bottom_null sc_a-us-margin-type-c fsz_cust" style="color: #88ccca; font-family: delicious;">Para crear algo excepcional debemos de buscar que cada detalle, cliente, evento o servicio sea realmente significativo.<span class="sc_title_icon sc_title_icon_bottom  sc_title_icon_small"><img src="images/vector-smart-object-copy-12.png" alt="" /></span></h2>
+                                                        <h3 class="sc_title sc_title_iconed margin_top_tiny margin_bottom_null sc_a-us-margin-type-c fsz_cust" style="color: #88ccca; font-family: delicious;">&nbsp;Para crear algo excepcional debemos de &nbsp;buscar que cada detalle, cliente, evento o &nbsp;servicio sea realmente significativo.<span class="sc_title_icon sc_title_icon_bottom  sc_title_icon_small"><img src="images/vector-smart-object-copy-12.png" alt="" /></span></h2>
                                                         <div class="m_text_column m_content_element ">
                                                             <div class="m_wrapper">
                                                                 <p>Fernanda Campillo Wedding & Event Planner es una empresa que opera en México, eficiente y dedicada a la creación y planificación de bodas y eventos. Su gestión y realización se basan en la combinación de estrategia y creatividad, utilizando recursos y experiencia para seguir satisfaciendo clientes, destacando en elementos visuales.</p>
+                                                                <br>
+                                                                <p>Misión</p>
+                                                                <p>Estamos dedicados a la creación y planificación de eventos con un alto nivel de profesionalismo, en donde nos aseguraremos de innovar para sorprender a todos y cada uno de nuestros clientes, cuidando que nuestros servicios se cumplan en tiempo y forma.</p>
+                                                                <p>Visión</p>
+                                                                <p>Ser una empresa líder dentro de la industria de los eventos, siendo ampliamente reconocidos por nuestro profesionalismo, calidad, vocación y compromiso con los objetivos de nuestros clientes.</p>
                                                             </div>
                                                         </div>
                                                     </div><div class="column-4_9 sc_column_item even">
@@ -62,20 +67,20 @@
                                                             <div class="cq-coverslider-area btn-large square">
                                                                 <div class="cq-coverslider-cover">
                                                                     <div class="cq-coverslider-itemcontainer">
-                                                                        <div class="cq-coverslider-imageitem"><img src="images/8415.jpg" class="cq-coverslider-image" alt=""></div>
-                                                                        <div class="cq-coverslider-imageitem"><img src="images/8417.jpg" class="cq-coverslider-image" alt=""></div>
-                                                                        <div class="cq-coverslider-imageitem"><img src="images/8462.jpg" class="cq-coverslider-image" alt=""></div>
+                                                                        <div class="cq-coverslider-imageitem"><img src="images/DAY-OFCORDINATION.jpg" class="cq-coverslider-image" alt="" style="width: 4288px; height: 448px;"></div>
+                                                                        <div class="cq-coverslider-imageitem"><img src="images/COORDINATIONPACKAGE.jpg" class="cq-coverslider-image" alt="" style="width: 4288px; height: 448px;"></div>
+                                                                        <div class="cq-coverslider-imageitem"><img src="images/FULLSERVICEGUIDE.jpg" class="cq-coverslider-image" alt="" style="width: 4288px; height: 448px;"></div>
                                                                     </div>
                                                                 </div>
+                                                                <div class="cq-coverslider-content">
+                                                                    <div class="cq-coverslider-contentitem"></div>
+                                                                    <div class="cq-coverslider-contentitem"></div>
+                                                                    <div class="cq-coverslider-contentitem"></div>
+                                                                </div>
                                                             </div>
-                                                            <div class="cq-coverslider-content">
-                                                                <div class="cq-coverslider-contentitem"></div>
-                                                                <div class="cq-coverslider-contentitem"></div>
-                                                                <div class="cq-coverslider-contentitem"></div>
+                                                            <div class="cq-coverslider-navigation btn-large">
+                                                                <div class="coverslider-navigation-prev"><i class="cq-coverslider-icon entypo-icon entypo-icon-left-open-big"></i></div><div class="coverslider-navigation-next"><i class="cq-coverslider-icon entypo-icon entypo-icon-right-open-big"></i></div>
                                                             </div>
-                                                        </div>
-                                                        <div class="cq-coverslider-navigation btn-large">
-                                                            <div class="coverslider-navigation-prev"><i class="cq-coverslider-icon entypo-icon entypo-icon-left-open-big"></i></div><div class="coverslider-navigation-next"><i class="cq-coverslider-icon entypo-icon entypo-icon-right-open-big"></i></div>
                                                         </div>
                                                     </div>
                                                 </div>

@@ -56,7 +56,7 @@
                                                                     <!-- .post_content -->
                                                                     <div class="post_content isotope_item_content ih-item colored square effect_shift left_to_right">
                                                                         <div class="post_featured img ">
-                                                                            <img class="post-image"  alt="The First Day of the Rest of Their Lives" src="images/post-1-370x284.jpg">
+                                                                            <img class="post-image"  alt="The First Day of the Rest of Their Lives" src="images/post-8-370x246.jpg">
                                                                         </div>
                                                                         <!--.info -->
                                                                         <div class="post_info_wrap info">
@@ -84,7 +84,7 @@
                                                                    <!--.post_content -->
                                                                     <div class="post_content isotope_item_content ih-item colored square effect_shift left_to_right">
                                                                         <div class="post_featured img ">
-                                                                            <img class="post-image"  alt="Colors and Textures for Summer Weddings" src="images/post-2-370x444.jpg">
+                                                                            <img class="post-image"  alt="Colors and Textures for Summer Weddings" src="images/post-3-370x246.jpg">
                                                                         </div>
                                                                         <!--.info -->
                                                                         <div class="post_info_wrap info">
@@ -142,7 +142,7 @@
                                                                     <!--.post_content -->
                                                                     <div class="post_content isotope_item_content ih-item colored square effect_shift left_to_right">
                                                                         <div class="post_featured img ">
-                                                                            <img class="post-image" alt="3 Types of Long Lasting Make Up" src="images/post-4-370x224.jpg">
+                                                                            <img class="post-image" alt="3 Types of Long Lasting Make Up" src="images/post-3-370x246.jpg">
                                                                         </div>
                                                                         <!--.info -->
                                                                         <div class="post_info_wrap info">
@@ -171,7 +171,7 @@
                                                                     <!--.post_content -->
                                                                     <div class="post_content isotope_item_content ih-item colored square effect_shift left_to_right">
                                                                         <div class="post_featured img ">
-                                                                            <img class="post-image" alt="Top Wedding Bakers in Your Area" src="images/post-5-370x322.jpg">
+                                                                            <img class="post-image" alt="Top Wedding Bakers in Your Area" src="images/post-3-370x246.jpg">
                                                                         </div>
                                                                          <!--.info -->
                                                                         <div class="post_info_wrap info">
@@ -200,7 +200,7 @@
                                                                     <!--.post_content -->
                                                                     <div class="post_content isotope_item_content ih-item colored square effect_shift left_to_right">
                                                                         <div class="post_featured img ">
-                                                                            <img class="post-image" alt="Table Arrangements from A to Z" src="images/post-6-370x281.jpg">
+                                                                            <img class="post-image" alt="Table Arrangements from A to Z" src="images/post-3-370x246.jpg">
                                                                         </div>
                                                                         <!--.info -->
                                                                         <div class="post_info_wrap info">
@@ -229,7 +229,7 @@
                                                                     <!--.post_content -->
                                                                     <div class="post_content isotope_item_content ih-item colored square effect_shift left_to_right">
                                                                         <div class="post_featured img ">
-                                                                           <img class="post-image" alt="Speacial Treats for the Guests" src="images/post-7-370x310.jpg">
+                                                                           <img class="post-image" alt="Speacial Treats for the Guests" src="images/post-3-370x246.jpg">
                                                                         </div>
                                                                         <!--.info -->
                                                                         <div class="post_info_wrap info">
@@ -287,7 +287,7 @@
                                                                     <!--.post_content -->
                                                                     <div class="post_content isotope_item_content ih-item colored square effect_shift left_to_right">
                                                                         <div class="post_featured img ">
-                                                                            <img class="post-image" alt="Exotic Flowers and Elements of Decor" src="images/post-9-370x281.jpg">
+                                                                            <img class="post-image" alt="Exotic Flowers and Elements of Decor" src="images/post-3-370x246.jpg">
                                                                         </div>
                                                                         <!--.info -->
                                                                         <div class="post_info_wrap info">
@@ -296,6 +296,93 @@
                                                                                 <h4 class="post_title">Exotic Flowers and Elements of Decor</h4>
                                                                                 <div class="post_descr">
                                                                                     <p class="post_info"> <span class="post_info_item post_info_posted"> Apr 7, 2016</span> <span class="post_info_item post_info_counters">	<span class="post_counters_number">0 comments</span></span></p>
+                                                                                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc porta fringilla ullamcorper. Morbi felis orci&#8230;</p>
+                                                                                    <p class="post_buttons"></p>
+                                                                                </div>
+                                                                            </div>
+                                                                            <!--end .info-back  -->
+                                                                        </div>
+                                                                        <!--end .info -->
+                                                                    </div>
+                                                                    <!-- end .post_content -->
+                                                                </div>
+                                                                <!-- end .post_item -->
+                                                            </div>
+                                                            <!-- end .isotope_item -->
+                                                            <!--.isotope_item -->
+                                                            <div class="isotope_item isotope_item_portfolio isotope_column_3">
+                                                                <!--.post_item -->
+                                                                <div class="post_item odd">
+                                                                    <!--.post_content -->
+                                                                    <div class="post_content isotope_item_content ih-item colored square effect_shift left_to_right">
+                                                                        <div class="post_featured img ">
+                                                                           <img class="post-image" alt="Speacial Treats for the Guests" src="images/post-3-370x246.jpg">
+                                                                        </div>
+                                                                        <!--.info -->
+                                                                        <div class="post_info_wrap info">
+                                                                            <!--.info-back  -->
+                                                                            <div class="info-back">
+                                                                                <h4 class="post_title">Speacial Treats for the Guests</h4>
+                                                                                <div class="post_descr">
+                                                                                    <p class="post_info"> <span class="post_info_item post_info_posted"> Apr 22, 2016</span> <span class="post_info_item post_info_counters"><span class="post_counters_number">0 comments</span></span></p>
+                                                                                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc porta fringilla ullamcorper. Morbi felis orci&#8230;</p>
+                                                                                    <p class="post_buttons"></p>
+                                                                                </div>
+                                                                            </div>
+                                                                            <!--end .info-back  -->
+                                                                        </div>
+                                                                        <!--end .info -->
+                                                                    </div>
+                                                                    <!-- end .post_content -->
+                                                                </div>
+                                                                <!-- end .post_item -->
+                                                            </div>
+                                                            <!-- end .isotope_item -->
+                                                            <!--.isotope_item -->
+                                                            <div class="isotope_item isotope_item_portfolio isotope_column_3">
+                                                                <!--.post_item -->
+                                                                <div class="post_item even last">
+                                                                    <!--.post_content -->
+                                                                    <div class="post_content isotope_item_content ih-item colored square effect_shift left_to_right">
+                                                                        <div class="post_featured img ">
+                                                                            <img class="post-image" alt="Beautiful Landscapes for Outside Ceremonies" src="images/post-8-370x246.jpg">
+                                                                        </div>
+                                                                        <!--.info -->
+                                                                        <div class="post_info_wrap info">
+                                                                            <!--.info-back  -->
+                                                                            <div class="info-back">
+                                                                                <h4 class="post_title">Beautiful Landscapes for Outside Ceremonies</h4>
+                                                                                <div class="post_descr">
+                                                                                    <p class="post_info"> <span class="post_info_item post_info_posted"> Apr 14, 2016</span> <span class="post_info_item post_info_counters"><span class="post_counters_number">0 comments</span></span></p>
+                                                                                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc porta fringilla ullamcorper. Morbi felis orci&#8230;</p>
+                                                                                    <p class="post_buttons"></p>
+                                                                                </div>
+                                                                            </div>
+                                                                            <!--end .info-back  -->
+                                                                        </div>
+                                                                        <!--end .info -->
+                                                                    </div>
+                                                                    <!-- end .post_content -->
+                                                                </div>
+                                                                <!-- end .post_item -->
+                                                            </div>
+                                                            <!-- end .isotope_item -->
+                                                            <!--.isotope_item -->
+                                                            <div class="isotope_item isotope_item_portfolio isotope_column_3">
+                                                                <!--.post_item -->
+                                                                <div class="post_item even">
+                                                                    <!--.post_content -->
+                                                                    <div class="post_content isotope_item_content ih-item colored square effect_shift left_to_right">
+                                                                        <div class="post_featured img ">
+                                                                            <img class="post-image" alt="Exotic Flowers and Elements of Decor" src="images/post-3-370x246.jpg">
+                                                                        </div>
+                                                                        <!--.info -->
+                                                                        <div class="post_info_wrap info">
+                                                                            <!--.info-back  -->
+                                                                            <div class="info-back">
+                                                                                <h4 class="post_title">Exotic Flowers and Elements of Decor</h4>
+                                                                                <div class="post_descr">
+                                                                                    <p class="post_info"> <span class="post_info_item post_info_posted"> Apr 7, 2016</span> <span class="post_info_item post_info_counters">    <span class="post_counters_number">0 comments</span></span></p>
                                                                                     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc porta fringilla ullamcorper. Morbi felis orci&#8230;</p>
                                                                                     <p class="post_buttons"></p>
                                                                                 </div>

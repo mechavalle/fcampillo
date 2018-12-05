@@ -25,7 +25,66 @@
     <link property="stylesheet" rel='stylesheet' href='js/vendor/mediaelement/wp-mediaelement.css' type='text/css' media='all' />
     <link property="stylesheet" rel='stylesheet' href='css/responsive.css' type='text/css' media='all' /> 
     <link rel="stylesheet" href="fw/css/font-awesome.css"></link>
-</head>    
+</head>
+
+<style type="text/css">
+    .overlay 
+    {
+      position: fixed;
+      top: 0;
+      bottom: 0;
+      left: 0;
+      right: 0;
+      background: rgba(0, 0, 0, 0.7);
+      transition: opacity 500ms;
+      visibility: hidden;
+      opacity: 0;
+    }
+
+    .overlay:target 
+    {
+      visibility: visible;
+      opacity: 1;
+    }
+
+    .popup 
+    {
+      margin: 70px auto;
+      padding: 20px;
+      background: #fff;
+      border-radius: 5px;
+      width: 25%;
+      position: relative;
+      transition: all 5s ease-in-out;
+      border-style: solid;
+      border-width: 3px;
+      border-color: #cab374;
+    }
+
+    .popup .close 
+    {
+      margin-top: 0px;
+      position: absolute;
+      top: 20px;
+      right: 30px;
+      transition: all 200ms;
+      font-size: 30px;
+      font-weight: bold;
+      text-decoration: none;
+      color: #cab374;
+    }
+
+    .popup .close:hover 
+    {
+      color: #a3ad6f;
+    }
+
+    .popup .content 
+    {
+      max-height: 100%;
+      overflow: auto;
+    }
+</style>     
 
 <body class="single single-product woocommerce woocommerce-page">
 
@@ -60,24 +119,39 @@
                                                                         <div class="post_item_wrap no-pb">
                                                                             <div class="post_featured">
                                                                                 <div class="post_thumb">
-                                                                                    <img src="images/688.jpg">
+                                                                                    <img src="images/post-2-370x444.jpg">
                                                                                 </div>
                                                                             </div>
                                                                             <div class="post_content">
-                                                                                <h3><b>Wedding Candles<b></h3><span class="price"><span class="amount"><span class="woocommerce-Price-currencySymbol">$</span>45.00</span>
-                                                                                </span><a rel="nofollow" href="#" class="button add_to_cart_button">Add to cart</a> 
-                                                                             </div>
+                                                                                <h3><b>Schedule<b></h3>
+                                                                                <p style="color: #88ccca;">Si te interesa adquirir la agenda</p>
+                                                                                <p style="font-weight: lighter;">El pago se hace a CLABE interbancaria: <font style="font-weight: bold;">012180011640652634 (Bancomer)</font> o número de tarjeta: <font style="font-weight: bold;">4152 3134 1208 4563 (Bancomer)</font> a nombre de <font style="font-weight: bold;">Alejandra Estefania Tello</font>.</p> 
+                                                                                <p style="font-weight: lighter;">Si quieres hacer un depósito vía Oxxo, 7 Eleven, farmacias, etc. por favor hazlo a la tarjeta: <font style="font-weight: bold;">4915 6630 1322 2253 (Banorte)</font> a nombre de <font style="font-weight: bold;">Alejandra Estefania Tello</font>.</p> 
+                                                                                <p style="font-weight: lighter;">Si te encuentras en otro país, me puedes depósitar por <font style="font-weight: bold;">Paypal (aleestefaniafitness@gmail.com)</font>.</p>
+                                                                                <span class="price"><span class="amount"><span class="woocommerce-Price-currencySymbol">$</span>45.00</span></span> <a href="#popup1" class="sc_button sc_button_square sc_button_size_small" style="border-style: solid; border-width: 2px;">Pedir Presupuesto</a>
+                                                                                <div id="popup1" class="overlay">
+                                                                                    <div class="popup">
+                                                                                        <a class="close" href="#">&times;</a>
+                                                                                        <div class="content">
+                                                                                            <h4></h4>  
+                                                                                            
+                                                                                        </div>
+                                                                                    </div>
+                                                                                </div> 
+                                                                            </div>
                                                                         </div>
                                                                     </li>
                                                                     <li class="product has-post-thumbnail last" style="text-align: left;">
                                                                         <h4 class="widget_title" style="color: #cab374; font-family: delicious; margin-top: 0em;r">Bride2be Planner</h4>
+                                                                        <br>
                                                                         <div class="m_wrapper">
                                                                             <p style="font-weight: bold;">Este planeador te servirá de apoyo para que consideres y plasmes cada detalle en la organización de tu boda. Queremos que en este día tan especial vivas cada momento y todo salga como lo soñaste.</p>
                                                                             <p style="font-weight: bold;">Esta libreta está pensada 100% en ti, novia, que con las prisas y el estrés muchas veces olvidas detalles pequeños que pueden ser importantes para ese día.</p>
                                                                             <div class="sidebar widget_area scheme_original">
                                                                                 <div class="sidebar_inner widget_area_inner"> 
                                                                                     <ul id="menu-services-menu" class="menu">
-                                                                                        Incluye:
+                                                                                        <br>
+                                                                                        <p>Incluye:</p>
                                                                                         <li class="menu-item"><a href="#">Una sección de preguntas básicas previas a la organización.</a></li>
                                                                                         <li class="menu-item"><a href="#">Checklist de todas las cosas importantes y necesarias.</a></li>
                                                                                         <li class="menu-item"><a href="#">Un calendario atemporal para que definas tus citas con proveedores, pagos, etc.</a></li>

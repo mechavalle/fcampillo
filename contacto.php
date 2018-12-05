@@ -91,7 +91,8 @@
                                                                         <h5 class="sc_title sc_title_regular sc_align_center sc-contacts-custom-h5" style="font-family: delicious;">Riviera Maya</h5>
                                                                         <div class="m_text_column m_content_element ">
                                                                             <div class="m_wrapper">
-                                                                                <p>(800)-456-7890</p>
+                                                                                <p>123 New Lenox,
+                                                                                <br /> Chicago, IL 60606</p>
                                                                             </div>
                                                                         </div>
                                                                     </div>
