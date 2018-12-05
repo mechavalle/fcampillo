@@ -9,9 +9,9 @@
                     <a href="#"><img src="images/unnamed.jpeg" class="logo_main" alt=""></a>
                 </div> 
                 <div class="sc_socials sc_socials_type_icons sc_socials_shape_round sc_socials_size_tiny">
-                    <div class="sc_socials_item"><a href="#" class="social_icons social_facebook"><span class="icon-facebook"></span></a></div>
-                    <div class="sc_socials_item"><a href="#" class="social_icons"><span class="fa fa-pinterest-p"></span></a></div>
-                    <div class="sc_socials_item"><a href="#" class="social_icons social_instagramm"><span class="icon-instagramm"></span></a></div>
+                    <div class="sc_socials_item"><a href="https://www.facebook.com/fercampillowp" class="social_icons social_facebook"><span class="icon-facebook"></span></a></div>
+                    <div class="sc_socials_item"><a href="https://www.pinterest.com/fercampillowp" class="social_icons"><span class="fa fa-pinterest-p"></span></a></div>
+                    <div class="sc_socials_item"><a href="https://www.instagram.com/fercampillowp" class="social_icons social_instagramm"><span class="icon-instagramm"></span></a></div>
                 </div>
             </div>
         </aside>

@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
     <meta name="format-detection" content="telephone=no">
     <title>About Us - Fernanda Campillo</title>
-    <link rel="icon" type="image/x-icon" href="images/logotipo.png" />
+    <link rel="icon" type="image/x-icon" href="images/logo30x30.png" />
     <link property="stylesheet" rel='stylesheet' href='css/fontello/css/fontello.css' type='text/css' media='all' />
     <link property="stylesheet" rel='stylesheet' href='css/entypo/entypo.min.css' type='text/css' media='all' />
     <link property="stylesheet" rel='stylesheet' href='css/style.css' type='text/css' media='all' />
@@ -34,9 +34,6 @@
         ?> 
     </header>   
 
-    <div class="top_panel_title title_present">
-        <img src="images/flores.jpg">
-    </div> 
     <!--.page_content_wrap-->
     <div class="page_content_wrap page_paddings_no">
         <!--.content-->
@@ -59,7 +56,7 @@
                                                             <div class="m_wrapper">
                                                                 <p>Fernanda Campillo Wedding & Event Planner es una empresa que opera en México, eficiente y dedicada a la creación y planificación de bodas y eventos. Su gestión y realización se basan en la combinación de estrategia y creatividad, utilizando recursos y experiencia para seguir satisfaciendo clientes, destacando en elementos visuales.</p>
                                                             </div>
-                                                        </div> <a href="#" class="sc_button sc_button_square sc_button_style_filled sc_button_size_medium sc_a-us-margin-type-d">more about us</a>
+                                                        </div>
                                                     </div><div class="column-4_9 sc_column_item even">
                                                         <div class="cq-coverslider  navigation-overlay-right tinyshadow grapefruit " data-imagemaxheight="300" data-buttonbackground="" data-buttonhoverbackground="#222F46" data-contentbackground="" data-contentcolor="" data-arrowcolor="" data-arrowhovercolor="" data-delaytime="2">
                                                             <div class="cq-coverslider-area btn-large square">

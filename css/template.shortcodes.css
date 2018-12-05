@@ -3257,7 +3257,7 @@ ul.sc_list_style_iconed {
 .sc_price_block .sc_price_block_description p {
 	margin-bottom:0;
 	color: #808080;
-	font-size: medium;
+	font-size: 14pt;
 }
 .sc_price_block .sc_price_block_link {
 	height: 3em;
@@ -3266,7 +3266,9 @@ ul.sc_list_style_iconed {
 	padding-bottom: 4em;
 }
 .sc_price_block .sc_price_block_link .sc_button {
-	background-color:rgba(0,0,0, 0.2);
+	background-color:rgba(255, 255, 255);
+    border-width: 2px;
+    border-style: solid;
 }
 
 

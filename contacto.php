@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
     <meta name="format-detection" content="telephone=no">
     <title>Contacts – Fernanda Campillo</title>
-    <link rel="icon" type="image/x-icon" href="images/logotipo.png" />
+    <link rel="icon" type="image/x-icon" href="images/logo30x30.png" />
     <link property="stylesheet" rel='stylesheet' href='css/fontello/css/fontello.css' type='text/css' media='all' />
     <link property="stylesheet" rel='stylesheet' href='css/style.css' type='text/css' media='all' />
     <link property="stylesheet" rel='stylesheet' href='css/template.shortcodes.css' type='text/css' media='all' />
@@ -37,17 +37,6 @@
         ?> 
     </header>
         
-    <div class="top_panel_title title_present">
-        <div class="top_panel_title_inner title_present bg-breadcrumbs">
-            <div class="content_wrap">
-                <br>
-                <div class="breadcrumbs">
-                <br>
-                </div> 
-                <br> 
-            </div>
-        </div>
-    </div>
     <div class="page_content_wrap page_paddings_no scheme_original">
         <div class="content">
             <!-- .post_item_single .page .type-page  -->
@@ -88,7 +77,7 @@
                                                             <div class="sc_section_content_wrap">
                                                                 <div class="columns_wrap sc_columns columns_nofluid sc_columns_count_3">
                                                                     <div class="column-1_2 sc_column_item odd first sc-contacts-column-custom">
-                                                                        <span class="sc_icon icon-icon4 sc_icon_shape_round sc-contacts-transform"></span>
+                                                                        <span class="sc_icon sc_icon_shape_round sc-contacts-transform"><img src="images/cdmx.png"></span>
                                                                         <h5 class="sc_title sc_title_regular sc_align_center sc-contacts-custom-h5" style="font-family: delicious;">CDMX</h5>
                                                                         <div class="m_text_column m_content_element ">
                                                                             <div class="m_wrapper">
@@ -98,7 +87,7 @@
                                                                         </div>
                                                                         <div class="sc-contacts-emptyspace" ></div>
                                                                     </div><div class="column-1_2 sc_column_item even sc-contacts-column-custom">
-                                                                        <span class="sc_icon icon-icon5 sc_icon_shape_round sc-contacts-transform"></span>
+                                                                        <span class="sc_icon sc_icon_shape_round sc-contacts-transform"><img src="images/cancun.png"></span>
                                                                         <h5 class="sc_title sc_title_regular sc_align_center sc-contacts-custom-h5" style="font-family: delicious;">Riviera Maya</h5>
                                                                         <div class="m_text_column m_content_element ">
                                                                             <div class="m_wrapper">

@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
     <meta name="format-detection" content="telephone=no">
     <title>Services – Fernanda Campillo</title>
-    <link rel="icon" type="image/x-icon" href="images/logotipo.png"/>
+    <link rel="icon" type="image/x-icon" href="images/logo30x30.png"/>
     <link property="stylesheet" rel='stylesheet' href='css/fontello/css/fontello.css' type='text/css' media='all' />
     <link property="stylesheet" rel='stylesheet' href='css/style.css' type='text/css' media='all' />
     <link property="stylesheet" rel='stylesheet' href='css/template.shortcodes.css' type='text/css' media='all' />
@@ -30,18 +30,7 @@
             include("navbar.php");
         ?> 
     </header>
-  
-    <div class="top_panel_title title_present" style="margin-bottom: 100px;">
-        <div class="top_panel_title_inner title_present bg-breadcrumbs">
-            <div class="content_wrap">
-                <br>
-                <div class="breadcrumbs">
-                <br>
-                </div>
-                <br>	
-            </div>
-        </div>
-    </div>
+    <br>
 	<!--.page_content_wrap -->		
 	<div class="page_content_wrap page_paddings_yes">
         <!--.content-->
@@ -67,66 +56,66 @@
                                                             <div class="sc_services_item odd first">
                                                                 <div class="sc_services_item_featured post_featured">
                                                                     <div class="post_thumb" data-image="images/service-6.jpg" data-title="Bouquets &#038; Style">
-                                                                        <a class="hover_icon hover_icon_link" href="swedding.php"><img class="post-image" alt="Bouquets &#038; Style" src="images/service-6-370x240.jpg"></a>
+                                                                        <a class="hover_icon hover_icon_view" href="images/WEDDINGPLANNING.jpg"><img class="post-image" alt="Bouquets &#038; Style" src="images/WEDDINGPLANNING.jpg"></a>
                                                                     </div>
                                                                 </div>
                                                                 <div class="sc_services_item_content">
-                                                                    <h4 class="sc_services_item_title"><a href="swedding.php" style="font-family: delicious;">Wedding planning</a></h4>
+                                                                    <h4 class="sc_services_item_title"><a href="#" style="font-family: delicious;">Wedding planning</a></h4>
                                                                 </div>
                                                             </div>
                                                         </div><div class="column-1_3 column_padding_bottom">
                                                             <div class="sc_services_item even">
                                                                 <div class="sc_services_item_featured post_featured">
                                                                     <div class="post_thumb" data-image="images/service-5.jpg" data-title="Wedding Planning">
-                                                                        <a class="hover_icon hover_icon_link" href="sevent.php"><img class="post-image" alt="Wedding Planning" src="images/service-5-370x240.jpg"></a>
+                                                                        <a class="hover_icon hover_icon_view" href="images/EVENTPLANNING.jpg"><img class="post-image" alt="Wedding Planning" src="images/EVENTPLANNING.jpg"></a>
                                                                     </div>
                                                                 </div>
                                                                 <div class="sc_services_item_content">
-                                                                    <h4 class="sc_services_item_title"><a href="sevent.php" style="font-family: delicious;">Event planning</a></h4>
+                                                                    <h4 class="sc_services_item_title"><a href="#" style="font-family: delicious;">Event planning</a></h4>
                                                                 </div>
                                                             </div>
                                                         </div><div class="column-1_3 column_padding_bottom">
                                                             <div class="sc_services_item odd">
                                                                 <div class="sc_services_item_featured post_featured">
                                                                     <div class="post_thumb" data-image="images/service-4.jpg" data-title="Catering &#038; Decoration">
-                                                                        <a class="hover_icon hover_icon_link" href="sdecoracion.php"><img class="post-image" alt="Catering &#038; Decoration" src="images/service-4-370x240.jpg"></a>
+                                                                        <a class="hover_icon hover_icon_view" href="images/DECORACIONYAMBIENTACION.jpg"><img class="post-image" alt="Catering &#038; Decoration" src="images/DECORACIONYAMBIENTACION.jpg"></a>
                                                                     </div>
                                                                 </div>
                                                                 <div class="sc_services_item_content">
-                                                                    <h4 class="sc_services_item_title"><a href="sdecoracion.php" style="font-family: delicious;">Decoración y Ambientación</a></h4>
+                                                                    <h4 class="sc_services_item_title"><a href="#" style="font-family: delicious;">Decoración y Ambientación</a></h4>
                                                                 </div>
                                                             </div>
                                                         </div><div class="column-1_3 column_padding_bottom">
                                                             <div class="sc_services_item even">
                                                                 <div class="sc_services_item_featured post_featured">
                                                                     <div class="post_thumb" data-image="images/service-3.jpg" data-title="Gift Ideas">
-                                                                        <a class="hover_icon hover_icon_link" href="smobiliario.php"><img class="post-image" alt="Gift Ideas" src="images/service-3-370x240.jpg"></a>
+                                                                        <a class="hover_icon hover_icon_view" href="images/MOBILIARIOEILUMINACION.jpg"><img class="post-image" alt="Gift Ideas" src="images/MOBILIARIOEILUMINACION.jpg"></a>
                                                                     </div>
                                                                 </div>
                                                                 <div class="sc_services_item_content">
-                                                                    <h4 class="sc_services_item_title"><a href="smobiliario.php" style="font-family: delicious;">Mobiliario e Iluminación</a></h4>
+                                                                    <h4 class="sc_services_item_title"><a href="#" style="font-family: delicious;">Mobiliario e Iluminación</a></h4>
                                                                 </div>
                                                             </div>
                                                         </div><div class="column-1_3 column_padding_bottom">
                                                             <div class="sc_services_item odd">
                                                                 <div class="sc_services_item_featured post_featured">
                                                                     <div class="post_thumb" data-image="images/service-2.jpg" data-title="Ceremony Ideas">
-                                                                        <a class="hover_icon hover_icon_link" href="sbanquetes.php"><img class="post-image" alt="Ceremony Ideas" src="images/service-2-370x240.jpg"></a>
+                                                                       <a class="hover_icon hover_icon_view" href="images/BANQUETESYMESASDEDULCES.jpg"><img class="post-image" alt="Ceremony Ideas" src="images/BANQUETESYMESASDEDULCES.jpg"></a>
                                                                     </div>
                                                                 </div>
                                                                 <div class="sc_services_item_content">
-                                                                    <h4 class="sc_services_item_title"><a href="sbanquetes.php" style="font-family: delicious;">Banquetes y Mesas de dulces</a></h4>
+                                                                    <h4 class="sc_services_item_title"><a href="#" style="font-family: delicious;">Banquetes y Mesas de dulces</a></h4>
                                                                 </div>
                                                             </div>
                                                         </div><div class="column-1_3 column_padding_bottom">
                                                             <div class="sc_services_item even">
                                                                 <div class="sc_services_item_featured post_featured">
                                                                     <div class="post_thumb" data-image="images/service-1.jpg" data-title="Beach Weddings">
-                                                                        <a class="hover_icon hover_icon_link" href="sbodasdestino.php"><img class="post-image" alt="Beach Weddings" src="images/service-1-370x240.jpg"></a>
+                                                                        <a class="hover_icon hover_icon_view" href="images/service-1.jpg"><img class="post-image" alt="Beach Weddings" src="images/BODASDESTINO.jpg"></a>
                                                                     </div>
                                                                 </div>
                                                                 <div class="sc_services_item_content">
-                                                                    <h4 class="sc_services_item_title"><a href="sbodasdestino.php" style="font-family: delicious;">Bodas destino</a></h4>
+                                                                    <h4 class="sc_services_item_title"><a href="#" style="font-family: delicious;">Bodas destino</a></h4>
                                                                 </div>
                                                             </div>
                                                         </div>

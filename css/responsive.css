@@ -47,11 +47,11 @@
 	
 	/* Top Panel */
 	.top_panel_style_1 .contact_field {
-		text-align:center;
+		text-align:left;
 		margin-top:0.7em;
 	}
 	.top_panel_style_1 .contact_field .contact_icon {
-		float: none;
+		float: left;
 		margin-right:auto;
 		margin-left:0px;
 		margin-bottom:0.3em;

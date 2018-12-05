@@ -113,7 +113,7 @@ h6{
 }
 
 dt, b, strong {	font-weight: 500; }
-p, ul, ol, dl, blockquote, address { margin-bottom: 1.5em; }
+p, ul, ol, dl, blockquote, address { margin-bottom: 1.0em; }
 li > ol, li > ul { margin-bottom:0; }
 ul>li, ol>li, dl>dd { margin-bottom:0.5em;}
 li>ul, li>ol, dd>dl { margin-top:0.5em;}
@@ -1328,7 +1328,7 @@ fieldset legend {
 .column-2_5, .column-4_10														{ width:40%; }
 .column-3_5, .column-6_10														{ width:60%; }
 .column-4_5, .column-8_10														{ width:80%; }
-.column-1_6, .column-2_12														{ width:16.66666667%; }
+.column-1_6, .column-2_12														{ width:50%; }
 .column-5_6, .column-10_12														{ width:83.33333333%; }
 .column-1_7																		{ width:14.28571429%; }
 .column-2_7																		{ width:28.57142857%; }
@@ -1935,7 +1935,7 @@ body:not(.top_panel_fixed) .top_panel_position_over .top_panel_bottom {
 }
 .top_panel_wrap .top_panel_middle .columns_wrap{
 	margin-right: 0;
-	margin-left: 600px;
+	margin-left: 850px;
 	display: flex;
 	display: -webkit-flex;
 	align-items: center;
@@ -2841,9 +2841,9 @@ li.opened > a > .open_child_menu:before {
 
 .top_panel_middle .contact_icon {
 	float:left;
-	width: 3.2em;
-	height: 3.2em;
-	line-height: 3.2em;
+	width: 2.2em;
+	height: 2.2em;
+	line-height: 2.2em;
 	margin-right: 1em;
 	text-align:center;
 	-webkit-border-radius: 50%;

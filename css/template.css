@@ -54,7 +54,7 @@ h5 {
   margin-bottom: 0em;
 }
 h6 {
-  font-family: "PTSerif";
+  font-family: "bariol";
   font-size: 0.657em;
   line-height: 1.25em;
   font-weight: 700;
@@ -64,7 +64,7 @@ h6 {
 }
 p {
   font-size: 15px;
-  line-height: 1.5em;
+  line-height: 1.0em;
 }
 .scheme_original b,
 .scheme_original strong {
@@ -85,13 +85,12 @@ p {
 .scheme_original h6,
 .scheme_original h6 a {
   color: #808080;
-  font-size: small;
 }
 .scheme_original a {
-  color: #a3ad6f;
+  color: #cbb9a6;
 }
 .scheme_original a:hover {
-  color: #cbb9a6;
+  color: #a3ad6f;
 }
 .scheme_original blockquote:before {
   color: rgba(66,68,67,0.1);
@@ -2635,11 +2634,11 @@ button,
   background-color: #a3ad6f;
 }
 .scheme_original .sc_button.sc_button_style_hovered {
-  background-color: #cab374;
+  background-color: #cab37429;
 }
 .scheme_original .sc_button.sc_button_style_hovered {
-  color: #ffffff;
-  font-size: x-small;
+  color: #cab374;
+  font-size: smaller;
 }
 .scheme_original .sc_button.sc_button_style_hovered:hover {
   background-color: #a3ad6f;

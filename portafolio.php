@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
     <meta name="format-detection" content="telephone=no">
     <title>Portfolio – Fernanda Campillo</title>
-    <link rel="icon" type="image/x-icon" href="images/logotipo.png"/>
+    <link rel="icon" type="image/x-icon" href="images/logo30x30.png"/>
     <link property="stylesheet" rel='stylesheet' href='css/fontello/css/fontello.css' type='text/css' media='all' />
     <link property="stylesheet" rel='stylesheet' href='css/style.css' type='text/css' media='all' />
     <link property="stylesheet" rel='stylesheet' href='css/template.shortcodes.css' type='text/css' media='all' />
@@ -30,18 +30,7 @@
             include("navbar.php");
         ?> 
     </header>
-  
-    <div class="top_panel_title title_present" style="margin-bottom: 100px;">
-        <div class="top_panel_title_inner title_present bg-breadcrumbs">
-            <div class="content_wrap">
-                <br>
-                <div class="breadcrumbs">
-                <br>
-                </div>
-                <br>    
-            </div>
-        </div>
-    </div>
+    <br>
     <div class="page_content_wrap page_paddings_yes">
         <div class="sc_services_wrap">
             <div class="sc_services sc_services_style_services-1 sc_services_type_images  margin_top_tiny- margin_bottom_large full-width">
@@ -67,16 +56,16 @@
                                                                     <!-- .post_content -->
                                                                     <div class="post_content isotope_item_content ih-item colored square effect_shift left_to_right">
                                                                         <div class="post_featured img ">
-                                                                            <a href="blog-standart-post.html"><img class="post-image"  alt="The First Day of the Rest of Their Lives" src="images/post-1-370x284.jpg"></a>
+                                                                            <img class="post-image"  alt="The First Day of the Rest of Their Lives" src="images/post-1-370x284.jpg">
                                                                         </div>
                                                                         <!--.info -->
                                                                         <div class="post_info_wrap info">
                                                                             <!--.info-back  -->
                                                                             <div class="info-back">
-                                                                                <h4 class="post_title"><a href="blog-standart-post.html">The First Day of the Rest of Their Lives</a></h4>
+                                                                                <h4 class="post_title">The First Day of the Rest of Their Lives</h4>
                                                                                 <div class="post_descr">
-                                                                                    <p class="post_info"> <span class="post_info_item post_info_posted"> <a href="#" class="post_info_date">Aug 15, 2016</a></span> <span class="post_info_item post_info_counters"><a class="post_counters_item post_counters_comments" title="Comments - 0" href="#"><span class="post_counters_number">0 comments</span></a></span></p>
-                                                                                    <p><a href="blog-standart-post.html">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc porta fringilla ullamcorper. Morbi felis orci&#8230;</a></p>
+                                                                                    <p class="post_info"> <span class="post_info_item post_info_posted">Aug 15, 2016</span> <span class="post_info_item post_info_counters"><a class="post_counters_item post_counters_comments" title="Comments - 0" href="#"><span class="post_counters_number">0 comments</span></a></span></p>
+                                                                                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc porta fringilla ullamcorper. Morbi felis orci&#8230;</p>
                                                                                     <p class="post_buttons"></p>
                                                                                 </div>
                                                                             </div>
@@ -95,16 +84,16 @@
                                                                    <!--.post_content -->
                                                                     <div class="post_content isotope_item_content ih-item colored square effect_shift left_to_right">
                                                                         <div class="post_featured img ">
-                                                                            <a href="blog-standart-post.html"><img class="post-image"  alt="Colors and Textures for Summer Weddings" src="images/post-2-370x444.jpg"></a>
+                                                                            <img class="post-image"  alt="Colors and Textures for Summer Weddings" src="images/post-2-370x444.jpg">
                                                                         </div>
                                                                         <!--.info -->
                                                                         <div class="post_info_wrap info">
                                                                             <!--.info-back  -->
                                                                             <div class="info-back">
-                                                                                <h4 class="post_title"><a href="blog-standart-post.html">Colors and Textures for Summer Weddings</a></h4>
+                                                                                <h4 class="post_title">Colors and Textures for Summer Weddings</h4>
                                                                                 <div class="post_descr">
-                                                                                    <p class="post_info"> <span class="post_info_item post_info_posted"> <a href="#" class="post_info_date">Jun 21, 2016</a></span> <span class="post_info_item post_info_counters"><a class="post_counters_item post_counters_comments" title="Comments - 0" href="#"><span class="post_counters_number">0 comments</span></a></span></p>
-                                                                                    <p><a href="blog-standart-post.html">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc porta fringilla ullamcorper. Morbi felis orci&#8230;</a></p>
+                                                                                    <p class="post_info"> <span class="post_info_item post_info_posted">Jun 21, 2016</span> <span class="post_info_item post_info_counters"><span class="post_counters_number">0 comments</span></span></p>
+                                                                                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc porta fringilla ullamcorper. Morbi felis orci&#8230;</p>
                                                                                     <p class="post_buttons"></p>
                                                                                 </div>
                                                                             </div>
@@ -124,16 +113,16 @@
                                                                     <!--.post_content -->
                                                                     <div class="post_content isotope_item_content ih-item colored square effect_shift left_to_right">
                                                                         <div class="post_featured img ">
-                                                                            <a href="blog-standart-post.html"><img class="post-image" alt="Happily Ever after or Yes! I Will" src="images/post-3-370x246.jpg"></a>
+                                                                            <img class="post-image" alt="Happily Ever after or Yes! I Will" src="images/post-3-370x246.jpg">
                                                                         </div>
                                                                         <!--.info -->
                                                                         <div class="post_info_wrap info">
                                                                             <!--.info-back  -->
                                                                             <div class="info-back">
-                                                                                <h4 class="post_title"><a href="blog-standart-post.html">Happily Ever after or Yes! I Will</a></h4>
+                                                                                <h4 class="post_title">Happily Ever after or Yes! I Will</h4>
                                                                                 <div class="post_descr">
-                                                                                    <p class="post_info"> <span class="post_info_item post_info_posted"> <a href="#" class="post_info_date">Jun 15, 2016</a></span> <span class="post_info_item post_info_counters"><a class="post_counters_item post_counters_comments" title="Comments - 0" href="#"><span class="post_counters_number">0 comments</span></a></span></p>
-                                                                                    <p><a href="blog-standart-post.html">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc porta fringilla ullamcorper. Morbi felis orci&#8230;</a></p>
+                                                                                    <p class="post_info"> <span class="post_info_item post_info_posted"> Jun 15, 2016</span> <span class="post_info_item post_info_counters"><span class="post_counters_number">0 comments</span></span></p>
+                                                                                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc porta fringilla ullamcorper. Morbi felis orci&#8230;</p>
                                                                                     <p class="post_buttons"></p>
                                                                                 </div>
                                                                             </div>
@@ -153,16 +142,16 @@
                                                                     <!--.post_content -->
                                                                     <div class="post_content isotope_item_content ih-item colored square effect_shift left_to_right">
                                                                         <div class="post_featured img ">
-                                                                            <a href="blog-standart-post.html"><img class="post-image" alt="3 Types of Long Lasting Make Up" src="images/post-4-370x224.jpg"></a>
+                                                                            <img class="post-image" alt="3 Types of Long Lasting Make Up" src="images/post-4-370x224.jpg">
                                                                         </div>
                                                                         <!--.info -->
                                                                         <div class="post_info_wrap info">
                                                                             <!--.info-back  -->
                                                                             <div class="info-back">
-                                                                                <h4 class="post_title"><a href="blog-standart-post.html">3 Types of Long Lasting Make Up</a></h4>
+                                                                                <h4 class="post_title">3 Types of Long Lasting Make Up</h4>
                                                                                 <div class="post_descr">
-                                                                                    <p class="post_info"> <span class="post_info_item post_info_posted"> <a href="#" class="post_info_date">Jun 4, 2016</a></span> <span class="post_info_item post_info_counters">	<a class="post_counters_item post_counters_comments" title="Comments - 0" href="#"><span class="post_counters_number">0 comments</span></a></span></p>
-                                                                                    <p><a href="blog-standart-post.html">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc porta fringilla ullamcorper. Morbi felis orci&#8230;</a></p>
+                                                                                    <p class="post_info"> <span class="post_info_item post_info_posted"> Jun 4, 2016</span> <span class="post_info_item post_info_counters">	<span class="post_counters_number">0 comments</span></span></p>
+                                                                                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc porta fringilla ullamcorper. Morbi felis orci&#8230;</p>
                                                                                     <p class="post_buttons"></p>
                                                                                 </div>
                                                                             </div>
@@ -182,16 +171,16 @@
                                                                     <!--.post_content -->
                                                                     <div class="post_content isotope_item_content ih-item colored square effect_shift left_to_right">
                                                                         <div class="post_featured img ">
-                                                                            <a href="blog-standart-post.html"><img class="post-image" alt="Top Wedding Bakers in Your Area" src="images/post-5-370x322.jpg"></a>
+                                                                            <img class="post-image" alt="Top Wedding Bakers in Your Area" src="images/post-5-370x322.jpg">
                                                                         </div>
                                                                          <!--.info -->
                                                                         <div class="post_info_wrap info">
                                                                             <!--.info-back  -->
                                                                             <div class="info-back">
-                                                                                <h4 class="post_title"><a href="blog-standart-post.html">Top Wedding Bakers in Your Area</a></h4>
+                                                                                <h4 class="post_title">Top Wedding Bakers in Your Area</h4>
                                                                                 <div class="post_descr">
-                                                                                    <p class="post_info"> <span class="post_info_item post_info_posted"> <a href="#" class="post_info_date">May 30, 2016</a></span> <span class="post_info_item post_info_counters"><a class="post_counters_item post_counters_comments" title="Comments - 0" href="#"><span class="post_counters_number">0 comments</span></a></span></p>
-                                                                                    <p><a href="blog-standart-post.html">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc porta fringilla ullamcorper. Morbi felis orci&#8230;</a></p>
+                                                                                    <p class="post_info"> <span class="post_info_item post_info_posted"> May 30, 2016</span> <span class="post_info_item post_info_counters"><span class="post_counters_number">0 comments</span></span></p>
+                                                                                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc porta fringilla ullamcorper. Morbi felis orci&#8230;</p>
                                                                                     <p class="post_buttons"></p>
                                                                                 </div>
                                                                             </div>
@@ -211,16 +200,16 @@
                                                                     <!--.post_content -->
                                                                     <div class="post_content isotope_item_content ih-item colored square effect_shift left_to_right">
                                                                         <div class="post_featured img ">
-                                                                            <a href="blog-standart-post.html"><img class="post-image" alt="Table Arrangements from A to Z" src="images/post-6-370x281.jpg"></a>
+                                                                            <img class="post-image" alt="Table Arrangements from A to Z" src="images/post-6-370x281.jpg">
                                                                         </div>
                                                                         <!--.info -->
                                                                         <div class="post_info_wrap info">
                                                                             <!--.info-back  -->
                                                                             <div class="info-back">
-                                                                                <h4 class="post_title"><a href="blog-standart-post.html">Table Arrangements from A to Z</a></h4>
+                                                                                <h4 class="post_title">Table Arrangements from A to Z</h4>
                                                                                 <div class="post_descr">
-                                                                                    <p class="post_info"> <span class="post_info_item post_info_posted"> <a href="#" class="post_info_date">May 20, 2016</a></span> <span class="post_info_item post_info_counters"><a class="post_counters_item post_counters_comments" title="Comments - 0" href="#"><span class="post_counters_number">0 comments</span></a></span></p>
-                                                                                    <p><a href="blog-standart-post.html">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc porta fringilla ullamcorper. Morbi felis orci&#8230;</a></p>
+                                                                                    <p class="post_info"> <span class="post_info_item post_info_posted"> May 20, 2016</span> <span class="post_info_item post_info_counters"><span class="post_counters_number">0 comments</span></span></p>
+                                                                                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc porta fringilla ullamcorper. Morbi felis orci&#8230;</p>
                                                                                     <p class="post_buttons"></p>
                                                                                 </div>
                                                                             </div>
@@ -240,16 +229,16 @@
                                                                     <!--.post_content -->
                                                                     <div class="post_content isotope_item_content ih-item colored square effect_shift left_to_right">
                                                                         <div class="post_featured img ">
-                                                                            <a href="blog-standart-post.html"><img class="post-image" alt="Speacial Treats for the Guests" src="images/post-7-370x310.jpg"></a>
+                                                                           <img class="post-image" alt="Speacial Treats for the Guests" src="images/post-7-370x310.jpg">
                                                                         </div>
                                                                         <!--.info -->
                                                                         <div class="post_info_wrap info">
                                                                             <!--.info-back  -->
                                                                             <div class="info-back">
-                                                                                <h4 class="post_title"><a href="blog-standart-post.html">Speacial Treats for the Guests</a></h4>
+                                                                                <h4 class="post_title">Speacial Treats for the Guests</h4>
                                                                                 <div class="post_descr">
-                                                                                    <p class="post_info"> <span class="post_info_item post_info_posted"> <a href="#" class="post_info_date">Apr 22, 2016</a></span> <span class="post_info_item post_info_counters"><a class="post_counters_item post_counters_comments" title="Comments - 0" href="#"><span class="post_counters_number">0 comments</span></a></span></p>
-                                                                                    <p><a href="blog-standart-post.html">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc porta fringilla ullamcorper. Morbi felis orci&#8230;</a></p>
+                                                                                    <p class="post_info"> <span class="post_info_item post_info_posted"> Apr 22, 2016</span> <span class="post_info_item post_info_counters"><span class="post_counters_number">0 comments</span></span></p>
+                                                                                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc porta fringilla ullamcorper. Morbi felis orci&#8230;</p>
                                                                                     <p class="post_buttons"></p>
                                                                                 </div>
                                                                             </div>
@@ -269,16 +258,16 @@
                                                                     <!--.post_content -->
                                                                     <div class="post_content isotope_item_content ih-item colored square effect_shift left_to_right">
                                                                         <div class="post_featured img ">
-                                                                            <a href="blog-standart-post.html"><img class="post-image" alt="Beautiful Landscapes for Outside Ceremonies" src="images/post-8-370x246.jpg"></a>
+                                                                            <img class="post-image" alt="Beautiful Landscapes for Outside Ceremonies" src="images/post-8-370x246.jpg">
                                                                         </div>
                                                                         <!--.info -->
                                                                         <div class="post_info_wrap info">
                                                                             <!--.info-back  -->
                                                                             <div class="info-back">
-                                                                                <h4 class="post_title"><a href="blog-standart-post.html">Beautiful Landscapes for Outside Ceremonies</a></h4>
+                                                                                <h4 class="post_title">Beautiful Landscapes for Outside Ceremonies</h4>
                                                                                 <div class="post_descr">
-                                                                                    <p class="post_info"> <span class="post_info_item post_info_posted"> <a href="#" class="post_info_date">Apr 14, 2016</a></span> <span class="post_info_item post_info_counters"><a class="post_counters_item post_counters_comments" title="Comments - 0" href="#"><span class="post_counters_number">0 comments</span></a></span></p>
-                                                                                    <p><a href="blog-standart-post.html">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc porta fringilla ullamcorper. Morbi felis orci&#8230;</a></p>
+                                                                                    <p class="post_info"> <span class="post_info_item post_info_posted"> Apr 14, 2016</span> <span class="post_info_item post_info_counters"><span class="post_counters_number">0 comments</span></span></p>
+                                                                                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc porta fringilla ullamcorper. Morbi felis orci&#8230;</p>
                                                                                     <p class="post_buttons"></p>
                                                                                 </div>
                                                                             </div>
@@ -298,16 +287,16 @@
                                                                     <!--.post_content -->
                                                                     <div class="post_content isotope_item_content ih-item colored square effect_shift left_to_right">
                                                                         <div class="post_featured img ">
-                                                                            <a href="blog-standart-post.html"><img class="post-image" alt="Exotic Flowers and Elements of Decor" src="images/post-9-370x281.jpg"></a>
+                                                                            <img class="post-image" alt="Exotic Flowers and Elements of Decor" src="images/post-9-370x281.jpg">
                                                                         </div>
                                                                         <!--.info -->
                                                                         <div class="post_info_wrap info">
                                                                             <!--.info-back  -->
                                                                             <div class="info-back">
-                                                                                <h4 class="post_title"><a href="blog-standart-post.html">Exotic Flowers and Elements of Decor</a></h4>
+                                                                                <h4 class="post_title">Exotic Flowers and Elements of Decor</h4>
                                                                                 <div class="post_descr">
-                                                                                    <p class="post_info"> <span class="post_info_item post_info_posted"> <a href="#" class="post_info_date">Apr 7, 2016</a></span> <span class="post_info_item post_info_counters">	<a class="post_counters_item post_counters_comments" title="Comments - 0" href="#"><span class="post_counters_number">0 comments</span></a></span></p>
-                                                                                    <p><a href="blog-standart-post.html">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc porta fringilla ullamcorper. Morbi felis orci&#8230;</a></p>
+                                                                                    <p class="post_info"> <span class="post_info_item post_info_posted"> Apr 7, 2016</span> <span class="post_info_item post_info_counters">	<span class="post_counters_number">0 comments</span></span></p>
+                                                                                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc porta fringilla ullamcorper. Morbi felis orci&#8230;</p>
                                                                                     <p class="post_buttons"></p>
                                                                                 </div>
                                                                             </div>
