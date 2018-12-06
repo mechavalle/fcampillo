@@ -77,17 +77,17 @@
                                         <div class="sc_section_content_wrap">
                                             <div class="columns_wrap sc_columns columns_nofluid sc_columns_count_3">
                                                 <div class="column-1_3 sc_column_item odd first">
-                                                    <div class="sc_price_block sc_price_block_style_1" style="height: 1050px;">
+                                                    <div class="sc_price_block sc_price_block_style_1" style="height: 1059px;">
                                                         <div class="featured_image"><img src="images/FULLSERVICEGUIDE.jpg"></div>
                                                         <div class="sc_price_block_title"><h6 style="font-size: 14pt;">FULL SERVICE GUIDE</h6></div>
-                                                        <div class="sc_price_block_description" style="font-size: 14pt;">
+                                                        <div class="sc_price_block_description" style="font-size: 16px;">
                                                             <ul>
                                                                 <li>¡Estamos aquí para ti!</li>
                                                             </ul>
                                                         </div>
-                                                        <div class="sc_price_block_money" style="margin-left: 1.0em; margin-right: 1.0em;">
+                                                        <div class="sc_price_block_money" style="margin-left: 2.0em; margin-right: 2.0em;">
                                                             <div class="sc_price">
-                                                                <p>Sabemos que organizar cualquier tipo de evento no es fácil, es por eso que te ofrecemos este paquete, para que aclares todas tus dudas y tu evento sea un éxito.</p>
+                                                                <p align="left">Sabemos que organizar cualquier tipo de evento no es fácil, es por eso que te ofrecemos este paquete, para que aclares todas tus dudas y tu evento sea un éxito.</p>
                                                             </div> 
                                                             <p align="left">Consiste en:</p>
                                                             <p align="left">•   Una primera entrevista en donde se le explicará al cliente nuestros servicios y nos hablarán de sus necesidades. Aclararemos dudas y nos centraremos en el presupuesto.</p>
@@ -102,17 +102,17 @@
                                                 </div><div class="column-1_3 sc_column_item even">
                                                     <div class="sc_price_block sc_price_block_style_1">
                                                         <div class="featured_image"><img src="images/DAY-OFCORDINATION.jpg"></div>
-                                                        <div class="sc_price_block_title"><H6 style="font-size: 14pt;">DAY-OF COORDINATION</H6></div>
+                                                        <div class="sc_price_block_title"><H6 style="font-size: 16px;">DAY-OF COORDINATION</H6></div>
                                                         <div class="sc_price_block_description">
                                                             <ul>
                                                                 <li>¡Tú planeas, nosotros <br>lo ejecutamos!</li>
                                                             </ul>
                                                         </div>
-                                                        <div class="sc_price_block_money" style="margin-left: 1.0em; margin-right: 1.0em;">
+                                                        <div class="sc_price_block_money" style="margin-left: 2.0em; margin-right: 2.0em;">
                                                             <div class="sc_price">
-                                                                <p>¿Ya tienes todo organizado y no sabes cómo hacerte cargo de todo el día del evento? Pues este es el servicio que necesitarás… Con un mes de anticipación nos podrás contactar y nos encargaremos de coordinar todos los servicios y, por supuesto estaremos ese día encargándonos de que todo salga tal y como lo soñaste.</p>
+                                                                <p align="left">¿Ya tienes todo organizado y no sabes cómo hacerte cargo de todo el día del evento? Pues este es el servicio que necesitarás… Con un mes de anticipación nos podrás contactar y nos encargaremos de coordinar todos los servicios y, por supuesto estaremos ese día encargándonos de que todo salga tal y como lo soñaste.</p>
                                                             </div>  
-                                                            <p>¿Cómo funciona?</p>
+                                                            <p align="left">¿Cómo funciona?</p>
                                                             <p align="left">Con un mes de anticipación nos explicarás qué servicios tienes contratados, de qué va tu evento, fecha, lugar, lista y contratos con proveedores, etc. todo lo necesario para que nosotros podamos tener una mejor coordinación el día del evento. Al momento de contratar el servicio agendaremos dos citas: la primera y otra una semana antes del evento.</p> 
                                                             <p align="left">Se realizará un scouting del lugar para visualizar los espacios y la decoración.</p> 
                                                             <p align="left">•   Confirmación de planos y asignación de asientos/lugares.</p> 
@@ -127,9 +127,9 @@
                                                         </div>
                                                     </div>
                                                 </div><div class="column-1_3 sc_column_item odd">
-                                                    <div class="sc_price_block sc_price_block_style_1" style="height: 1050px;">
+                                                    <div class="sc_price_block sc_price_block_style_1" style="height: 1059px;">
                                                         <div class="featured_image"><img alt="Full Package" src="images/COORDINATIONPACKAGE.jpg"></div>
-                                                        <div class="sc_price_block_title"><h6 style="font-size: 14pt;">COORDINATION PACKAGE</h6></div>
+                                                        <div class="sc_price_block_title"><h6 style="font-size: 16px;">COORDINATION PACKAGE</h6></div>
                                                         <div class="sc_price_block_description">
                                                             <ul>
                                                                 <li>¡Relájate y deja todo en <br>nuestras manos!</li>
@@ -137,12 +137,12 @@
                                                         </div>
                                                         <div class="sc_price_block_money" style="margin-left: 1.0em; margin-right: 1.0em;">
                                                             <div class="sc_price">
-                                                                <p>Sabemos que cada evento es único y es por eso que siempre buscaremos conservar tu esencia y personalidad. Normalmente tenemos un año o quizás menos para organizar una boda o cualquier evento y si a esto le restamos las jornadas de trabajo ¿de cuánto tiempo dispones para que salga de la mejor manera?</p> 
-                                                                <p>Nos encargaremos de planificar, organizar y coordinar ese gran día de principio a fin para entregarte un evento único y distintivo.</p> 
-                                                                <p>Le daremos forma a ese gran día y pondremos en marcha todas tus ideas.</p>
+                                                                <p align="left">Sabemos que cada evento es único y es por eso que siempre buscaremos conservar tu esencia y personalidad. Normalmente tenemos un año o quizás menos para organizar una boda o cualquier evento y si a esto le restamos las jornadas de trabajo ¿de cuánto tiempo dispones para que salga de la mejor manera?</p> 
+                                                                <p align="left">Nos encargaremos de planificar, organizar y coordinar ese gran día de principio a fin para entregarte un evento único y distintivo.</p> 
+                                                                <p align="left">Le daremos forma a ese gran día y pondremos en marcha todas tus ideas.</p>
                                                             </div>
                                                         </div>
-                                                        <div class="sc_price_block_link" style="margin-top: 330px;">
+                                                        <div class="sc_price_block_link" style="margin-top: 342px;">
                                                             <a href="presupuesto.php" class="sc_button sc_button_square sc_button_size_small">Pedir Presupuesto</a>
                                                         </div>
                                                         </div>
