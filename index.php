@@ -77,12 +77,13 @@
                                         <div class="sc_section_content_wrap">
                                             <div class="columns_wrap sc_columns columns_nofluid sc_columns_count_3">
                                                 <div class="column-1_3 sc_column_item odd first">
-                                                    <div class="sc_price_block sc_price_block_style_1" style="height: 1059px;">
+                                                    <div class="sc_price_block sc_price_block_style_1" style="height: 1195px;">
                                                         <div class="featured_image"><img src="images/FULLSERVICEGUIDE.jpg"></div>
-                                                        <div class="sc_price_block_title"><h6 style="font-size: 14pt;">FULL SERVICE GUIDE</h6></div>
-                                                        <div class="sc_price_block_description" style="font-size: 16px;">
+                                                        <div class="sc_price_block_title"><h6 style="font-size: 16px;">FULL SERVICE GUIDE</h6></div>
+                                                        <div class="sc_price_block_description">
                                                             <ul>
-                                                                <li>¡Estamos aquí para ti!</li>
+                                                                <li style="font-size: 16px;">¡Estamos aquí para ti!</li>
+                                                                <br>
                                                             </ul>
                                                         </div>
                                                         <div class="sc_price_block_money" style="margin-left: 2.0em; margin-right: 2.0em;">
@@ -95,7 +96,7 @@
                                                             <p align="left">•   Contacto ilimitado por teléfono y correo electrónico desde el momento de la reserva para recibir consejos, preguntas y orientación.</p>
                                                             <p align="left">•   Investigar y recomendar todas las opciones de lugares y proveedores.</p>
                                                         </div>
-                                                        <div class="sc_price_block_link" style="margin-top: 245px;">
+                                                        <div class="sc_price_block_link" style="margin-top: 290px;">
                                                             <a href="presupuesto.php" class="sc_button sc_button_square sc_button_size_small">Pedir Presupuesto</a>
                                                         </div>
                                                     </div>
@@ -105,7 +106,7 @@
                                                         <div class="sc_price_block_title"><H6 style="font-size: 16px;">DAY-OF COORDINATION</H6></div>
                                                         <div class="sc_price_block_description">
                                                             <ul>
-                                                                <li>¡Tú planeas, nosotros <br>lo ejecutamos!</li>
+                                                                <li style="font-size: 16px;">¡Tú planeas, nosotros lo ejecutamos!</li>
                                                             </ul>
                                                         </div>
                                                         <div class="sc_price_block_money" style="margin-left: 2.0em; margin-right: 2.0em;">
@@ -127,22 +128,22 @@
                                                         </div>
                                                     </div>
                                                 </div><div class="column-1_3 sc_column_item odd">
-                                                    <div class="sc_price_block sc_price_block_style_1" style="height: 1059px;">
+                                                    <div class="sc_price_block sc_price_block_style_1" style="height: 1195px;">
                                                         <div class="featured_image"><img alt="Full Package" src="images/COORDINATIONPACKAGE.jpg"></div>
                                                         <div class="sc_price_block_title"><h6 style="font-size: 16px;">COORDINATION PACKAGE</h6></div>
                                                         <div class="sc_price_block_description">
                                                             <ul>
-                                                                <li>¡Relájate y deja todo en <br>nuestras manos!</li>
+                                                                <li style="font-size: 16px;">¡Relájate y deja todo en nuestras manos!</li>
                                                             </ul>
                                                         </div>
-                                                        <div class="sc_price_block_money" style="margin-left: 1.0em; margin-right: 1.0em;">
+                                                        <div class="sc_price_block_money" style="margin-left: 2.0em; margin-right: 2.0em;">
                                                             <div class="sc_price">
                                                                 <p align="left">Sabemos que cada evento es único y es por eso que siempre buscaremos conservar tu esencia y personalidad. Normalmente tenemos un año o quizás menos para organizar una boda o cualquier evento y si a esto le restamos las jornadas de trabajo ¿de cuánto tiempo dispones para que salga de la mejor manera?</p> 
                                                                 <p align="left">Nos encargaremos de planificar, organizar y coordinar ese gran día de principio a fin para entregarte un evento único y distintivo.</p> 
                                                                 <p align="left">Le daremos forma a ese gran día y pondremos en marcha todas tus ideas.</p>
                                                             </div>
                                                         </div>
-                                                        <div class="sc_price_block_link" style="margin-top: 342px;">
+                                                        <div class="sc_price_block_link" style="margin-top: 415px;">
                                                             <a href="presupuesto.php" class="sc_button sc_button_square sc_button_size_small">Pedir Presupuesto</a>
                                                         </div>
                                                         </div>
