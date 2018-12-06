@@ -6,9 +6,11 @@
                 <span class="contact_cart_totals"><span class="cart_items"> &nbsp; info@fernandacampillo.com</span></span>
             </a>
         </div>
-        <div class="column-1_6 contact_field contact_phone"> 
-            <span class="contact_icon icon-phone"></span> 
-            <span class="contact_label contact_phone"> &nbsp; 55 5214 0418</span>
+        <div class="column-1_6 contact_field contact_phone">
+            <a href="callto:+5552140418"> 
+                <span class="contact_icon icon-phone"></span> 
+                <span class="contact_label contact_phone"> &nbsp; 55 5214 0418</span>
+            </a>
         </div>
     </div>
 </div>

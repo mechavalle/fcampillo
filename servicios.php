@@ -60,7 +60,7 @@
                                                                     </div>
                                                                 </div>
                                                                 <div class="sc_services_item_content">
-                                                                    <h4 class="sc_services_item_title"><a href="#" style="font-family: delicious;">Wedding planning</a></h4>
+                                                                    <h4 class="sc_services_item_title"><a style="font-family: delicious;">Wedding planning</a></h4>
                                                                 </div>
                                                             </div>
                                                         </div><div class="column-1_3 column_padding_bottom">
@@ -71,7 +71,7 @@
                                                                     </div>
                                                                 </div>
                                                                 <div class="sc_services_item_content">
-                                                                    <h4 class="sc_services_item_title"><a href="#" style="font-family: delicious;">Event planning</a></h4>
+                                                                    <h4 class="sc_services_item_title"><a style="font-family: delicious;">Event planning</a></h4>
                                                                 </div>
                                                             </div>
                                                         </div><div class="column-1_3 column_padding_bottom">
@@ -82,7 +82,7 @@
                                                                     </div>
                                                                 </div>
                                                                 <div class="sc_services_item_content">
-                                                                    <h4 class="sc_services_item_title"><a href="#" style="font-family: delicious;">Decoración y Ambientación</a></h4>
+                                                                    <h4 class="sc_services_item_title"><a style="font-family: delicious;">Decoración y Ambientación</a></h4>
                                                                 </div>
                                                             </div>
                                                         </div><div class="column-1_3 column_padding_bottom">
@@ -93,7 +93,7 @@
                                                                     </div>
                                                                 </div>
                                                                 <div class="sc_services_item_content">
-                                                                    <h4 class="sc_services_item_title"><a href="#" style="font-family: delicious;">Mobiliario e Iluminación</a></h4>
+                                                                    <h4 class="sc_services_item_title"><a style="font-family: delicious;">Mobiliario e Iluminación</a></h4>
                                                                 </div>
                                                             </div>
                                                         </div><div class="column-1_3 column_padding_bottom">
@@ -104,7 +104,7 @@
                                                                     </div>
                                                                 </div>
                                                                 <div class="sc_services_item_content">
-                                                                    <h4 class="sc_services_item_title"><a href="#" style="font-family: delicious;">Banquetes y Mesas de dulces</a></h4>
+                                                                    <h4 class="sc_services_item_title"><a style="font-family: delicious;">Banquetes y Mesas de dulces</a></h4>
                                                                 </div>
                                                             </div>
                                                         </div><div class="column-1_3 column_padding_bottom">
@@ -115,7 +115,7 @@
                                                                     </div>
                                                                 </div>
                                                                 <div class="sc_services_item_content">
-                                                                    <h4 class="sc_services_item_title"><a href="#" style="font-family: delicious;">Bodas destino</a></h4>
+                                                                    <h4 class="sc_services_item_title"><a style="font-family: delicious;">Bodas destino</a></h4>
                                                                 </div>
                                                             </div>
                                                         </div>

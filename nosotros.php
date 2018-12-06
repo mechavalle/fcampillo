@@ -47,7 +47,7 @@
                                         <div class="m_wrapper">
                                             <div class="columns_wrap sc_columns columns_nofluid sc_columns_count_7 sc_our-team-single-column-margin">
                                                 <div class="column-3_7 sc_column_item odd first">
-                                                    <figure class="sc_image  sc_image_shape_square"><img src="images/mia.jpeg" alt="" /></figure>
+                                                    <figure class="sc_image  sc_image_shape_square"><img src="images/MIA.jpeg" alt="" /></figure>
                                                 </div><div class="column-4_7 sc_column_item even">
                                                     <h6 class="sc_title sc_title_regular margin_bottom_tiny sc_our-team-single-title-margin" style="color: #cab374; font-size: 20px; text-align: left;">Fernanda Campillo</h6>
                                                     <div class="m_text_column m_content_element ">

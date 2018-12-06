@@ -69,9 +69,13 @@ switch($menu)
         <div class="panel_middle">
             <div class="contact_field contact_phone">
                 <span class="contact_icon icon-phone"></span>
-                <span class="contact_label contact_phone">800-123-4567</span>
+                <span class="contact_label contact_phone">55 5214 0418</span>
+                <br>
                 <span class="contact_icon icon-mail"></span>
-                <span class="contact_label contact_email ">info@yoursite.com</span>
+                <span class="contact_label contact_email ">info@fernandacampillo.com</span>
+                <br>
+                <span class="contact_icon icon-mail"></span>
+                <span class="contact_label contact_email ">planner@fernandacampillo.com</span>
             </div>
         </div>
     </div>
