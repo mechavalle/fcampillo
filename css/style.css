@@ -5912,7 +5912,7 @@ blockquote p.sc_quote_title{
 .widget_area ul li {
 	position:relative;
 	padding-left: 1.2em;
-	font-size: 1.07em;
+	font-size: 16px;
 	line-height: 1.6em;
 }
 .widget_area ul li:before {
