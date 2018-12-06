@@ -49,7 +49,7 @@
                                                 <div class="column-3_7 sc_column_item odd first">
                                                     <figure class="sc_image  sc_image_shape_square"><img src="images/MIA.jpeg" alt="" /></figure>
                                                 </div><div class="column-4_7 sc_column_item even">
-                                                    <h6 class="sc_title sc_title_regular margin_bottom_tiny sc_our-team-single-title-margin" style="color: #cab374; font-size: 20px; text-align: left;">Fernanda Campillo</h6>
+                                                    <h6 class="sc_title sc_title_regular margin_bottom_tiny sc_our-team-single-title-margin" style="color: #cab374; font-size: 16px; text-align: left;">Fernanda Campillo</h6>
                                                     <div class="m_text_column m_content_element ">
                                                         <div class="m_wrapper">
                                                             <br>
