@@ -33,7 +33,7 @@
         <?php  include("header.php"); ?>
         <?php  
             $menu="home";
-            include("navbar.php");
+            include("navbar2.php");
         ?> 
     </header>
        
@@ -91,10 +91,10 @@
                                                                 <p align="left">Sabemos que organizar cualquier tipo de evento no es fácil, es por eso que te ofrecemos este paquete, para que aclares todas tus dudas y tu evento sea un éxito.</p>
                                                             </div> 
                                                             <p align="left">Consiste en:</p>
-                                                            <p align="left">•   Una primera entrevista en donde se le explicará al cliente nuestros servicios y nos hablarán de sus necesidades. Aclararemos dudas y nos centraremos en el presupuesto.</p>
-                                                            <p align="left">•   Tres entrevistas de asesoría con al menos 6 meses de anticipación. 
-                                                            <p align="left">•   Contacto ilimitado por teléfono y correo electrónico desde el momento de la reserva para recibir consejos, preguntas y orientación.</p>
-                                                            <p align="left">•   Investigar y recomendar todas las opciones de lugares y proveedores.</p>
+                                                            <p align="left">• Una primera entrevista en donde se le explicará al cliente nuestros servicios y nos hablarán de sus necesidades. Aclararemos dudas y nos centraremos en el presupuesto.</p>
+                                                            <p align="left">• Tres entrevistas de asesoría con al menos 6 meses de anticipación. 
+                                                            <p align="left">• Contacto ilimitado por teléfono y correo electrónico desde el momento de la reserva para recibir consejos, preguntas y orientación.</p>
+                                                            <p align="left">• Investigar y recomendar todas las opciones de lugares y proveedores.</p>
                                                         </div>
                                                         <div class="sc_price_block_link" style="margin-top: 290px;">
                                                             <a href="presupuesto.php" class="sc_button sc_button_square sc_button_size_small">Pedir Presupuesto</a>
