@@ -134,7 +134,36 @@
                                                                                         <a class="close" href="#">&times;</a>
                                                                                         <div class="content">
                                                                                             <h4></h4>  
-                                                                                            
+                                                                                            <table width="100%">
+                                                                                                <tr>
+                                                                                                    <td align="left"><label style="padding-left: 5px; border-left-style: solid; border-left-width: 5px; border-left-color: #cab374;">NOMBRE:&nbsp;</label></td>
+                                                                                                    <td><input type="text" name="nombre"></td>
+                                                                                                </tr>
+                                                                                                <tr>
+                                                                                                    <td align="left"><label style="padding-left: 5px; border-left-style: solid; border-left-width: 5px; border-left-color: #cab374;">APELLIDOS:&nbsp;</td>
+                                                                                                    <td><input type="text" name="apellidos"></td>
+                                                                                                </tr>
+                                                                                                <tr>
+                                                                                                    <td align="left"><label style="padding-left: 5px; border-left-style: solid; border-left-width: 5px; border-left-color: #cab374;">TELÉFONO:&nbsp;</td>
+                                                                                                    <td><input type="text" name="telefono"></td>
+                                                                                                </tr>
+                                                                                                <tr>
+                                                                                                    <td align="left"><label style="padding-left: 5px; border-left-style: solid; border-left-width: 5px; border-left-color: #cab374;">E-MAIL:&nbsp;</td>
+                                                                                                    <td><input type="text" name="email"></td>
+                                                                                                </tr> 
+                                                                                                <tr>
+                                                                                                    <td align="left"><label style="padding-left: 5px; border-left-style: solid; border-left-width: 5px; border-left-color: #cab374;">DIRECCIÓN:&nbsp;</td>
+                                                                                                    <td><textarea type="text" name="direccion"></textarea></td>
+                                                                                                </tr>    
+                                                                                                <tr>
+                                                                                                    <td align="left"><label style="padding-left: 5px; border-left-style: solid; border-left-width: 5px; border-left-color: #cab374;">FECHA:&nbsp;</td>
+                                                                                                    <td><input type="date" name="fecha"></td>
+                                                                                                </tr>
+                                                                                                <tr>
+                                                                                                    <td></td>
+                                                                                                    <td><input type="submit" value="Enviar" style="align-content: center;padding: 0.65em 1.86em;"></td>
+                                                                                                </tr>
+                                                                                           </table>
                                                                                         </div>
                                                                                     </div>
                                                                                 </div> 
@@ -152,12 +181,12 @@
                                                                                     <ul id="menu-services-menu" class="menu">
                                                                                         <br>
                                                                                         <p>Incluye:</p>
-                                                                                        <li class="menu-item"><a href="#">Una sección de preguntas básicas previas a la organización.</a></li>
-                                                                                        <li class="menu-item"><a href="#">Checklist de todas las cosas importantes y necesarias.</a></li>
-                                                                                        <li class="menu-item"><a href="#">Un calendario atemporal para que definas tus citas con proveedores, pagos, etc.</a></li>
-                                                                                        <li class="menu-item"><a href="#">Lista de invitados.</a></li>
-                                                                                        <li class="menu-item"><a href="#">Tips para ese gran día.</a></li>
-                                                                                        <li class="menu-item"><a href="#">Y más...</a></li>
+                                                                                        <li class="menu-item"><a>Una sección de preguntas básicas previas a la organización.</a></li>
+                                                                                        <li class="menu-item"><a>Checklist de todas las cosas importantes y necesarias.</a></li>
+                                                                                        <li class="menu-item"><a>Un calendario atemporal para que definas tus citas con proveedores, pagos, etc.</a></li>
+                                                                                        <li class="menu-item"><a>Lista de invitados.</a></li>
+                                                                                        <li class="menu-item"><a>Tips para ese gran día.</a></li>
+                                                                                        <li class="menu-item"><a>Y más...</a></li>
                                                                                     </ul>
                                                                                 </div>
                                                                             </div>
