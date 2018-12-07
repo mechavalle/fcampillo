@@ -35,10 +35,11 @@
       bottom: 0;
       left: 0;
       right: 0;
-      background: rgba(0, 0, 0, 0.7);
+      background: rgba(0, 0, 0, 0.8);
       transition: opacity 500ms;
       visibility: hidden;
       opacity: 0;
+      z-index: 10000;
     }
 
     .overlay:target 
@@ -49,26 +50,27 @@
 
     .popup 
     {
-      margin: 70px auto;
+      margin: 80px auto;
       padding: 20px;
       background: #fff;
-      border-radius: 5px;
+      border-radius: 0px;
       width: 25%;
       position: relative;
       transition: all 5s ease-in-out;
       border-style: solid;
-      border-width: 3px;
+      border-width: 1px;
       border-color: #cab374;
+
     }
 
     .popup .close 
     {
       margin-top: 0px;
       position: absolute;
-      top: 20px;
-      right: 30px;
+      top: 10px;
+      right: 20px;
       transition: all 200ms;
-      font-size: 30px;
+      font-size: 20px;
       font-weight: bold;
       text-decoration: none;
       color: #cab374;
@@ -154,14 +156,18 @@
                                                                                                 <tr>
                                                                                                     <td align="left"><label style="padding-left: 5px; border-left-style: solid; border-left-width: 5px; border-left-color: #cab374;">DIRECCIÓN:&nbsp;</td>
                                                                                                     <td><textarea type="text" name="direccion"></textarea></td>
-                                                                                                </tr>    
+                                                                                                </tr>
+                                                                                                 <tr>
+                                                                                                    <td align="left"><label style="padding-left: 5px; border-left-style: solid; border-left-width: 5px; border-left-color: #cab374;">¿QUÉ NECESITAS DE FERNANDA CAMPILLO WP:&nbsp;</td>
+                                                                                                    <td><textarea type="text" name="direccion"></textarea></td>
+                                                                                                </tr>      
                                                                                                 <tr>
                                                                                                     <td align="left"><label style="padding-left: 5px; border-left-style: solid; border-left-width: 5px; border-left-color: #cab374;">FECHA:&nbsp;</td>
                                                                                                     <td><input type="date" name="fecha"></td>
                                                                                                 </tr>
                                                                                                 <tr>
                                                                                                     <td></td>
-                                                                                                    <td><input type="submit" value="Enviar" style="align-content: center;padding: 0.65em 1.86em;"></td>
+                                                                                                    <td><input type="submit" value="Enviar" style="align-content: center;padding: 0.65em 1.86em; border-style: double;"></td>
                                                                                                 </tr>
                                                                                            </table>
                                                                                         </div>
