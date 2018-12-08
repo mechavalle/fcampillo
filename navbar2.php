@@ -22,7 +22,7 @@ switch($menu)
 <div class="page_wrap">
     <div class="top_panel_wrap_inner top_panel_inner_style_2 top_panel_position_above">
     <header class="top_panel_wrap top_panel_style_2 scheme_original">
-        <div class="top_panel_bottom" style="background-color: #c2eaea;">
+        <div class="top_panel_bottom" style="background-color: #ceefef;">
             <div class="content_wrap clearfix">
                 <nav class="menu_main_nav_area menu_hover_fade">
                     <ul id="menu_main" class="menu_main_nav" style="font-size: medium;">

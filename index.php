@@ -25,7 +25,68 @@
     <link property="stylesheet" rel='stylesheet' href='js/vendor/mediaelement/wp-mediaelement.css' type='text/css' media='all' />
     <link property="stylesheet" rel='stylesheet' href='css/responsive.css' type='text/css' media='all' /> 
     <link rel="stylesheet" href="fw/css/font-awesome.css"></link>
-</head>   
+</head> 
+
+<style type="text/css">
+    .overlay 
+    {
+      position: fixed;
+      top: 0;
+      bottom: 0;
+      left: 0;
+      right: 0;
+      background: rgba(0, 0, 0, 0.8);
+      transition: opacity 500ms;
+      visibility: hidden;
+      opacity: 0;
+      z-index: 10000;
+    }
+
+    .overlay:target 
+    {
+      visibility: visible;
+      opacity: 1;
+    }
+
+    .popup 
+    {
+      margin: 80px auto;
+      padding: 20px;
+      background: #fff;
+      border-radius: 0px;
+      width: 25%;
+      position: relative;
+      transition: all 5s ease-in-out;
+      border-style: solid;
+      border-width: 1px;
+      border-color: #cab374;
+
+    }
+
+    .popup .close 
+    {
+      margin-top: 0px;
+      position: absolute;
+      top: 10px;
+      right: 20px;
+      transition: all 200ms;
+      font-size: 20px;
+      font-weight: bold;
+      text-decoration: none;
+      color: #cab374;
+    }
+
+    .popup .close:hover 
+    {
+      color: #a3ad6f;
+    }
+
+    .popup .content 
+    {
+      max-height: 100%;
+      overflow: auto;
+    }
+</style>   
 
 <body class="single single-product woocommerce woocommerce-page">
 
@@ -97,7 +158,49 @@
                                                             <p align="left">• Investigar y recomendar todas las opciones de lugares y proveedores.</p>
                                                         </div>
                                                         <div class="sc_price_block_link" style="margin-top: 290px;">
-                                                            <a href="presupuesto.php" class="sc_button sc_button_square sc_button_size_small">Pedir Presupuesto</a>
+                                                            <a href="#popup1" class="sc_button sc_button_square sc_button_size_small" style="border-style: solid; border-width: 2px;">Pedir Presupuesto</a>
+                                                            <div id="popup1" class="overlay">
+                                                                <div class="popup">
+                                                                    <a class="close" href="#">&times;</a>
+                                                                    <div class="content">
+                                                                        <h4></h4>  
+                                                                        <table width="100%">
+                                                                            <tr>
+                                                                                <td align="left"><label style="padding-left: 5px; border-left-style: solid; border-left-width: 5px; border-left-color: #cab374;">NOMBRE:&nbsp;</label></td>
+                                                                                <td><input type="text" name="nombre"></td>
+                                                                            </tr>
+                                                                            <tr>
+                                                                                <td align="left"><label style="padding-left: 5px; border-left-style: solid; border-left-width: 5px; border-left-color: #cab374;">APELLIDOS:&nbsp;</td>
+                                                                                <td><input type="text" name="apellidos"></td>
+                                                                            </tr>
+                                                                            <tr>
+                                                                                <td align="left"><label style="padding-left: 5px; border-left-style: solid; border-left-width: 5px; border-left-color: #cab374;">TELÉFONO:&nbsp;</td>
+                                                                                <td><input type="text" name="telefono"></td>
+                                                                            </tr>
+                                                                            <tr>
+                                                                                <td align="left"><label style="padding-left: 5px; border-left-style: solid; border-left-width: 5px; border-left-color: #cab374;">E-MAIL:&nbsp;</td>
+                                                                                <td><input type="text" name="email"></td>
+                                                                            </tr> 
+                                                                            <tr>
+                                                                                <td align="left"><label style="padding-left: 5px; border-left-style: solid; border-left-width: 5px; border-left-color: #cab374;">DIRECCIÓN:&nbsp;</td>
+                                                                                <td><textarea type="text" name="direccion"></textarea></td>
+                                                                            </tr>
+                                                                            <tr>
+                                                                                <td align="left"><label style="padding-left: 5px; border-left-style: solid; border-left-width: 5px; border-left-color: #cab374;">¿QUÉ NECESITAS DE FERNANDA CAMPILLO WP:&nbsp;</td>
+                                                                                <td><textarea type="text" name="direccion"></textarea></td>
+                                                                            </tr>      
+                                                                            <tr>
+                                                                                <td align="left"><label style="padding-left: 5px; border-left-style: solid; border-left-width: 5px; border-left-color: #cab374;">FECHA:&nbsp;</td>
+                                                                                <td><input type="date" name="fecha"></td>
+                                                                            </tr>
+                                                                            <tr>
+                                                                                <td></td>
+                                                                                <td><input type="submit" value="Enviar" style="align-content: center;padding: 0.65em 1.86em; border-style: double;"></td>
+                                                                            </tr>
+                                                                        </table>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
                                                         </div>
                                                     </div>
                                                 </div><div class="column-1_3 sc_column_item even">
@@ -124,7 +227,49 @@
                                                             <p align="left">Distribución de pagos finales / consejos para proveedores.</p>
                                                         </div>
                                                         <div class="sc_price_block_link">
-                                                            <a href="presupuesto.php" class="sc_button sc_button_square sc_button_size_small">Pedir Presupuesto</a>
+                                                            <a href="#popup1" class="sc_button sc_button_square sc_button_size_small" style="border-style: solid; border-width: 2px;">Pedir Presupuesto</a>
+                                                            <div id="popup1" class="overlay">
+                                                                <div class="popup">
+                                                                    <a class="close" href="#">&times;</a>
+                                                                    <div class="content">
+                                                                        <h4></h4>  
+                                                                        <table width="100%">
+                                                                            <tr>
+                                                                                <td align="left"><label style="padding-left: 5px; border-left-style: solid; border-left-width: 5px; border-left-color: #cab374;">NOMBRE:&nbsp;</label></td>
+                                                                                <td><input type="text" name="nombre"></td>
+                                                                            </tr>
+                                                                            <tr>
+                                                                                <td align="left"><label style="padding-left: 5px; border-left-style: solid; border-left-width: 5px; border-left-color: #cab374;">APELLIDOS:&nbsp;</td>
+                                                                                <td><input type="text" name="apellidos"></td>
+                                                                            </tr>
+                                                                            <tr>
+                                                                                <td align="left"><label style="padding-left: 5px; border-left-style: solid; border-left-width: 5px; border-left-color: #cab374;">TELÉFONO:&nbsp;</td>
+                                                                                <td><input type="text" name="telefono"></td>
+                                                                            </tr>
+                                                                            <tr>
+                                                                                <td align="left"><label style="padding-left: 5px; border-left-style: solid; border-left-width: 5px; border-left-color: #cab374;">E-MAIL:&nbsp;</td>
+                                                                                <td><input type="text" name="email"></td>
+                                                                            </tr> 
+                                                                            <tr>
+                                                                                <td align="left"><label style="padding-left: 5px; border-left-style: solid; border-left-width: 5px; border-left-color: #cab374;">DIRECCIÓN:&nbsp;</td>
+                                                                                <td><textarea type="text" name="direccion"></textarea></td>
+                                                                            </tr>
+                                                                            <tr>
+                                                                                <td align="left"><label style="padding-left: 5px; border-left-style: solid; border-left-width: 5px; border-left-color: #cab374;">¿QUÉ NECESITAS DE FERNANDA CAMPILLO WP:&nbsp;</td>
+                                                                                <td><textarea type="text" name="direccion"></textarea></td>
+                                                                            </tr>      
+                                                                            <tr>
+                                                                                <td align="left"><label style="padding-left: 5px; border-left-style: solid; border-left-width: 5px; border-left-color: #cab374;">FECHA:&nbsp;</td>
+                                                                                <td><input type="date" name="fecha"></td>
+                                                                            </tr>
+                                                                            <tr>
+                                                                                <td></td>
+                                                                                <td><input type="submit" value="Enviar" style="align-content: center;padding: 0.65em 1.86em; border-style: double;"></td>
+                                                                            </tr>
+                                                                        </table>
+                                                                    </div>
+                                                                </div>
+                                                            </div>    
                                                         </div>
                                                     </div>
                                                 </div><div class="column-1_3 sc_column_item odd">
@@ -144,8 +289,49 @@
                                                             </div>
                                                         </div>
                                                         <div class="sc_price_block_link" style="margin-top: 415px;">
-                                                            <a href="presupuesto.php" class="sc_button sc_button_square sc_button_size_small">Pedir Presupuesto</a>
-                                                        </div>
+                                                            <a href="#popup1" class="sc_button sc_button_square sc_button_size_small" style="border-style: solid; border-width: 2px;">Pedir Presupuesto</a>
+                                                            <div id="popup1" class="overlay">
+                                                                <div class="popup">
+                                                                    <a class="close" href="#">&times;</a>
+                                                                    <div class="content">
+                                                                        <h4></h4>  
+                                                                        <table width="100%">
+                                                                            <tr>
+                                                                                <td align="left"><label style="padding-left: 5px; border-left-style: solid; border-left-width: 5px; border-left-color: #cab374;">NOMBRE:&nbsp;</label></td>
+                                                                                <td><input type="text" name="nombre"></td>
+                                                                            </tr>
+                                                                            <tr>
+                                                                                <td align="left"><label style="padding-left: 5px; border-left-style: solid; border-left-width: 5px; border-left-color: #cab374;">APELLIDOS:&nbsp;</td>
+                                                                                <td><input type="text" name="apellidos"></td>
+                                                                            </tr>
+                                                                            <tr>
+                                                                                <td align="left"><label style="padding-left: 5px; border-left-style: solid; border-left-width: 5px; border-left-color: #cab374;">TELÉFONO:&nbsp;</td>
+                                                                                <td><input type="text" name="telefono"></td>
+                                                                            </tr>
+                                                                            <tr>
+                                                                                <td align="left"><label style="padding-left: 5px; border-left-style: solid; border-left-width: 5px; border-left-color: #cab374;">E-MAIL:&nbsp;</td>
+                                                                                <td><input type="text" name="email"></td>
+                                                                            </tr> 
+                                                                            <tr>
+                                                                                <td align="left"><label style="padding-left: 5px; border-left-style: solid; border-left-width: 5px; border-left-color: #cab374;">DIRECCIÓN:&nbsp;</td>
+                                                                                <td><textarea type="text" name="direccion"></textarea></td>
+                                                                            </tr>
+                                                                            <tr>
+                                                                                <td align="left"><label style="padding-left: 5px; border-left-style: solid; border-left-width: 5px; border-left-color: #cab374;">¿QUÉ NECESITAS DE FERNANDA CAMPILLO WP:&nbsp;</td>
+                                                                                <td><textarea type="text" name="direccion"></textarea></td>
+                                                                            </tr>      
+                                                                            <tr>
+                                                                                <td align="left"><label style="padding-left: 5px; border-left-style: solid; border-left-width: 5px; border-left-color: #cab374;">FECHA:&nbsp;</td>
+                                                                                <td><input type="date" name="fecha"></td>
+                                                                            </tr>
+                                                                            <tr>
+                                                                                <td></td>
+                                                                                <td><input type="submit" value="Enviar" style="align-content: center;padding: 0.65em 1.86em; border-style: double;"></td>
+                                                                            </tr>
+                                                                        </table>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
                                                         </div>
                                                     </div>
                                                 </div>

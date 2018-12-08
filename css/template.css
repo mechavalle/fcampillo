@@ -759,7 +759,7 @@ select {
 .menu_main_nav > li > a {
   padding: 2.1em 1.5em 2.09em;
   font-size: 0.928em;
-  font-weight: 700;
+  font-weight: 900;
 }
 .scheme_original .menu_main_nav > li > a {
   color: #ffffff;
@@ -782,7 +782,7 @@ select {
   color: #cab374;
 }
 .menu_main_nav > li ul {
-  line-height: 1.2857em;
+  line-height: 1.0em;
 }
 .menu_main_nav > li ul li a {
   padding: inherit 1.5em inherit;
@@ -802,7 +802,7 @@ select {
 }
 .scheme_original .top_panel_inner_style_1 .menu_main_nav > li > a,
 .scheme_original .top_panel_inner_style_2 .menu_main_nav > li > a {
-  color: #ffffff;
+  color: #2ca5a1;
 }
 .top_panel_inner_style_1 .menu_main_nav > li ul,
 .top_panel_inner_style_2 .menu_main_nav > li ul {

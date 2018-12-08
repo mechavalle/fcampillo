@@ -2189,7 +2189,7 @@ body:not(.top_panel_fixed) .top_panel_position_over .top_panel_bottom {
 }
 .menu_main_nav > li > ul {
 	left:0;
-	top: 75px;
+	top: 84px;
 }
 .menu_main_nav > li > ul ul {
 	left: 188px;
