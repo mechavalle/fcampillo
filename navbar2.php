@@ -33,7 +33,7 @@ switch($menu)
                             </ul>
                         </li>
                         <li <?php echo $cservicios; ?> class="menu-item"><a href="servicios.php"><span>SERVICIOS</span></a></li>
-                        <li style="height: auto; padding: 15px; width: 120px;"><img src="images/logotipo.png" style="display: flex; justify-content: center; position: absolute; width: 100%; left: 0; top: -44px;"></li>
+                        <li style="height: auto; padding: 15px; width: 120px;"><img src="images/logotipo.png" style="display: flex; justify-content: center; position: absolute; width: 100%; left: 0; top: -50px;"></li>
                         <li <?php echo $cportafolio; ?> class="menu-item"><a href="portafolio.php"><span>PORTAFOLIO</span></a></li>
                         <li <?php echo $cagenda; ?> class="menu-item"><a href="agenda.php"><span>AGENDA</span></a></li>
                         <li <?php echo $ccontacto; ?> class="menu-item"><a href="contacto.php"><span>CONTACTO</span></a></li>
