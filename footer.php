@@ -9,9 +9,9 @@
                     <img src="images/unnamed.jpeg" class="logo_main" alt="" style="margin-left: 10px;">
                 </div> 
                 <div class="sc_socials sc_socials_type_icons sc_socials_shape_round sc_socials_size_tiny">
-                    <div class="sc_socials_item"><a href="javascript:window.open('https://www.facebook.com/fercampillowp','');void 0" class="social_icons social_facebook"><span class="icon-facebook"></span></a></div>
-                    <div class="sc_socials_item"><a href="javascript:window.open('https://www.pinterest.com/fercampillowp','');void 0" class="social_icons"><span class="fa fa-pinterest-p"></span></a></div>
-                    <div class="sc_socials_item"><a href="javascript:window.open('https://www.instagram.com/fercampillowp','');void 0" class="social_icons social_instagramm"><span class="icon-instagramm"></span></a></div>
+                    <div class="sc_socials_item"><a href="javascript:window.open('https://www.facebook.com/fercampillowp','');void 0" class="social_icons social_facebook" title="facebook"><span class="icon-facebook"></span></a></div>
+                    <div class="sc_socials_item"><a href="javascript:window.open('https://www.pinterest.com/fercampillowp','');void 0" class="social_icons" title="pinterest"><span class="fa fa-pinterest-p"></span></a></div>
+                    <div class="sc_socials_item"><a href="javascript:window.open('https://www.instagram.com/fercampillowp','');void 0" class="social_icons social_instagramm" title="instagram"><span class="icon-instagramm"></span></a></div>
                 </div>
             </div>
         </aside>

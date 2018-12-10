@@ -35,7 +35,7 @@
       bottom: 0;
       left: 0;
       right: 0;
-      background: rgba(0, 0, 0, 0.8);
+      background: rgba(0 , 0, 0, 0.8);
       transition: opacity 500ms;
       visibility: hidden;
       opacity: 0;
@@ -84,6 +84,7 @@
     .popup .content 
     {
       overflow: auto;
+      max-height: 100%;
     }
 </style>     
 
@@ -129,8 +130,8 @@
                                                                                 <p style="font-weight: lighter;">El pago se hace a CLABE interbancaria: <font style="font-weight: bold;">012180011640652634 (Bancomer)</font> o número de tarjeta: <font style="font-weight: bold;">4152 3134 1208 4563 (Bancomer)</font> a nombre de <font style="font-weight: bold;">Alejandra Estefania Tello</font>.</p> 
                                                                                 <p style="font-weight: lighter;">Si quieres hacer un depósito vía Oxxo, 7 Eleven, farmacias, etc. por favor hazlo a la tarjeta: <font style="font-weight: bold;">4915 6630 1322 2253 (Banorte)</font> a nombre de <font style="font-weight: bold;">Alejandra Estefania Tello</font>.</p> 
                                                                                 <p style="font-weight: lighter;">Si te encuentras en otro país, me puedes depósitar por <font style="font-weight: bold;">Paypal (aleestefaniafitness@gmail.com)</font>.</p>
-                                                                                <span class="price"><span class="amount"><span class="woocommerce-Price-currencySymbol">$</span>45.00</span></span> <a href="#popup1" class="sc_button sc_button_square sc_button_size_small" style="border-style: solid; border-width: 2px;">Pedir Presupuesto</a>
-                                                                                <div id="popup1" class="overlay">
+                                                                                <span class="price"><span class="amount"><span class="woocommerce-Price-currencySymbol">$</span>45.00</span></span> <a href="#presupuesto" class="sc_button sc_button_square sc_button_size_small" style="border-style: solid; border-width: 2px;">Pedir Presupuesto</a>
+                                                                                <div id="presupuesto" class="overlay">
                                                                                     <div class="popup">
                                                                                         <a class="close" href="#">&times;</a>
                                                                                         <div class="content">
@@ -157,7 +158,7 @@
                                                                                                     <td><textarea type="text" name="direccion" style="margin-left: -300px;"></textarea></td>
                                                                                                 </tr>
                                                                                                 <tr>
-                                                                                                    <td align="left" style="height: 50px;"><label style="padding-left: 5px; border-left-style: solid; border-left-width: 5px; border-left-color: #cab374;">FECHA:&nbsp;</label></td>
+                                                                                                    <td align="left" style="height: 80px;"><label style="padding-left: 5px; border-left-style: solid; border-left-width: 5px; border-left-color: #cab374;">FECHA DE LA BODA:&nbsp;</label></td>
                                                                                                     <td style="height: 50px;"><input type="date" name="fecha" style="margin-left: -400px;"></td>
                                                                                                 </tr>
                                                                                                  <tr>
