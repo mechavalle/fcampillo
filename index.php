@@ -84,6 +84,7 @@
     .popup .content 
     {
       overflow: auto;
+      max-height: 100%;
     }
 </style>
 
@@ -157,8 +158,8 @@
                                                             <p align="left">• Investigar y recomendar todas las opciones de lugares y proveedores.</p>
                                                         </div>
                                                         <div class="sc_price_block_link" style="margin-top: 290px;">
-                                                            <a href="#popup1" class="sc_button sc_button_square sc_button_size_small" style="border-style: solid; border-width: 2px;">Pedir Presupuesto</a>
-                                                            <div id="popup1" class="overlay">
+                                                            <a href="#presupuesto" class="sc_button sc_button_square sc_button_size_small" style="border-style: solid; border-width: 2px;">Pedir Presupuesto</a>
+                                                            <div id="presupuesto" class="overlay">
                                                                 <div class="popup">
                                                                     <a class="close" href="#">&times;</a>
                                                                     <div class="content">
@@ -226,8 +227,8 @@
                                                             <p align="left">Distribución de pagos finales / consejos para proveedores.</p>
                                                         </div>
                                                         <div class="sc_price_block_link">
-                                                            <a href="#popup1" class="sc_button sc_button_square sc_button_size_small" style="border-style: solid; border-width: 2px;">Pedir Presupuesto</a>
-                                                            <div id="popup1" class="overlay">
+                                                            <a href="#presupuesto" class="sc_button sc_button_square sc_button_size_small" style="border-style: solid; border-width: 2px;">Pedir Presupuesto</a>
+                                                            <div id="presupuesto" class="overlay">
                                                                 <div class="popup">
                                                                     <a class="close" href="#">&times;</a>
                                                                     <div class="content">
@@ -288,8 +289,8 @@
                                                             </div>
                                                         </div>
                                                         <div class="sc_price_block_link" style="margin-top: 415px;">
-                                                            <a href="#popup1" class="sc_button sc_button_square sc_button_size_small" style="border-style: solid; border-width: 2px;">Pedir Presupuesto</a>
-                                                            <div id="popup1" class="overlay">
+                                                            <a href="#presupuesto" class="sc_button sc_button_square sc_button_size_small" style="border-style: solid; border-width: 2px;">Pedir Presupuesto</a>
+                                                            <div id="presupuesto" class="overlay">
                                                                 <div class="popup">
                                                                     <a class="close" href="#">&times;</a>
                                                                     <div class="content">
