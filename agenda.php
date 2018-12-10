@@ -50,11 +50,11 @@
 
     .popup 
     {
-      margin: 80px auto;
-      padding: 20px;
+      margin: 5px auto;
+      padding: 10px;
       background: #fff;
       border-radius: 0px;
-      width: 25%;
+      width: 35%;
       position: relative;
       transition: all 5s ease-in-out;
       border-style: solid;
@@ -67,8 +67,8 @@
     {
       margin-top: 0px;
       position: absolute;
-      top: 10px;
-      right: 20px;
+      top: 3px;
+      right: 10px;
       transition: all 200ms;
       font-size: 20px;
       font-weight: bold;
@@ -83,7 +83,6 @@
 
     .popup .content 
     {
-      max-height: 100%;
       overflow: auto;
     }
 </style>     
@@ -139,37 +138,37 @@
                                                                                             <table width="100%">
                                                                                                 <tr>
                                                                                                     <td align="left"><label style="padding-left: 5px; border-left-style: solid; border-left-width: 5px; border-left-color: #cab374;">NOMBRE:&nbsp;</label></td>
-                                                                                                    <td><input type="text" name="nombre"></td>
+                                                                                                    <td><input type="text" name="nombre" required style="margin-left: -300px;"></td>
                                                                                                 </tr>
                                                                                                 <tr>
-                                                                                                    <td align="left"><label style="padding-left: 5px; border-left-style: solid; border-left-width: 5px; border-left-color: #cab374;">APELLIDOS:&nbsp;</td>
-                                                                                                    <td><input type="text" name="apellidos"></td>
+                                                                                                    <td align="left"><label style="padding-left: 5px; border-left-style: solid; border-left-width: 5px; border-left-color: #cab374;">APELLIDOS:&nbsp;</label></td>
+                                                                                                    <td><input type="text" name="apellidos" required style="margin-left: -300px;"></td>
                                                                                                 </tr>
                                                                                                 <tr>
-                                                                                                    <td align="left"><label style="padding-left: 5px; border-left-style: solid; border-left-width: 5px; border-left-color: #cab374;">TELÉFONO:&nbsp;</td>
-                                                                                                    <td><input type="text" name="telefono"></td>
+                                                                                                    <td align="left"><label style="padding-left: 5px; border-left-style: solid; border-left-width: 5px; border-left-color: #cab374;">TELÉFONO:&nbsp;</label></td>
+                                                                                                    <td><input type="text" name="telefono" style="margin-left: -300px;"></td>
                                                                                                 </tr>
                                                                                                 <tr>
-                                                                                                    <td align="left"><label style="padding-left: 5px; border-left-style: solid; border-left-width: 5px; border-left-color: #cab374;">E-MAIL:&nbsp;</td>
-                                                                                                    <td><input type="text" name="email"></td>
+                                                                                                    <td align="left"><label style="padding-left: 5px; border-left-style: solid; border-left-width: 5px; border-left-color: #cab374;">E-MAIL:&nbsp;</label></td>
+                                                                                                    <td><input type="text" name="email" required style="margin-left: -300px;"></td>
                                                                                                 </tr> 
                                                                                                 <tr>
-                                                                                                    <td align="left"><label style="padding-left: 5px; border-left-style: solid; border-left-width: 5px; border-left-color: #cab374;">DIRECCIÓN:&nbsp;</td>
-                                                                                                    <td><textarea type="text" name="direccion"></textarea></td>
+                                                                                                    <td align="left"><label style="padding-left: 5px; border-left-style: solid; border-left-width: 5px; border-left-color: #cab374;">DIRECCIÓN:&nbsp;</label></td>
+                                                                                                    <td><textarea type="text" name="direccion" style="margin-left: -300px;"></textarea></td>
+                                                                                                </tr>
+                                                                                                <tr>
+                                                                                                    <td align="left" style="height: 50px;"><label style="padding-left: 5px; border-left-style: solid; border-left-width: 5px; border-left-color: #cab374;">FECHA:&nbsp;</label></td>
+                                                                                                    <td style="height: 50px;"><input type="date" name="fecha" style="margin-left: -400px;"></td>
                                                                                                 </tr>
                                                                                                  <tr>
-                                                                                                    <td align="left"><label style="padding-left: 5px; border-left-style: solid; border-left-width: 5px; border-left-color: #cab374;">¿QUÉ NECESITAS DE FERNANDA CAMPILLO WP:&nbsp;</td>
-                                                                                                    <td><textarea type="text" name="direccion"></textarea></td>
-                                                                                                </tr>      
-                                                                                                <tr>
-                                                                                                    <td align="left"><label style="padding-left: 5px; border-left-style: solid; border-left-width: 5px; border-left-color: #cab374;">FECHA:&nbsp;</td>
-                                                                                                    <td><input type="date" name="fecha"></td>
+                                                                                                    <td align="left"><label style="padding-left: 5px; border-left-style: solid; border-left-width: 5px; border-left-color: #cab374;">¿QUÉ NECESITAS DE FERNANDA CAMPILLO WEDDING PLANNING?&nbsp;</label></td>
                                                                                                 </tr>
-                                                                                                <tr>
-                                                                                                    <td></td>
-                                                                                                    <td><input type="submit" value="Enviar" style="align-content: center;padding: 0.65em 1.86em; border-style: double;"></td>
-                                                                                                </tr>
+                                                                                                <tr>      
+                                                                                                    <td><textarea type="text" name="quenecesitas" style="width: 400px;"></textarea></td>
+                                                                                                </tr>   
                                                                                            </table>
+                                                                                           <br>
+                                                                                           <a type="submit" class="sc_button sc_button_square sc_button_size_small" style="border-style: solid; border-width: 2px; line-height: 0.2857em;">Enviar</a>
                                                                                         </div>
                                                                                     </div>
                                                                                 </div> 
