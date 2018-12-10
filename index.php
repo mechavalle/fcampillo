@@ -50,11 +50,11 @@
 
     .popup 
     {
-      margin: 80px auto;
+      margin: 5px auto;
       padding: 20px;
       background: #fff;
       border-radius: 0px;
-      width: 25%;
+      width: 35%;
       position: relative;
       transition: all 5s ease-in-out;
       border-style: solid;
@@ -67,8 +67,8 @@
     {
       margin-top: 0px;
       position: absolute;
-      top: 10px;
-      right: 20px;
+      top: 3px;
+      right: 10px;
       transition: all 200ms;
       font-size: 20px;
       font-weight: bold;

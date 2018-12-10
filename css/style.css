@@ -1934,8 +1934,8 @@ body:not(.top_panel_fixed) .top_panel_position_over .top_panel_bottom {
     margin-left: 620px;
 }
 .top_panel_wrap .top_panel_middle .columns_wrap{
-	margin-right: 0;
-	margin-left: 850px;
+	margin-right: -60px;
+	margin-left: 970px;
 	display: flex;
 	display: -webkit-flex;
 	align-items: center;

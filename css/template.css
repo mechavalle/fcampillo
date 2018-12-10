@@ -298,6 +298,7 @@ textarea {
   font-size: 1.07em;
   line-height: 1.55em;
   height: 3.55em;
+  width: 300px;
 }
 .scheme_original input[type="text"],
 .scheme_original input[type="tel"],
