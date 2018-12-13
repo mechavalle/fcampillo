@@ -4702,8 +4702,8 @@ body.sidebar_hide .sc_recent_news_style_news-announce .post_size_small { height:
 	-webkit-border-radius: 50%;		/* Hack for Chrome - show sharp corners while animation */
 }
 .sc_socials.sc_socials_size_tiny .social_icons span {
-	font-size: 1.2em;
-	line-height:inherit;
+	font-size: 1.8em;
+	vertical-align: middle;
 }
 .sc_socials.sc_socials_size_tiny a,
 .sc_socials.sc_socials_size_tiny a .sc_socials_hover {

@@ -734,7 +734,7 @@ select {
   margin-bottom: 1.125em;
 }
 .scheme_original .top_panel_bottom {
-  background-color: #88ccca;
+  background-color: #b2e4e3;
 }
 .top_panel_bottom {
   background-color: #88ccca;
@@ -803,11 +803,11 @@ select {
 }
 .scheme_original .top_panel_inner_style_1 .menu_main_nav > li > a,
 .scheme_original .top_panel_inner_style_2 .menu_main_nav > li > a {
-  color: #2ca5a1;
+  color: #fff;
 }
 .top_panel_inner_style_1 .menu_main_nav > li ul,
 .top_panel_inner_style_2 .menu_main_nav > li ul {
-  background-color: #88ccca;
+  background-color: #cab374;
 }
 .scheme_original .top_panel_inner_style_1 .menu_main_nav > li ul,
 .scheme_original .top_panel_inner_style_2 .menu_main_nav > li ul {
@@ -816,7 +816,7 @@ select {
 .scheme_original .top_panel_inner_style_1 .menu_main_nav > li ul li a,
 .scheme_original .top_panel_inner_style_2 .menu_main_nav > li ul li a {
   color: #ffffff;
-  font-size: 10px;
+  font-size: small;
   text-align: center;
 }
 .scheme_original .top_panel_inner_style_1 .menu_main_nav > li ul li a:hover,

@@ -27,7 +27,7 @@
 <body class="single single-product woocommerce woocommerce-page">
 
     <header class="top_panel_wrap top_panel_style_1 scheme_original">
-        <?php  include("header.php"); ?>
+        <?php  //include("header.php"); ?>
         <?php  
             $menu="nosotros";
             include("navbar.php");

@@ -24,7 +24,7 @@
 <body class="single single-product woocommerce woocommerce-page">
 
     <header class="top_panel_wrap top_panel_style_1 scheme_original">
-        <?php  include("header.php"); ?>
+        <?php  //include("header.php"); ?>
         <?php  
             $menu="servicios";
             include("navbar.php");
@@ -56,7 +56,7 @@
                                                             <div class="sc_services_item odd first">
                                                                 <div class="sc_services_item_featured post_featured">
                                                                     <div class="post_thumb" data-image="images/service-6.jpg" data-title="Bouquets &#038; Style">
-                                                                        <a class="hover_icon hover_icon_view" href="images/WEDDINGPLANNING.jpg"><img class="post-image" alt="Bouquets &#038; Style" src="images/WEDDINGPLANNING.jpg"></a>
+                                                                        <a class="hover_icon hover_icon_view" href="images/WP1.jpg"><img class="post-image" alt="Bouquets &#038; Style" src="images/WEDDINGPLANNING.jpg"></a>
                                                                     </div>
                                                                 </div>
                                                                 <div class="sc_services_item_content">
@@ -67,7 +67,7 @@
                                                             <div class="sc_services_item even">
                                                                 <div class="sc_services_item_featured post_featured">
                                                                     <div class="post_thumb" data-image="images/service-5.jpg" data-title="Wedding Planning">
-                                                                        <a class="hover_icon hover_icon_view" href="images/EVENTPLANNING.jpg"><img class="post-image" alt="Wedding Planning" src="images/EVENTPLANNING.jpg"></a>
+                                                                        <a class="hover_icon hover_icon_view" href="images/EP2.jpg"><img class="post-image" alt="Wedding Planning" src="images/EVENTPLANNING.jpg"></a>
                                                                     </div>
                                                                 </div>
                                                                 <div class="sc_services_item_content">
@@ -78,7 +78,7 @@
                                                             <div class="sc_services_item odd">
                                                                 <div class="sc_services_item_featured post_featured">
                                                                     <div class="post_thumb" data-image="images/service-4.jpg" data-title="Catering &#038; Decoration">
-                                                                        <a class="hover_icon hover_icon_view" href="images/DECORACIONYAMBIENTACION.jpg"><img class="post-image" alt="Catering &#038; Decoration" src="images/DECORACIONYAMBIENTACION.jpg"></a>
+                                                                        <a class="hover_icon hover_icon_view" href="images/DECORACIÓN Y AMBIENTACIÓN.jpg"><img class="post-image" alt="Catering &#038; Decoration" src="images/DA3.jpg"></a>
                                                                     </div>
                                                                 </div>
                                                                 <div class="sc_services_item_content">
@@ -89,7 +89,7 @@
                                                             <div class="sc_services_item even">
                                                                 <div class="sc_services_item_featured post_featured">
                                                                     <div class="post_thumb" data-image="images/service-3.jpg" data-title="Gift Ideas">
-                                                                        <a class="hover_icon hover_icon_view" href="images/MOBILIARIOEILUMINACION.jpg"><img class="post-image" alt="Gift Ideas" src="images/MOBILIARIOEILUMINACION.jpg"></a>
+                                                                        <a class="hover_icon hover_icon_view" href="images/MI4.jpg"><img class="post-image" alt="Gift Ideas" src="images/MOBILIARIOEILUMINACION.jpg"></a>
                                                                     </div>
                                                                 </div>
                                                                 <div class="sc_services_item_content">
@@ -100,7 +100,7 @@
                                                             <div class="sc_services_item odd">
                                                                 <div class="sc_services_item_featured post_featured">
                                                                     <div class="post_thumb" data-image="images/service-2.jpg" data-title="Ceremony Ideas">
-                                                                       <a class="hover_icon hover_icon_view" href="images/BANQUETESYMESASDEDULCES.jpg"><img class="post-image" alt="Ceremony Ideas" src="images/BANQUETESYMESASDEDULCES.jpg"></a>
+                                                                       <a class="hover_icon hover_icon_view" href="images/BANQUETES Y MESAS DE DULCES.jpg"><img class="post-image" alt="Ceremony Ideas" src="images/BANQUETES Y MESAS DE DULCES.jpg"></a>
                                                                     </div>
                                                                 </div>
                                                                 <div class="sc_services_item_content">
@@ -111,7 +111,7 @@
                                                             <div class="sc_services_item even">
                                                                 <div class="sc_services_item_featured post_featured">
                                                                     <div class="post_thumb" data-image="images/service-1.jpg" data-title="Beach Weddings">
-                                                                        <a class="hover_icon hover_icon_view" href="images/BODASDESTINO.jpg"><img class="post-image" alt="Beach Weddings" src="images/BODASDESTINO.jpg"></a>
+                                                                        <a class="hover_icon hover_icon_view" href="images/BD6.jpg"><img class="post-image" alt="Beach Weddings" src="images/BODASDESTINO.jpg"></a>
                                                                     </div>
                                                                 </div>
                                                                 <div class="sc_services_item_content">

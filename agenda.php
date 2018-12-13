@@ -91,7 +91,7 @@
 <body class="single single-product woocommerce woocommerce-page">
 
     <header class="top_panel_wrap top_panel_style_1 scheme_original">
-        <?php  include("header.php"); ?>
+        <?php  //include("header.php"); ?>
         <?php  
             $menu="agenda";
             include("navbar.php");
@@ -139,7 +139,7 @@
                                                                                             <table width="100%">
                                                                                                 <tr>
                                                                                                     <td align="left"><label style="padding-left: 5px; border-left-style: solid; border-left-width: 5px; border-left-color: #cab374;">NOMBRE:&nbsp;</label></td>
-                                                                                                    <td><input type="text" name="nombre" required style="margin-left: -300px;"></td>
+                                                                                                    <td><input type="text" name="nombre" aria-required style="margin-left: -300px;"></td>
                                                                                                 </tr>
                                                                                                 <tr>
                                                                                                     <td align="left"><label style="padding-left: 5px; border-left-style: solid; border-left-width: 5px; border-left-color: #cab374;">APELLIDOS:&nbsp;</label></td>

@@ -91,10 +91,10 @@
 <body class="single single-product woocommerce woocommerce-page">
 
     <header class="top_panel_wrap top_panel_style_1 scheme_original">
-        <?php  include("header.php"); ?>
+        <?php  include("sliderbar.php"); ?>
         <?php  
             $menu="home";
-            include("navbar2.php");
+            include("navbar.php");
         ?> 
     </header>
        
