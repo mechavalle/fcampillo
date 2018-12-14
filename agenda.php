@@ -91,7 +91,7 @@
 <body class="single single-product woocommerce woocommerce-page">
 
     <header class="top_panel_wrap top_panel_style_1 scheme_original">
-        <?php  //include("header.php"); ?>
+        <?php  include("sliderbar.php"); ?>
         <?php  
             $menu="agenda";
             include("navbar.php");
@@ -99,126 +99,139 @@
     </header>
         
     <div class="page_content_wrap page_paddings_yes">
-        <div class="content_wrap">
-            <!--.content -->
-            <div class="content">
-                <!--.post_item .post_item_single -->
-                <article class="post_item post_item_single">
-                    <!--.post_content-->
-                    <div class="post_content">
-                        <section class="no-col-padding">
-                            <div class="container">
-                                <div class="columns_wrap">
-                                    <div class="column_container column-1_1">
-                                        <div class="column-inner">
-                                            <div class="m_wrapper">
-                                                <div class="sc_section sc_section_block margin_top_medium2 aligncenter">
-                                                    <div class="sc_section_inner">
-                                                        <div class="sc_section_content_wrap">
-                                                            <div class="woocommerce columns-2">
-                                                                <ul class="products">
-                                                                    <li class="product has-post-thumbnail first" style="width: 35%;">
-                                                                        <div class="post_item_wrap no-pb">
-                                                                            <div class="post_featured">
-                                                                                <div class="post_thumb">
-                                                                                    <img src="images/post-2-370x444.jpg">
-                                                                                </div>
-                                                                            </div>
-                                                                            <div class="post_content">
-                                                                                <h3><b>Schedule<b></h3>
-                                                                                <p style="color: #88ccca;">Si te interesa adquirir la agenda</p>
-                                                                                <p style="font-weight: lighter;">El pago se hace a CLABE interbancaria: <font style="font-weight: bold;">012180011640652634 (Bancomer)</font> o número de tarjeta: <font style="font-weight: bold;">4152 3134 1208 4563 (Bancomer)</font> a nombre de <font style="font-weight: bold;">Alejandra Estefania Tello</font>.</p> 
-                                                                                <p style="font-weight: lighter;">Si quieres hacer un depósito vía Oxxo, 7 Eleven, farmacias, etc. por favor hazlo a la tarjeta: <font style="font-weight: bold;">4915 6630 1322 2253 (Banorte)</font> a nombre de <font style="font-weight: bold;">Alejandra Estefania Tello</font>.</p> 
-                                                                                <p style="font-weight: lighter;">Si te encuentras en otro país, me puedes depósitar por <font style="font-weight: bold;">Paypal (aleestefaniafitness@gmail.com)</font>.</p>
-                                                                                <span class="price"><span class="amount"><span class="woocommerce-Price-currencySymbol">$</span>45.00</span></span> <a href="#presupuesto" class="sc_button sc_button_square sc_button_size_small" style="border-style: solid; border-width: 2px;">Pedir Presupuesto</a>
-                                                                                <div id="presupuesto" class="overlay">
-                                                                                    <div class="popup">
-                                                                                        <a class="close" href="#">&times;</a>
-                                                                                        <div class="content">
-                                                                                            <h4></h4>  
-                                                                                            <table width="100%">
-                                                                                                <tr>
-                                                                                                    <td align="left"><label style="padding-left: 5px; border-left-style: solid; border-left-width: 5px; border-left-color: #cab374;">NOMBRE:&nbsp;</label></td>
-                                                                                                    <td><input type="text" name="nombre" aria-required style="margin-left: -300px;"></td>
-                                                                                                </tr>
-                                                                                                <tr>
-                                                                                                    <td align="left"><label style="padding-left: 5px; border-left-style: solid; border-left-width: 5px; border-left-color: #cab374;">APELLIDOS:&nbsp;</label></td>
-                                                                                                    <td><input type="text" name="apellidos" required style="margin-left: -300px;"></td>
-                                                                                                </tr>
-                                                                                                <tr>
-                                                                                                    <td align="left"><label style="padding-left: 5px; border-left-style: solid; border-left-width: 5px; border-left-color: #cab374;">TELÉFONO:&nbsp;</label></td>
-                                                                                                    <td><input type="text" name="telefono" style="margin-left: -300px;"></td>
-                                                                                                </tr>
-                                                                                                <tr>
-                                                                                                    <td align="left"><label style="padding-left: 5px; border-left-style: solid; border-left-width: 5px; border-left-color: #cab374;">E-MAIL:&nbsp;</label></td>
-                                                                                                    <td><input type="text" name="email" required style="margin-left: -300px;"></td>
-                                                                                                </tr> 
-                                                                                                <tr>
-                                                                                                    <td align="left"><label style="padding-left: 5px; border-left-style: solid; border-left-width: 5px; border-left-color: #cab374;">DIRECCIÓN:&nbsp;</label></td>
-                                                                                                    <td><textarea type="text" name="direccion" style="margin-left: -300px;"></textarea></td>
-                                                                                                </tr>
-                                                                                                <tr>
-                                                                                                    <td align="left" style="height: 80px;"><label style="padding-left: 5px; border-left-style: solid; border-left-width: 5px; border-left-color: #cab374;">FECHA DE LA BODA:&nbsp;</label></td>
-                                                                                                    <td style="height: 50px;"><input type="date" name="fecha" style="margin-left: -400px;"></td>
-                                                                                                </tr>
-                                                                                                 <tr>
-                                                                                                    <td align="left"><label style="padding-left: 5px; border-left-style: solid; border-left-width: 5px; border-left-color: #cab374;">¿QUÉ NECESITAS DE FERNANDA CAMPILLO WEDDING PLANNING?&nbsp;</label></td>
-                                                                                                </tr>
-                                                                                                <tr>      
-                                                                                                    <td><textarea type="text" name="quenecesitas" style="width: 400px;"></textarea></td>
-                                                                                                </tr>   
-                                                                                           </table>
-                                                                                           <br>
-                                                                                           <a type="submit" class="sc_button sc_button_square sc_button_size_small" style="border-style: solid; border-width: 2px; line-height: 0.2857em;">Enviar</a>
-                                                                                        </div>
-                                                                                    </div>
-                                                                                </div> 
+        <div class="sc_services_wrap">
+            <div class="sc_services sc_services_style_services-1 sc_services_type_images  margin_top_tiny- margin_bottom_large full-width">
+                <img src="images/titulos-02.png" style="width: 30%; padding-left: 34%; margin-bottom: 3%; margin-top: 5%;">
+            </div>    
+            <div class="content_wrap">
+                <div class="content">
+                    <!--.post_item .post_item_single .page .type-page -->
+                    <article class="post_item post_item_single page type-page">
+                        <!--.post_content-->
+                        <div class="post_content">
+                            <section class="no-col-padding">
+                                <div class="content_container">
+                                    <div class="columns_wrap">
+                                        <div class="column_container column-1_1">
+                                            <div class="column-inner">
+                                                <div class="m_wrapper">
+                                                    <!--.sc_services_wrap -->
+                                                    <div class="sc_services_wrap">
+                                                        <!-- .sc_services -->
+                                                        <div class="sc_services sc_services_style_services-1 sc_services_type_images  margin_top_tiny- margin_bottom_large full-width">
+                                                            <div class="sc_columns columns_wrap">
+                                                                <div class="column-1_2 column_padding_bottom">
+                                                                    <div class="sc_services_item odd first">
+                                                                        <div class="sc_services_item_featured post_featured">
+                                                                            <div class="post_thumb" data-image="images/service-6.jpg" data-title="Bouquets &#038; Style">
+                                                                                <img class="post-image" alt="Bouquets &#038; Style" src="images/WEDDINGPLANNING.jpg">
                                                                             </div>
                                                                         </div>
-                                                                    </li>
-                                                                    <li class="product has-post-thumbnail last" style="text-align: left;">
-                                                                        <h4 class="widget_title" style="color: #cab374; font-family: delicious; margin-top: 0em;r">Bride2be Planner</h4>
-                                                                        <br>
-                                                                        <div class="m_wrapper">
-                                                                            <p style="font-weight: bold;">Este planeador te servirá de apoyo para que consideres y plasmes cada detalle en la organización de tu boda. Queremos que en este día tan especial vivas cada momento y todo salga como lo soñaste.</p>
-                                                                            <p style="font-weight: bold;">Esta libreta está pensada 100% en ti, novia, que con las prisas y el estrés muchas veces olvidas detalles pequeños que pueden ser importantes para ese día.</p>
-                                                                            <div class="sidebar widget_area scheme_original">
-                                                                                <div class="sidebar_inner widget_area_inner"> 
-                                                                                    <ul id="menu-services-menu" class="menu">
+                                                                        <div class="sc_services_item_content">
+                                                                            <p style="color: #88ccca">
+                                                                              Este planeador te servirá de apoyo para que consideres y plasmes cada detalle en la organización de tu boda. Queremos que en este día tan especial vivas cada momento y todo salga como lo soñaste.
+                                                                            </p>
+                                                                            <p style="color: #88ccca">
+                                                                              Esta libreta está pensanda 100% en ti, novia, que con las prisas y el estrés muchas veces olvidas detalles pequeños que pueden ser importantes para ese día.
+                                                                            </p>
+                                                                            <p>
+                                                                              Incluye:<br>
+                                                                              Una sección de preguntas básicas previas a la organización.<br>
+                                                                              Checklist de todas las cosas importantes y necesarias.<br>
+                                                                              Un calendario atemporal para que definas tus citas con proveedores, pagos, etc.<br>
+                                                                              Lista de invitados.<br>
+                                                                              Tips para ese gran día.<br>
+                                                                              Y más...
+                                                                            </p>     
+                                                                        </div>
+                                                                    </div>
+                                                                </div><div class="column-1_2 column_padding_bottom">
+                                                                    <div class="sc_services_item even">
+                                                                        <div class="sc_services_item_featured post_featured">
+                                                                            <div class="post_thumb" data-image="images/service-5.jpg" data-title="Wedding Planning">
+                                                                                <img class="post-image" alt="Wedding Planning" src="images/EVENTPLANNING.jpg">
+                                                                            </div>
+                                                                        </div>
+                                                                        <div class="sc_services_item_content">
+                                                                            <p style="color: #88ccca">Si te interesa adquirir la agenda</p>
+                                                                            <p>
+                                                                              El pago se hace a CLABE interbancaria: 012180011640652634 (Bancomer) ó número de tarjeta: 4152 3134 1208 4563 (Bancomer) a nombre de Alejandra Estefania Tello.
+                                                                            </p> 
+                                                                            <p>
+                                                                              Si quieres hacer un depósito vía Oxxo, 7 Eleven, farmacias, etc. por favor hazlo a la tarjeta: 4915 6630 1322 2253 (Banorte) a nombre de Alejandra Estefania Tello.
+                                                                            </p> 
+                                                                            <p>
+                                                                              Si te encuentras en otro país, me puedes depósitar por Paypal (aleestefaniafitness@gmail.com).
+                                                                            </p>
+                                                                            <p>
+                                                                              $300.00
+                                                                            </p>
+                                                                            <a href="#presupuesto" class="sc_button sc_button_square sc_button_size_small" style="border-style: solid; border-width: 2px;">Pedir Presupuesto</a>
+                                                                            <div id="presupuesto" class="overlay">
+                                                                                <div class="popup">
+                                                                                    <a class="close" href="#">&times;</a>
+                                                                                    <div class="content">
+                                                                                        <h4></h4>  
+                                                                                        <table width="100%">
+                                                                                            <tr>
+                                                                                                <td align="left"><label style="padding-left: 5px; border-left-style: solid; border-left-width: 5px; border-left-color: #cab374;">NOMBRE:&nbsp;</label></td>
+                                                                                                <td><input type="text" name="nombre" aria-required style="margin-left: -300px;"></td>
+                                                                                            </tr>
+                                                                                            <tr>
+                                                                                                <td align="left"><label style="padding-left: 5px; border-left-style: solid; border-left-width: 5px; border-left-color: #cab374;">APELLIDOS:&nbsp;</label></td>
+                                                                                                <td><input type="text" name="apellidos" required style="margin-left: -300px;"></td>
+                                                                                            </tr>
+                                                                                            <tr>
+                                                                                                <td align="left"><label style="padding-left: 5px; border-left-style: solid; border-left-width: 5px; border-left-color: #cab374;">TELÉFONO:&nbsp;</label></td>
+                                                                                                <td><input type="text" name="telefono" style="margin-left: -300px;"></td>
+                                                                                            </tr>
+                                                                                            <tr>
+                                                                                                <td align="left"><label style="padding-left: 5px; border-left-style: solid; border-left-width: 5px; border-left-color: #cab374;">E-MAIL:&nbsp;</label></td>
+                                                                                                <td><input type="text" name="email" required style="margin-left: -300px;"></td>
+                                                                                            </tr> 
+                                                                                            <tr>
+                                                                                                <td align="left"><label style="padding-left: 5px; border-left-style: solid; border-left-width: 5px; border-left-color: #cab374;">DIRECCIÓN:&nbsp;</label></td>
+                                                                                                <td><textarea type="text" name="direccion" style="margin-left: -300px;"></textarea></td>
+                                                                                            </tr>
+                                                                                            <tr>
+                                                                                                <td align="left" style="height: 80px;"><label style="padding-left: 5px; border-left-style: solid; border-left-width: 5px; border-left-color: #cab374;">FECHA DE LA BODA:&nbsp;</label></td>
+                                                                                                <td style="height: 50px;"><input type="date" name="fecha" style="margin-left: -400px;"></td>
+                                                                                            </tr>
+                                                                                            <tr>
+                                                                                                <td align="left"><label style="padding-left: 5px; border-left-style: solid; border-left-width: 5px; border-left-color: #cab374;">¿QUÉ NECESITAS DE FERNANDA CAMPILLO WEDDING PLANNING?&nbsp;</label></td>
+                                                                                            </tr>
+                                                                                            <tr>      
+                                                                                                <td><textarea type="text" name="quenecesitas" style="width: 400px;"></textarea></td>
+                                                                                            </tr>   
+                                                                                        </table>
                                                                                         <br>
-                                                                                        <p>Incluye:</p>
-                                                                                        <li class="menu-item"><a>Una sección de preguntas básicas previas a la organización.</a></li>
-                                                                                        <li class="menu-item"><a>Checklist de todas las cosas importantes y necesarias.</a></li>
-                                                                                        <li class="menu-item"><a>Un calendario atemporal para que definas tus citas con proveedores, pagos, etc.</a></li>
-                                                                                        <li class="menu-item"><a>Lista de invitados.</a></li>
-                                                                                        <li class="menu-item"><a>Tips para ese gran día.</a></li>
-                                                                                        <li class="menu-item"><a>Y más...</a></li>
-                                                                                    </ul>
+                                                                                        <a type="submit" class="sc_button sc_button_square sc_button_size_small" style="border-style: solid; border-width: 2px; line-height: 0.2857em;">Enviar</a>
+                                                                                    </div>
                                                                                 </div>
                                                                             </div>
                                                                         </div>
-                                                                    </li>
-                                                                </ul>
+                                                                    </div>
+                                                                </div>
                                                             </div>
                                                         </div>
+                                                        <!-- end .sc_services -->
                                                     </div>
+                                                    <!-- end .sc_services_wrap -->
                                                 </div>
                                             </div>
                                         </div>
                                     </div>
-                                </div>
-                            </div>  
-                        </section>
-                    </div>
-                    <!-- end .post_content-->
-                </article>
-                <!-- end .post_item .post_item_single -->
+                                 </div> 
+                            </section>                            
+                        </div>
+                        <!--end .post_content-->
+                    </article>
+                    <!--  end .post_item .post_item_single .page .type-page -->
+                </div>
+                <!--end .content-->
             </div>
-            <!-- end .content -->
-        <!-- end .sidebar -->
         </div>
-        <!-- end .content_wrap -->
-    </div> 
+    </div>    
     
     <footer class="footer_wrap widget_area scheme_original">
         <?php require("footer.php"); ?>

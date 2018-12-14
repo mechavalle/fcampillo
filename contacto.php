@@ -30,7 +30,7 @@
 <body class="single single-product woocommerce woocommerce-page">
 
     <header class="top_panel_wrap top_panel_style_1 scheme_original">
-        <?php  //include("header.php"); ?>
+        <?php  include("sliderbar.php"); ?>
         <?php  
             $menu="contacto";
             include("navbar.php");
@@ -116,7 +116,7 @@
                                         <div class="m_wrapper">
                                             <div class="sc_form_wrap">
                                                 <div class="sc_form sc_form_style_form_1 aligncenter sc-contacts-form">
-                                                    <h3 class="sc_form_title sc_item_title sc_item_title_without_descr" style="font-family: delicious; text-underline-position: under; text-decoration: underline; text-decoration: underline; text-decoration-skip-ink: none;">¡Queremos saber de ti!</h3>
+                                                    <img src="images/titulos-08.png" style="width: 70%; margin-bottom: 6%;">
                                                     <form class="sc_input_hover_default" data-formtype="form_1" method="post" action="include/contact-form.php">
                                                     <div class="sc_form_info columns_wrap">
                                                         <div class="sc_form_item sc_form_field label_over column-1_2">

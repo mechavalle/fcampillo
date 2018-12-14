@@ -19,7 +19,7 @@
                 </div>    
                 <div class="logo" style="margin-left: 45%; margin-top: -85px; float: none; margin-bottom: 3.2em;">
                     <img src="images/logotipo.png" class="logo_main" alt="" style="margin-right: 165px; margin-top: -99px;"></a>  
-                    <img src="images/badge-simple_es_MX@2x.jpg" class="logo_main" alt="" style="margin-left: 20px; margin-top: -99px;">
+                    <img src="images/badge-silver_es_MX@2x.jpg" class="logo_main" alt="" style="margin-left: 20px; margin-top: -99px;">
                     <img src="images/2.png" class="logo_main" alt="" style="margin-left: 20px; margin-top: -99px;">
                     <img src="images/unnamed.jpeg" class="logo_main" alt="" style="margin-left: 20px; margin-top: -99px;">
                 </div>

@@ -27,59 +27,81 @@
 <body class="single single-product woocommerce woocommerce-page">
 
     <header class="top_panel_wrap top_panel_style_1 scheme_original">
-        <?php  //include("header.php"); ?>
+        <?php  include("sliderbar.php"); ?>
         <?php  
             $menu="nosotros";
             include("navbar.php");
         ?> 
     </header>   
 
-    <!--.page_content_wrap-->
-    <div class="page_content_wrap page_paddings_no">
-        <!--.content-->
-        <div class="content">
-            <!--.post_item .post_item_single .page .type-page-->
-            <article class="post_item post_item_single page type-page">
-                <!--.post_content -->
-                <div class="post_content">
-                    <section class="no-col-padding">
-                        <div class="container-fluid sc_a-us-bg-type-a ">    
-                            <div class="content_container">
-                                <div class="columns_wrap">
-                                    <div class="column_container column-1_1">
-                                        <div class="column-inner">
-                                            <div class="m_wrapper">
-                                                <div class="columns_wrap sc_columns columns_nofluid sc_columns_count_9 sc_a-us-margin-type-a">
-                                                    <div class="column-5_9 sc_column_item odd first">
-                                                        <h3 class="sc_title sc_title_iconed margin_top_tiny margin_bottom_null sc_a-us-margin-type-c fsz_cust" style="color: #88ccca; font-family: delicious;">&nbsp;Para crear algo excepcional debemos de &nbsp;buscar que cada detalle, cliente, evento o &nbsp;servicio sea realmente significativo.<span class="sc_title_icon sc_title_icon_bottom  sc_title_icon_small"><img src="images/vector-smart-object-copy-12.png" alt="" /></span></h2>
-                                                        <div class="m_text_column m_content_element ">
-                                                            <div class="m_wrapper">
-                                                                <p>Fernanda Campillo Wedding & Event Planner es una empresa que opera en México, eficiente y dedicada a la creación y planificación de bodas y eventos. Su gestión y realización se basan en la combinación de estrategia y creatividad, utilizando recursos y experiencia para seguir satisfaciendo clientes, destacando en elementos visuales.</p>
-                                                                <br>
-                                                                <p>Misión</p>
-                                                                <p>Estamos dedicados a la creación y planificación de eventos con un alto nivel de profesionalismo, en donde nos aseguraremos de innovar para sorprender a todos y cada uno de nuestros clientes, cuidando que nuestros servicios se cumplan en tiempo y forma.</p>
-                                                                <p>Visión</p>
-                                                                <p>Ser una empresa líder dentro de la industria de los eventos, siendo ampliamente reconocidos por nuestro profesionalismo, calidad, vocación y compromiso con los objetivos de nuestros clientes.</p>
-                                                            </div>
-                                                        </div>
-                                                    </div><div class="column-4_9 sc_column_item even">
-                                                        <div class="cq-coverslider  navigation-overlay-right tinyshadow grapefruit " data-imagemaxheight="300" data-buttonbackground="" data-buttonhoverbackground="#222F46" data-contentbackground="" data-contentcolor="" data-arrowcolor="" data-arrowhovercolor="" data-delaytime="2">
-                                                            <div class="cq-coverslider-area btn-large square">
-                                                                <div class="cq-coverslider-cover">
-                                                                    <div class="cq-coverslider-itemcontainer">
-                                                                        <div class="cq-coverslider-imageitem"><img src="images/DAY-OFCORDINATION.jpg" class="cq-coverslider-image" alt="" style="width: 4288px; height: 448px;"></div>
-                                                                        <div class="cq-coverslider-imageitem"><img src="images/COORDINATIONPACKAGE.jpg" class="cq-coverslider-image" alt="" style="width: 4288px; height: 448px;"></div>
-                                                                        <div class="cq-coverslider-imageitem"><img src="images/FULLSERVICEGUIDE.jpg" class="cq-coverslider-image" alt="" style="width: 4288px; height: 448px;"></div>
+    <section class="no-col-padding">
+        <div class="container-fluid sc_home-box-bg-type-d">    
+            <div class="content_container_fluid">
+                <div class="columns_wrap">
+                    <div class="column_container">
+                        <div class="column-inner">
+                            <div class="m_wrapper">
+                                <div class="sc_section aligncenter sc_home-box-margin-type-f">
+                                    <div class="sc_section_inner">
+                                        <div class="sc_section_content_wrap">
+                                            <div class="esg-media-cover-wrapper">
+                                                <div class="esg-entry-media">
+                                                    <img src="images/BIO.jpg" alt="" style="height: 576px; width: 1349px;">
+                                                </div>
+                                            </div>         
+                                        </div>
+                                    </div>
+                                </div>    
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div> 
+        </div>
+    </section>
+    <div class="page_content_wrap page_paddings_yes">
+        <div class="sc_services_wrap">  
+            <div class="content_wrap">
+                <div class="content">
+                    <!--.post_item .post_item_single .page .type-page -->
+                    <article class="post_item post_item_single page type-page">
+                        <!--.post_content-->
+                        <div class="post_content">
+                            <section class="no-col-padding">
+                                <div class="content_container">
+                                    <div class="columns_wrap">
+                                        <div class="column_container column-1_1">
+                                            <div class="column-inner">
+                                                <div class="m_wrapper">
+                                                    <!--.sc_services_wrap -->
+                                                    <div class="sc_services_wrap">
+                                                        <!-- .sc_services -->
+                                                        <div class="sc_services sc_services_style_services-1 sc_services_type_images  margin_top_tiny- margin_bottom_large full-width">
+                                                            <div class="sc_columns columns_wrap" style="margin-top: 50px;">
+                                                                <div class="column-1_2 column_padding_bottom">
+                                                                    <img src="images/titulos-03.png" style="width: 60%; padding-left: 20%; margin-bottom: 5%; margin-top: 5%;">
+                                                                    <div class="sc_services_item odd first">
+                                                                        <div class="sc_services_item_content">
+                                                                            <p>
+                                                                              Soy Fer, Licenciada en Dirección de Empresas de Entretenimiento y certificada por el INIBEP en Wedding & Event Planner. 
+                                                                            <br>
+                                                                              Lo que más me caracteriza es que siempre estoy creando ideas nuevas, es por eso que este gran proyecto lo creé para ti de una forma muy especial y junto con mi equipo coordinaremos minuciosamente cada paso en la organización de tu boda o evento.
+                                                                            </p>
+                                                                            <p>
+                                                                             <font color="#88ccca">Fernanda Campillo Wedding & Event Planner</font> es una empresa que opera en México, eficiente y dedicada a la creación y planificación de bodas y eventos. Su gestión y realización se basan en la combinación de estrategia y creatividad, utilizando recursos y experiencia para seguir satisfaciendo clientes, destacando en elementos visuales.
+                                                                            </p>     
+                                                                        </div>
                                                                     </div>
-                                                                </div>
-                                                                <div class="cq-coverslider-content">
-                                                                    <div class="cq-coverslider-contentitem"></div>
-                                                                    <div class="cq-coverslider-contentitem"></div>
-                                                                    <div class="cq-coverslider-contentitem"></div>
-                                                                </div>
-                                                            </div>
-                                                            <div class="cq-coverslider-navigation btn-large">
-                                                                <div class="coverslider-navigation-prev"><i class="cq-coverslider-icon entypo-icon entypo-icon-left-open-big"></i></div><div class="coverslider-navigation-next"><i class="cq-coverslider-icon entypo-icon entypo-icon-right-open-big"></i></div>
+                                                                </div><div class="column-1_2 column_padding_bottom">
+                                                                     <img src="images/titulos-04.png" style="width: 60%; padding-left: 20%; margin-bottom: 5%; margin-top: 5%;">
+                                                                    <div class="sc_services_item even">
+                                                                        <div class="sc_services_item_content">
+                                                                            <p>
+                                                                              Soy Andrea, Coordinadora de Eventos en <font color="#88ccca">Fernanda Campillo Wedding & Event Planner (Riviera Maya)</font>. Realicé dos cursos por parte de Event Planning Academy en Diseño y Ambientación de Eventos y Tendencias en Eventos Sociales. 
+                                                                            </p>
+                                                                            <p>
+                                                                             Me encanta todo lo que tiene que ver con decoración, los colores, las texturas, olores, etc. y con esto no sólo me comprometo a hacer que tu boda o evento no pierda tu esencia sino que también crearemos experiencias únicas, en donde no sólo tú como cliente quedes satisfecho sino que tus invitados vivan el sueño a través de todo lo que trabajamos durante meses.                                                          
+                                                                            </p>   
                                                             </div>
                                                         </div>
                                                     </div>
