@@ -78,21 +78,21 @@
                                                                 <div class="columns_wrap sc_columns columns_nofluid sc_columns_count_3">
                                                                     <div class="column-1_2 sc_column_item odd first sc-contacts-column-custom">
                                                                         <span class="sc_icon sc_icon_shape_round sc-contacts-transform"><img src="images/cdmx.png"></span>
-                                                                        <h5 class="sc_title sc_title_regular sc_align_center sc-contacts-custom-h5" style="font-family: delicious;">CDMX</h5>
+                                                                        <h5 class="sc_title sc_title_regular sc_align_center sc-contacts-custom-h5" style="font-family: delicious; color: #737373;">CDMX</h5>
                                                                         <div class="m_text_column m_content_element ">
                                                                             <div class="m_wrapper">
-                                                                                <p>123 New Lenox,
-                                                                                <br /> Chicago, IL 60606</p>
+                                                                                <p style="font-weight: bold;">Cerrada Hidalgo 11 - 1
+                                                                                <br />Col. Rancho San Francisco</p>
                                                                             </div>
                                                                         </div>
                                                                         <div class="sc-contacts-emptyspace" ></div>
                                                                     </div><div class="column-1_2 sc_column_item even sc-contacts-column-custom">
                                                                         <span class="sc_icon sc_icon_shape_round sc-contacts-transform"><img src="images/cancun.png"></span>
-                                                                        <h5 class="sc_title sc_title_regular sc_align_center sc-contacts-custom-h5" style="font-family: delicious;">Riviera Maya</h5>
+                                                                        <h5 class="sc_title sc_title_regular sc_align_center sc-contacts-custom-h5" style="font-family: delicious; color: #737373;">Riviera Maya</h5>
                                                                         <div class="m_text_column m_content_element ">
                                                                             <div class="m_wrapper">
-                                                                                <p>123 New Lenox,
-                                                                                <br /> Chicago, IL 60606</p>
+                                                                                <p style="font-weight: bold;">Azuna Corporate Center piso 11
+                                                                                <br />Av. Sayil esquina Av. Savignac</p>
                                                                             </div>
                                                                         </div>
                                                                     </div>
@@ -116,8 +116,7 @@
                                         <div class="m_wrapper">
                                             <div class="sc_form_wrap">
                                                 <div class="sc_form sc_form_style_form_1 aligncenter sc-contacts-form">
-                                                    <h3 class="sc_form_title sc_item_title sc_item_title_without_descr" style="font-family: delicious;">¡Queremos saber de ti!</h3>
-                                                    <h6 class="sc_form_subtitle sc_item_subtitle"></h6>
+                                                    <h3 class="sc_form_title sc_item_title sc_item_title_without_descr" style="font-family: delicious; text-underline-position: under; text-decoration: underline; text-decoration: underline; text-decoration-skip-ink: none;">¡Queremos saber de ti!</h3>
                                                     <form class="sc_input_hover_default" data-formtype="form_1" method="post" action="include/contact-form.php">
                                                     <div class="sc_form_info columns_wrap">
                                                         <div class="sc_form_item sc_form_field label_over column-1_2">

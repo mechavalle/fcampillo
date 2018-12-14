@@ -17,6 +17,11 @@
     padding-right: 0.5em;
 	} 
 
+.social a:hover
+	{
+	font-size: small;	
+	}	
+
 </style>
 
 <div class="social sc_socials sc_socials_type_icons sc_socials_shape_round">

@@ -2113,6 +2113,8 @@ body:not(.top_panel_fixed) .top_panel_position_over .top_panel_bottom {
 .top_panel_style_1 .sc_socials{
 	    float: right;
 	    margin-top: 1.34em;
+	    border-top-right-radius: 15px;
+    	border-bottom-right-radius: 15px;
 }
 
 .top_panel_style_1 .sc_socials.sc_socials_size_tiny{

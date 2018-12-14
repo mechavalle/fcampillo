@@ -80,7 +80,7 @@ p {
 .scheme_original h3 a,
 .scheme_original h4 a,
 .scheme_original h5 a {
-  color: #737373;
+  color: #88ccca;
 }
 .scheme_original h6,
 .scheme_original h6 a {
@@ -3312,7 +3312,7 @@ button,
   border-color: #dfe0e0;
 }
 .scheme_original .sc_price_block.sc_price_block_style_1 {
-  background-color: #f2f1f0;
+  background-color: transparent;
 }
 .scheme_original .sc_price_block.sc_price_block_style_2 {
   background-color: #cbb9a6;

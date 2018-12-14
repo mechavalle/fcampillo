@@ -132,9 +132,7 @@
                             <div class="m_wrapper">
                                 <div class="sc_section sc_section_block sc_home-margin-type-j">
                                     <div class="sc_section_inner">
-                                        <h3 class="sc_section_title sc_item_title sc_item_title_without_descr" style="font-family: delicious;">Paquetes de Wedding
-                                        <br>& Event Planner</h3>
-                                        <h4 class="sc_section_subtitle sc_item_subtitle"></h4>
+                                        <h3 class="sc_section_title sc_item_title sc_item_title_without_descr" style="font-family: delicious; text-underline-position: under; text-decoration: underline; text-decoration: underline; text-decoration-skip-ink: none;">Paquetes</h3>
                                         <div class="sc_section_content_wrap">
                                             <div class="columns_wrap sc_columns columns_nofluid sc_columns_count_3">
                                                 <div class="column-1_3 sc_column_item odd first">

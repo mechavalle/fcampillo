@@ -19,12 +19,17 @@ switch($menu)
 
 ?>
 
-<div class="page_wrap">
+<style type="text/css">
+    img {
+ 
+</style>
+
+<div class="page_wrap" style="padding-top: 34px">
     <div class="top_panel_wrap_inner top_panel_inner_style_2 top_panel_position_above">
         <header class="top_panel_wrap top_panel_style_2 scheme_original">
             <div class="top_panel_bottom">
-                <div class="content_wrap clearfix">
-                    <nav class="menu_main_nav_area menu_hover_fade" style="top: 13px;">
+                <div class="content_wrap clearfix" style="height: 70px; bottom: 10px;">
+                    <nav class="menu_main_nav_area menu_hover_fade">
                         <ul id="menu_main" class="menu_main_nav">
                             <li <?php echo $chome; ?> class="menu-item"><a href="index.php"><span>HOME</span></a></li>
                             <li <?php echo $cnosotros; ?> class="menu-item menu-item-has-children"><a href="nosotros.php"><span>NOSOTROS</span></a>
@@ -33,7 +38,7 @@ switch($menu)
                                 </ul>
                             </li>
                             <li <?php echo $cservicios; ?> class="menu-item"><a href="servicios.php"><span>SERVICIOS</span></a></li>
-                            <li style="height: auto; padding: 15px; width: 120px; display: inline-flex;"><a href="index.php"><img src="images/logotipo.png" style="display: flex; justify-content: center; position: absolute; width: 100%; left: 0; top: -15px;"></a></li>
+                            <li style="height: auto; width: 170px; display: inline-flex;"><a href="index.php"><img src="images/logotipo.png" style="display: flex; justify-content: center; position: absolute; left: 0; top: -40px;"></a></li>
                             <li <?php echo $cportafolio; ?> class="menu-item"><a href="portafolio.php"><span>PORTAFOLIO</span></a></li>
                             <li <?php echo $cagenda; ?> class="menu-item"><a href="agenda.php"><span>AGENDA</span></a></li>
                             <li <?php echo $ccontacto; ?> class="menu-item"><a href="contacto.php"><span>CONTACTO</span></a></li>
