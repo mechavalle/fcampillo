@@ -104,7 +104,7 @@
     </header>
  
     <section class="no-col-padding">
-        <div class="container-fluid sc_home-box-bg-type-d">    
+        <div class="container-fluid sc_home-box-bg-type-d" style="padding-right: 0px; padding-left: 0px;">    
             <div class="content_container_fluid">
                 <div class="columns_wrap">
                     <div class="column_container">
