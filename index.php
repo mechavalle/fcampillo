@@ -25,6 +25,10 @@
     <link property="stylesheet" rel='stylesheet' href='js/vendor/mediaelement/wp-mediaelement.css' type='text/css' media='all' />
     <link property="stylesheet" rel='stylesheet' href='css/responsive.css' type='text/css' media='all' /> 
     <link rel="stylesheet" href="fw/css/font-awesome.css"></link>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+
 </head> 
 
 <style type="text/css">
@@ -86,6 +90,7 @@
       overflow: auto;
       max-height: 100%;
     }
+
 </style>
 
 <body class="single single-product woocommerce woocommerce-page">
@@ -97,7 +102,7 @@
             include("navbar.php");
         ?> 
     </header>
-       
+ 
     <section class="no-col-padding">
         <div class="container-fluid sc_home-box-bg-type-d">    
             <div class="content_container_fluid">
@@ -110,19 +115,79 @@
                                         <div class="sc_section_content_wrap">
                                             <div class="esg-media-cover-wrapper">
                                                 <div class="esg-entry-media">
-                                                    <img src="images/anillo.jpg" alt="" style="height: 576px; width: 1349px;">
+                                                    <div id="myCarousel" class="carousel slide" data-ride="carousel">       
+                                                        <!-- Indicators -->
+                                                        <ol class="carousel-indicators">
+                                                            <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+                                                            <li data-target="#myCarousel" data-slide-to="1"></li>
+                                                            <li data-target="#myCarousel" data-slide-to="2"></li>
+                                                            <li data-target="#myCarousel" data-slide-to="3"></li>
+                                                            <li data-target="#myCarousel" data-slide-to="4"></li>
+                                                            <li data-target="#myCarousel" data-slide-to="5"></li>
+                                                            <li data-target="#myCarousel" data-slide-to="6"></li>
+                                                            <li data-target="#myCarousel" data-slide-to="7"></li>
+                                                        </ol>
+
+                                                        <!-- Wrapper for slides -->
+                                                        <div class="carousel-inner">
+
+                                                            <div class="item active">
+                                                                <img src="images/s1.jpg" style="height: 576px; width: 1349px;">
+                                                            </div>
+
+                                                            <div class="item">
+                                                                <img src="images/s2.jpg" style="height: 576px; width: 1349px;">
+                                                             </div>
+                                                            
+                                                            <div class="item">
+                                                                <img src="images/s3.jpg" style="height: 576px; width: 1349px;">
+                                                            </div>
+
+                                                            <div class="item">
+                                                                <img src="images/s4.jpg" style="height: 576px; width: 1349px;">
+                                                            </div>
+
+                                                            <div class="item">
+                                                                <img src="images/s5.jpg" style="height: 576px; width: 1349px;">
+                                                             </div>
+                                                            
+                                                            <div class="item">
+                                                                <img src="images/s6.jpg" style="height: 576px; width: 1349px;">
+                                                            </div>
+
+                                                            <div class="item">
+                                                                <img src="images/s7.jpg" style="height: 576px; width: 1349px;">
+                                                             </div>
+                                                            
+                                                            <div class="item">
+                                                                <img src="images/s8.jpg" style="height: 576px; width: 1349px;">
+                                                            </div>
+                                                          
+                                                        </div>
+
+                                                        <!-- Left and right controls -->
+                                                        <a class="left carousel-control" href="#myCarousel" data-slide="prev">
+                                                            <span class="glyphicon glyphicon-chevron-left"></span>
+                                                            <span class="sr-only">Previous</span>
+                                                        </a>
+                                                        <a class="right carousel-control" href="#myCarousel" data-slide="next">
+                                                            <span class="glyphicon glyphicon-chevron-right"></span>
+                                                            <span class="sr-only">Next</span>
+                                                        </a>
+                                                    </div>
                                                 </div>
-                                            </div>         
+                                            </div>
                                         </div>
                                     </div>
-                                </div>    
+                                </div>
                             </div>
                         </div>
                     </div>
                 </div>
-            </div> 
+            </div>
         </div>
     </section>
+                           
     <section class="no-col-padding">
         <div class="container-fluid">    
             <div class="content_container">
