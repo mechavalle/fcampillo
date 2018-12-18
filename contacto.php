@@ -49,12 +49,19 @@
                                 <div class="column_container column-1_1">
                                     <div class="column-inner">
                                         <div class="m_wrapper">
-                                            <div id="sc_googlemap_1_wrap" class="sc_googlemap sc-googlemap-param" data-zoom="14" data-style="simple">
+                                            <div id="sc_googlemap_1_wrap" class="sc_googlemap sc-googlemap-param" data-zoom="5" data-style="simple">
                                                 <div id="sc_googlemap_1_1" class="sc_googlemap_marker" 
                                                     data-title="" 
-                                                    data-description="Los Angeles" 
-                                                    data-address="Los Angeles" 
-                                                    data-latlng="" 
+                                                    data-description="Riviera Maya" 
+                                                    data-address="Av. Sayil Esq con Av. Savignac, Malecón Tajamar, Zona Hotelera, 77503 Cancún, Q.R." 
+                                                    data-latlng="21.149032, -86.819170" 
+                                                    data-point="images/location.png">
+                                                </div>
+                                                <div id="sc_googlemap_1_1" class="sc_googlemap_marker" 
+                                                    data-title="" 
+                                                    data-description="CDMX" 
+                                                    data-address="Tenancingo 34, Cuauhtémoc, 06140 Ciudad de México, CDMX" 
+                                                    data-latlng="19.413088, -99.173390" 
                                                     data-point="images/location.png">
                                                 </div>
                                             </div>
@@ -166,7 +173,7 @@
     <script type='text/javascript' src='js/custom/template.shortcodes.js'></script>
     <script type='text/javascript' src='js/vendor/magnific/jquery.magnific-popup.min.js'></script>
     <script type='text/javascript' src='js/vendor/core.messages/core.messages.js'></script>
-    <script type='text/javascript' src='http://maps.google.com/maps/api/js?key=AIzaSyA2RBVOv2ey-tb7TT1-_JCo8NbkRbYQBfc&#038;rnd=648824398'></script>
+    <script type='text/javascript' src='http://maps.google.com/maps/api/js?key=AIzaSyBUWtDt2T2JDstiqHj9u6fEZ5rtFxGNL6E'></script>
     <script type='text/javascript' src='js/custom/core.googlemap.js'></script>    
 
 </body>
