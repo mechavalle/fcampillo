@@ -19,12 +19,15 @@
     <link property="stylesheet" rel='stylesheet' href='js/vendor/woocommerce/assets/css/plugin.woocommerce.css' type='text/css' media='all' />
     <link property="stylesheet" rel='stylesheet' href='css/responsive.css' type='text/css' media='all' />
     <link rel="stylesheet" href="fw/css/font-awesome.css"></link>
+    <link property="stylesheet" rel='stylesheet' href='css/core.portfolio.css' type='text/css' media='all' />
+   
+</head>
 </head>
 
 <body class="single single-product woocommerce woocommerce-page">
 
     <header class="top_panel_wrap top_panel_style_1 scheme_original">
-        <?php  //include("header.php"); ?>
+        <?php  include("sliderbar.php"); ?>
         <?php  
             $menu="servicios";
             include("navbar.php");
@@ -49,73 +52,77 @@
                                             <div class="sc_services_wrap">
                                                 <!-- .sc_services -->
                                                 <div class="sc_services sc_services_style_services-1 sc_services_type_images  margin_top_tiny- margin_bottom_large full-width">
-                                                    <h3 class="sc_services_title sc_item_title sc_item_title_without_descr" style="font-family: delicious;">Nuestros Servicios</h3>
-                                                    <h6 class="sc_services_subtitle sc_item_subtitle"></h6>
+                                                    <img src="images/titulos_2-07.png" style="width: 30%; padding-left: 34%; margin-bottom: 3%; margin-top: 1%;">
                                                     <div class="sc_columns columns_wrap">
-                                                        <div class="column-1_3 column_padding_bottom">
-                                                            <div class="sc_services_item odd first">
-                                                                <div class="sc_services_item_featured post_featured">
-                                                                    <div class="post_thumb" data-image="images/service-6.jpg" data-title="Bouquets &#038; Style">
-                                                                        <a class="hover_icon hover_icon_view" href="images/WP1.jpg"><img class="post-image" alt="Bouquets &#038; Style" src="images/WEDDINGPLANNING.jpg"></a>
+                                                        <div class="column-1_2 column_padding_bottom">
+                                                            <div  class="sc_blogger">
+                                                                <div class="isotope_wrap">
+                                                                    <!--.isotope_item -->
+                                                                    <div class="isotope_item isotope_item_portfolio">
+                                                                        <!--.post_item -->
+                                                                        <div class="post_item odd">
+                                                                            <!-- .post_content -->
+                                                                            <div class="post_content isotope_item_content ih-item colored square effect_shift left_to_right">
+                                                                                <div class="post_featured img ">
+                                                                                    <div class="sc_services_item odd first">
+                                                                                        <div class="sc_services_item_featured post_featured">
+                                                                                            <div class="post_thumb" data-title="Bouquets &#038; Style">
+                                                                                                <img class="post-image" src="images/servicio1.jpg" style="width: 565px; height: 377px;"></a> 
+                                                                                            </div>
+                                                                                            <!--.info -->
+                                                                                            <div class="post_info_wrap info">
+                                                                                                <!--.info-back  -->
+                                                                                                <div class="info-back">
+                                                                                                    <p>
+                                                                                                        Cuéntanos lo que tienes en mente y nuestro equipo se encargará de ayudarte a hacerlo realidad.
+                                                                                                        Nos encargaremos de brindarte una experiencia y hacer que desde el más mínimo detalle haga la diferencia. Cada amor es una historia por contar.
+                                                                                                    </p>
+                                                                                                    <!--end .info-back  -->
+                                                                                                </div>
+                                                                                                <!--end .info -->
+                                                                                            </div>
+                                                                                        </div>
+                                                                                    </div>
+                                                                                </div>
+                                                                            </div>
+                                                                        </div>
                                                                     </div>
                                                                 </div>
                                                                 <div class="sc_services_item_content">
-                                                                    <h4 class="sc_services_item_title"><a style="font-family: delicious;">Wedding planning</a></h4>
+                                                                    <img src="images/titulos_2-14.png" style="width: 70%; padding-left: 10%; margin-bottom: 0%; margin-top: 0%;">
                                                                 </div>
                                                             </div>
-                                                        </div><div class="column-1_3 column_padding_bottom">
+                                                        </div><div class="column-1_2 column_padding_bottom">
                                                             <div class="sc_services_item even">
                                                                 <div class="sc_services_item_featured post_featured">
-                                                                    <div class="post_thumb" data-image="images/service-5.jpg" data-title="Wedding Planning">
-                                                                        <a class="hover_icon hover_icon_view" href="images/EP2.jpg"><img class="post-image" alt="Wedding Planning" src="images/EVENTPLANNING.jpg"></a>
+                                                                    <div class="post_thumb" data-title="Wedding Planning">
+                                                                       <img class="post-image" alt="Wedding Planning" src="images/servicio2.jpg" style="width: 565px; height: 377px;"></a> 
                                                                     </div>
                                                                 </div>
                                                                 <div class="sc_services_item_content">
-                                                                    <h4 class="sc_services_item_title"><a style="font-family: delicious;">Event planning</a></h4>
+                                                                    <img src="images/titulos_2-15.png" style="width: 60%; padding-left: 0%; margin-bottom: 0%; margin-top: 0%;">
                                                                 </div>
                                                             </div>
-                                                        </div><div class="column-1_3 column_padding_bottom">
+                                                        </div><div class="column-1_2 column_padding_bottom">
                                                             <div class="sc_services_item odd">
                                                                 <div class="sc_services_item_featured post_featured">
-                                                                    <div class="post_thumb" data-image="images/service-4.jpg" data-title="Catering &#038; Decoration">
-                                                                        <a class="hover_icon hover_icon_view" href="images/DECORACIÓN Y AMBIENTACIÓN.jpg"><img class="post-image" alt="Catering &#038; Decoration" src="images/DA3.jpg"></a>
+                                                                    <div class="post_thumb" data-title="Catering &#038; Decoration">
+                                                                        <img class="post-image" alt="Catering &#038; Decoration" src="images/servicio3.jpg" style="width: 565px; height: 377px;"></a>
                                                                     </div>
                                                                 </div>
                                                                 <div class="sc_services_item_content">
-                                                                    <h4 class="sc_services_item_title"><a style="font-family: delicious;">Decoración y Ambientación</a></h4>
+                                                                    <img src="images/titulos_2-17.png" style="width: 70%; padding-left: 0%; margin-bottom: 0%; margin-top: 0%;">
                                                                 </div>
                                                             </div>
-                                                        </div><div class="column-1_3 column_padding_bottom">
+                                                        </div><div class="column-1_2 column_padding_bottom">
                                                             <div class="sc_services_item even">
                                                                 <div class="sc_services_item_featured post_featured">
-                                                                    <div class="post_thumb" data-image="images/service-3.jpg" data-title="Gift Ideas">
-                                                                        <a class="hover_icon hover_icon_view" href="images/MI4.jpg"><img class="post-image" alt="Gift Ideas" src="images/MOBILIARIOEILUMINACION.jpg"></a>
+                                                                    <div class="post_thumb" data-title="Gift Ideas">
+                                                                        <img class="post-image" alt="Gift Ideas" src="images/servicio4.jpg" style="width: 565px; height: 377px;"></a>
                                                                     </div>
                                                                 </div>
                                                                 <div class="sc_services_item_content">
-                                                                    <h4 class="sc_services_item_title"><a style="font-family: delicious;">Mobiliario e Iluminación</a></h4>
-                                                                </div>
-                                                            </div>
-                                                        </div><div class="column-1_3 column_padding_bottom">
-                                                            <div class="sc_services_item odd">
-                                                                <div class="sc_services_item_featured post_featured">
-                                                                    <div class="post_thumb" data-image="images/service-2.jpg" data-title="Ceremony Ideas">
-                                                                       <a class="hover_icon hover_icon_view" href="images/BANQUETES Y MESAS DE DULCES.jpg"><img class="post-image" alt="Ceremony Ideas" src="images/BANQUETES Y MESAS DE DULCES.jpg"></a>
-                                                                    </div>
-                                                                </div>
-                                                                <div class="sc_services_item_content">
-                                                                    <h4 class="sc_services_item_title"><a style="font-family: delicious;">Banquetes y Mesas de dulces</a></h4>
-                                                                </div>
-                                                            </div>
-                                                        </div><div class="column-1_3 column_padding_bottom">
-                                                            <div class="sc_services_item even">
-                                                                <div class="sc_services_item_featured post_featured">
-                                                                    <div class="post_thumb" data-image="images/service-1.jpg" data-title="Beach Weddings">
-                                                                        <a class="hover_icon hover_icon_view" href="images/BD6.jpg"><img class="post-image" alt="Beach Weddings" src="images/BODASDESTINO.jpg"></a>
-                                                                    </div>
-                                                                </div>
-                                                                <div class="sc_services_item_content">
-                                                                    <h4 class="sc_services_item_title"><a style="font-family: delicious;">Bodas destino</a></h4>
+                                                                    <img src="images/titulos_2-16.png" style="width: 55%; padding-left: 0%; margin-bottom: 0%; margin-top: 0%;">
                                                                 </div>
                                                             </div>
                                                         </div>
@@ -127,6 +134,7 @@
                                         </div>
                                     </div>
                                 </div>
+                                <img src="images/ICONOS-03.png">
                             </div>
                         </div>	
                     </section>                                           
@@ -154,6 +162,8 @@
     <script type='text/javascript' src='js/custom/template.shortcodes.js'></script>
     <script type='text/javascript' src='js/vendor/magnific/jquery.magnific-popup.min.js'></script>
     <script type='text/javascript' src='js/vendor/core.messages/core.messages.js'></script>
+    <script type='text/javascript' src='js/vendor/jquery.isotope.min.js'></script>
+    <script type='text/javascript' src='js/vendor/jquery.hoverdir.js'></script>
 
 </body>
 </html>			

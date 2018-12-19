@@ -27,6 +27,23 @@
     <link rel="stylesheet" href="fw/css/font-awesome.css"></link>
 </head>    
 
+<style type="text/css">
+    .scheme_original input[type="text"],
+    .scheme_original input[type="tel"],
+    .scheme_original input[type="number"],
+    .scheme_original input[type="email"],
+    .scheme_original input[type="date"],
+    .scheme_original textarea
+    {
+      border-color: #cab374;
+      border-width: 1px;
+    }
+    textarea 
+    {
+    min-height: 3em;
+    }
+</style>
+
 <body class="single single-product woocommerce woocommerce-page">
 
     <header class="top_panel_wrap top_panel_style_1 scheme_original">
@@ -38,6 +55,7 @@
     </header>
         
     <div class="page_content_wrap page_paddings_no scheme_original">
+        <img src="images/titulos_2-19.png" style="width: 40%; padding-left: 29%; margin-bottom: 2%; margin-top: 3%;">
         <div class="content">
             <!-- .post_item_single .page .type-page  -->
             <article class="post_item_single page type-page">
@@ -123,20 +141,23 @@
                                         <div class="m_wrapper">
                                             <div class="sc_form_wrap">
                                                 <div class="sc_form sc_form_style_form_1 aligncenter sc-contacts-form">
-                                                    <img src="images/titulos-08.png" style="width: 70%; margin-bottom: 6%;">
+                                                    <img src="images/titulos_2-08.png" style="width: 70%; margin-bottom: 6%; margin-top: -75px;">
                                                     <form class="sc_input_hover_default" data-formtype="form_1" method="post" action="include/contact-form.php">
                                                     <div class="sc_form_info columns_wrap">
                                                         <div class="sc_form_item sc_form_field label_over column-1_2">
-                                                            <input id="sc_form_username" type="text" name="username" placeholder="Name *" aria-required="true">
+                                                            <input id="sc_form_username" type="text" name="username" placeholder="NOMBRE" aria-required="true">
                                                         </div><div class="sc_form_item sc_form_field label_over column-1_2">
-                                                            <input id="sc_form_email" type="text" name="email" placeholder="E-mail *" aria-required="true">
+                                                            <input id="sc_form_username" type="text" name="username" placeholder="APELLIDOS" aria-required="true">
+                                                        </div>
+                                                        <div class="sc_form_item sc_form_field label_over column-1_2">
+                                                            <input id="sc_form_email" type="text" name="email" placeholder="E-MAIL" aria-required="true">
                                                         </div>
                                                         <div class="sc_form_item sc_form_message column-1_1">
-                                                            <textarea id="sc_form_message" name="message" placeholder="Message" aria-required="true"></textarea>
+                                                            <textarea id="sc_form_message" name="message" placeholder="MENSAJE" aria-required="true"></textarea>
                                                         </div>
                                                     </div>
                                                     <div class="sc_form_item sc_form_button">
-                                                        <button>Send Message</button>
+                                                       <a type="submit" class="sc_button sc_button_square sc_button_size_small" style="border-style: solid; border-width: 2px; line-height: 0.2857em;">Enviar</a>
                                                     </div>
                                                     <div class="result sc_infobox"></div>
                                                     </form> 

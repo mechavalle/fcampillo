@@ -24,7 +24,7 @@
 <body class="single single-product woocommerce woocommerce-page">
 
     <header class="top_panel_wrap top_panel_style_1 scheme_original">
-        <?php  //include("header.php"); ?>
+        <?php  include("sliderbar.php"); ?>
         <?php  
             $menu="portafolio";
             include("navbar.php");
@@ -34,8 +34,7 @@
     <div class="page_content_wrap page_paddings_yes">
         <div class="sc_services_wrap">
             <div class="sc_services sc_services_style_services-1 sc_services_type_images  margin_top_tiny- margin_bottom_large full-width">
-                <h3 class="sc_services_title sc_item_title sc_item_title_without_descr" style="font-family: delicious;">Nuestros proyectos</h3>
-                <h6 class="sc_services_subtitle sc_item_subtitle"></h6>
+                <img src="images/titulos_2-01.png" style="width: 45%; padding-left: 27%; margin-bottom: 0%; margin-top: 2%;">
             </div>    
             <div class="content_wrap">
                 <div class="content">
@@ -56,22 +55,10 @@
                                                                     <!-- .post_content -->
                                                                     <div class="post_content isotope_item_content ih-item colored square effect_shift left_to_right">
                                                                         <div class="post_featured img ">
-                                                                            <img class="post-image"  alt="The First Day of the Rest of Their Lives" src="images/post-8-370x246.jpg">
-                                                                        </div>
-                                                                        <!--.info -->
-                                                                        <div class="post_info_wrap info">
-                                                                            <!--.info-back  -->
-                                                                            <div class="info-back">
-                                                                                <h4 class="post_title">The First Day of the Rest of Their Lives</h4>
-                                                                                <div class="post_descr">
-                                                                                    <p class="post_info"> <span class="post_info_item post_info_posted">Aug 15, 2016</span> <span class="post_info_item post_info_counters"><a class="post_counters_item post_counters_comments" title="Comments - 0" href="#"><span class="post_counters_number">0 comments</span></a></span></p>
-                                                                                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc porta fringilla ullamcorper. Morbi felis orci&#8230;</p>
-                                                                                    <p class="post_buttons"></p>
-                                                                                </div>
+                                                                            <div class="post_thumb">
+                                                                                <img class="post-image" src="images/Portafolio1 - copia.jpeg" style="width: 370px; height: 246px;">
                                                                             </div>
-                                                                            <!--end .info-back  -->
                                                                         </div>
-                                                                        <!--end .info -->
                                                                     </div>
                                                                     <!-- end .post_content -->
                                                                 </div>
@@ -84,22 +71,10 @@
                                                                    <!--.post_content -->
                                                                     <div class="post_content isotope_item_content ih-item colored square effect_shift left_to_right">
                                                                         <div class="post_featured img ">
-                                                                            <img class="post-image"  alt="Colors and Textures for Summer Weddings" src="images/post-3-370x246.jpg">
-                                                                        </div>
-                                                                        <!--.info -->
-                                                                        <div class="post_info_wrap info">
-                                                                            <!--.info-back  -->
-                                                                            <div class="info-back">
-                                                                                <h4 class="post_title">Colors and Textures for Summer Weddings</h4>
-                                                                                <div class="post_descr">
-                                                                                    <p class="post_info"> <span class="post_info_item post_info_posted">Jun 21, 2016</span> <span class="post_info_item post_info_counters"><span class="post_counters_number">0 comments</span></span></p>
-                                                                                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc porta fringilla ullamcorper. Morbi felis orci&#8230;</p>
-                                                                                    <p class="post_buttons"></p>
-                                                                                </div>
+                                                                            <div class="post_thumb">
+                                                                                <img class="post-image"  alt="Colors and Textures for Summer Weddings" src="images/Portafolio2.jpg" style="width: 370px; height: 246px;">
                                                                             </div>
-                                                                            <!--end .info-back  -->
                                                                         </div>
-                                                                        <!--end .info -->
                                                                     </div>
                                                                     <!-- end .post_content -->
                                                                 </div>
@@ -113,22 +88,10 @@
                                                                     <!--.post_content -->
                                                                     <div class="post_content isotope_item_content ih-item colored square effect_shift left_to_right">
                                                                         <div class="post_featured img ">
-                                                                            <img class="post-image" alt="Happily Ever after or Yes! I Will" src="images/post-3-370x246.jpg">
-                                                                        </div>
-                                                                        <!--.info -->
-                                                                        <div class="post_info_wrap info">
-                                                                            <!--.info-back  -->
-                                                                            <div class="info-back">
-                                                                                <h4 class="post_title">Happily Ever after or Yes! I Will</h4>
-                                                                                <div class="post_descr">
-                                                                                    <p class="post_info"> <span class="post_info_item post_info_posted"> Jun 15, 2016</span> <span class="post_info_item post_info_counters"><span class="post_counters_number">0 comments</span></span></p>
-                                                                                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc porta fringilla ullamcorper. Morbi felis orci&#8230;</p>
-                                                                                    <p class="post_buttons"></p>
-                                                                                </div>
+                                                                            <div class="post_thumb">
+                                                                                <img class="post-image"  alt="Colors and Textures for Summer Weddings" src="images/Portafolio3.jpg" style="width: 370px; height: 246px;">
                                                                             </div>
-                                                                            <!--end .info-back  -->
                                                                         </div>
-                                                                        <!--end .info -->
                                                                     </div>
                                                                     <!-- end .post_content -->
                                                                 </div>
@@ -142,22 +105,10 @@
                                                                     <!--.post_content -->
                                                                     <div class="post_content isotope_item_content ih-item colored square effect_shift left_to_right">
                                                                         <div class="post_featured img ">
-                                                                            <img class="post-image" alt="3 Types of Long Lasting Make Up" src="images/post-3-370x246.jpg">
-                                                                        </div>
-                                                                        <!--.info -->
-                                                                        <div class="post_info_wrap info">
-                                                                            <!--.info-back  -->
-                                                                            <div class="info-back">
-                                                                                <h4 class="post_title">3 Types of Long Lasting Make Up</h4>
-                                                                                <div class="post_descr">
-                                                                                    <p class="post_info"> <span class="post_info_item post_info_posted"> Jun 4, 2016</span> <span class="post_info_item post_info_counters">	<span class="post_counters_number">0 comments</span></span></p>
-                                                                                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc porta fringilla ullamcorper. Morbi felis orci&#8230;</p>
-                                                                                    <p class="post_buttons"></p>
-                                                                                </div>
+                                                                            <div class="post_thumb">
+                                                                                <img class="post-image"  alt="Colors and Textures for Summer Weddings" src="images/Portafolio4.jpg" style="width: 370px; height: 246px;">
                                                                             </div>
-                                                                            <!--end .info-back  -->
                                                                         </div>
-                                                                        <!--end .info -->
                                                                     </div>
                                                                     <!-- end .post_content -->
                                                                 </div>
@@ -171,22 +122,10 @@
                                                                     <!--.post_content -->
                                                                     <div class="post_content isotope_item_content ih-item colored square effect_shift left_to_right">
                                                                         <div class="post_featured img ">
-                                                                            <img class="post-image" alt="Top Wedding Bakers in Your Area" src="images/post-3-370x246.jpg">
-                                                                        </div>
-                                                                         <!--.info -->
-                                                                        <div class="post_info_wrap info">
-                                                                            <!--.info-back  -->
-                                                                            <div class="info-back">
-                                                                                <h4 class="post_title">Top Wedding Bakers in Your Area</h4>
-                                                                                <div class="post_descr">
-                                                                                    <p class="post_info"> <span class="post_info_item post_info_posted"> May 30, 2016</span> <span class="post_info_item post_info_counters"><span class="post_counters_number">0 comments</span></span></p>
-                                                                                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc porta fringilla ullamcorper. Morbi felis orci&#8230;</p>
-                                                                                    <p class="post_buttons"></p>
-                                                                                </div>
+                                                                            <div class="post_thumb">
+                                                                                <img class="post-image"  alt="Colors and Textures for Summer Weddings" src="images/Portafolio5.jpg" style="width: 370px; height: 246px;">
                                                                             </div>
-                                                                            <!--end .info-back  -->
                                                                         </div>
-                                                                        <!--end .info -->
                                                                     </div>
                                                                     <!-- end .post_content -->
                                                                 </div>
@@ -200,22 +139,10 @@
                                                                     <!--.post_content -->
                                                                     <div class="post_content isotope_item_content ih-item colored square effect_shift left_to_right">
                                                                         <div class="post_featured img ">
-                                                                            <img class="post-image" alt="Table Arrangements from A to Z" src="images/post-3-370x246.jpg">
-                                                                        </div>
-                                                                        <!--.info -->
-                                                                        <div class="post_info_wrap info">
-                                                                            <!--.info-back  -->
-                                                                            <div class="info-back">
-                                                                                <h4 class="post_title">Table Arrangements from A to Z</h4>
-                                                                                <div class="post_descr">
-                                                                                    <p class="post_info"> <span class="post_info_item post_info_posted"> May 20, 2016</span> <span class="post_info_item post_info_counters"><span class="post_counters_number">0 comments</span></span></p>
-                                                                                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc porta fringilla ullamcorper. Morbi felis orci&#8230;</p>
-                                                                                    <p class="post_buttons"></p>
-                                                                                </div>
+                                                                            <div class="post_thumb">
+                                                                                <img class="post-image"  alt="Colors and Textures for Summer Weddings" src="images/Portafolio6.jpg" style="width: 370px; height: 246px;">
                                                                             </div>
-                                                                            <!--end .info-back  -->
                                                                         </div>
-                                                                        <!--end .info -->
                                                                     </div>
                                                                     <!-- end .post_content -->
                                                                 </div>
@@ -229,22 +156,10 @@
                                                                     <!--.post_content -->
                                                                     <div class="post_content isotope_item_content ih-item colored square effect_shift left_to_right">
                                                                         <div class="post_featured img ">
-                                                                           <img class="post-image" alt="Speacial Treats for the Guests" src="images/post-3-370x246.jpg">
-                                                                        </div>
-                                                                        <!--.info -->
-                                                                        <div class="post_info_wrap info">
-                                                                            <!--.info-back  -->
-                                                                            <div class="info-back">
-                                                                                <h4 class="post_title">Speacial Treats for the Guests</h4>
-                                                                                <div class="post_descr">
-                                                                                    <p class="post_info"> <span class="post_info_item post_info_posted"> Apr 22, 2016</span> <span class="post_info_item post_info_counters"><span class="post_counters_number">0 comments</span></span></p>
-                                                                                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc porta fringilla ullamcorper. Morbi felis orci&#8230;</p>
-                                                                                    <p class="post_buttons"></p>
-                                                                                </div>
+                                                                           <div class="post_thumb">
+                                                                                <img class="post-image"  alt="Colors and Textures for Summer Weddings" src="images/Portafolio7.jpg" style="width: 370px; height: 246px;">
                                                                             </div>
-                                                                            <!--end .info-back  -->
                                                                         </div>
-                                                                        <!--end .info -->
                                                                     </div>
                                                                     <!-- end .post_content -->
                                                                 </div>
@@ -258,22 +173,10 @@
                                                                     <!--.post_content -->
                                                                     <div class="post_content isotope_item_content ih-item colored square effect_shift left_to_right">
                                                                         <div class="post_featured img ">
-                                                                            <img class="post-image" alt="Beautiful Landscapes for Outside Ceremonies" src="images/post-8-370x246.jpg">
-                                                                        </div>
-                                                                        <!--.info -->
-                                                                        <div class="post_info_wrap info">
-                                                                            <!--.info-back  -->
-                                                                            <div class="info-back">
-                                                                                <h4 class="post_title">Beautiful Landscapes for Outside Ceremonies</h4>
-                                                                                <div class="post_descr">
-                                                                                    <p class="post_info"> <span class="post_info_item post_info_posted"> Apr 14, 2016</span> <span class="post_info_item post_info_counters"><span class="post_counters_number">0 comments</span></span></p>
-                                                                                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc porta fringilla ullamcorper. Morbi felis orci&#8230;</p>
-                                                                                    <p class="post_buttons"></p>
-                                                                                </div>
+                                                                            <div class="post_thumb">
+                                                                                <img class="post-image"  alt="Colors and Textures for Summer Weddings" src="images/Portafolio8.jpg" style="width: 370px; height: 246px;">
                                                                             </div>
-                                                                            <!--end .info-back  -->
                                                                         </div>
-                                                                        <!--end .info -->
                                                                     </div>
                                                                     <!-- end .post_content -->
                                                                 </div>
@@ -287,22 +190,10 @@
                                                                     <!--.post_content -->
                                                                     <div class="post_content isotope_item_content ih-item colored square effect_shift left_to_right">
                                                                         <div class="post_featured img ">
-                                                                            <img class="post-image" alt="Exotic Flowers and Elements of Decor" src="images/post-3-370x246.jpg">
-                                                                        </div>
-                                                                        <!--.info -->
-                                                                        <div class="post_info_wrap info">
-                                                                            <!--.info-back  -->
-                                                                            <div class="info-back">
-                                                                                <h4 class="post_title">Exotic Flowers and Elements of Decor</h4>
-                                                                                <div class="post_descr">
-                                                                                    <p class="post_info"> <span class="post_info_item post_info_posted"> Apr 7, 2016</span> <span class="post_info_item post_info_counters">	<span class="post_counters_number">0 comments</span></span></p>
-                                                                                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc porta fringilla ullamcorper. Morbi felis orci&#8230;</p>
-                                                                                    <p class="post_buttons"></p>
-                                                                                </div>
+                                                                            <div class="post_thumb">
+                                                                                <img class="post-image"  alt="Colors and Textures for Summer Weddings" src="images/Portafolio9.jpg" style="width: 370px; height: 246px;">
                                                                             </div>
-                                                                            <!--end .info-back  -->
                                                                         </div>
-                                                                        <!--end .info -->
                                                                     </div>
                                                                     <!-- end .post_content -->
                                                                 </div>
@@ -316,22 +207,10 @@
                                                                     <!--.post_content -->
                                                                     <div class="post_content isotope_item_content ih-item colored square effect_shift left_to_right">
                                                                         <div class="post_featured img ">
-                                                                           <img class="post-image" alt="Speacial Treats for the Guests" src="images/post-3-370x246.jpg">
-                                                                        </div>
-                                                                        <!--.info -->
-                                                                        <div class="post_info_wrap info">
-                                                                            <!--.info-back  -->
-                                                                            <div class="info-back">
-                                                                                <h4 class="post_title">Speacial Treats for the Guests</h4>
-                                                                                <div class="post_descr">
-                                                                                    <p class="post_info"> <span class="post_info_item post_info_posted"> Apr 22, 2016</span> <span class="post_info_item post_info_counters"><span class="post_counters_number">0 comments</span></span></p>
-                                                                                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc porta fringilla ullamcorper. Morbi felis orci&#8230;</p>
-                                                                                    <p class="post_buttons"></p>
-                                                                                </div>
+                                                                          <div class="post_thumb">
+                                                                                <img class="post-image"  alt="Colors and Textures for Summer Weddings" src="images/Portafolio10.jpg" style="width: 370px; height: 246px;">
                                                                             </div>
-                                                                            <!--end .info-back  -->
                                                                         </div>
-                                                                        <!--end .info -->
                                                                     </div>
                                                                     <!-- end .post_content -->
                                                                 </div>
@@ -345,22 +224,10 @@
                                                                     <!--.post_content -->
                                                                     <div class="post_content isotope_item_content ih-item colored square effect_shift left_to_right">
                                                                         <div class="post_featured img ">
-                                                                            <img class="post-image" alt="Beautiful Landscapes for Outside Ceremonies" src="images/post-8-370x246.jpg">
-                                                                        </div>
-                                                                        <!--.info -->
-                                                                        <div class="post_info_wrap info">
-                                                                            <!--.info-back  -->
-                                                                            <div class="info-back">
-                                                                                <h4 class="post_title">Beautiful Landscapes for Outside Ceremonies</h4>
-                                                                                <div class="post_descr">
-                                                                                    <p class="post_info"> <span class="post_info_item post_info_posted"> Apr 14, 2016</span> <span class="post_info_item post_info_counters"><span class="post_counters_number">0 comments</span></span></p>
-                                                                                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc porta fringilla ullamcorper. Morbi felis orci&#8230;</p>
-                                                                                    <p class="post_buttons"></p>
-                                                                                </div>
+                                                                            <div class="post_thumb">
+                                                                                <img class="post-image"  alt="Colors and Textures for Summer Weddings" src="images/Portafolio11 - copia.jpeg" style="width: 370px; height: 246px;">
                                                                             </div>
-                                                                            <!--end .info-back  -->
                                                                         </div>
-                                                                        <!--end .info -->
                                                                     </div>
                                                                     <!-- end .post_content -->
                                                                 </div>
@@ -374,22 +241,10 @@
                                                                     <!--.post_content -->
                                                                     <div class="post_content isotope_item_content ih-item colored square effect_shift left_to_right">
                                                                         <div class="post_featured img ">
-                                                                            <img class="post-image" alt="Exotic Flowers and Elements of Decor" src="images/post-3-370x246.jpg">
-                                                                        </div>
-                                                                        <!--.info -->
-                                                                        <div class="post_info_wrap info">
-                                                                            <!--.info-back  -->
-                                                                            <div class="info-back">
-                                                                                <h4 class="post_title">Exotic Flowers and Elements of Decor</h4>
-                                                                                <div class="post_descr">
-                                                                                    <p class="post_info"> <span class="post_info_item post_info_posted"> Apr 7, 2016</span> <span class="post_info_item post_info_counters">    <span class="post_counters_number">0 comments</span></span></p>
-                                                                                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc porta fringilla ullamcorper. Morbi felis orci&#8230;</p>
-                                                                                    <p class="post_buttons"></p>
-                                                                                </div>
+                                                                            <div class="post_thumb">
+                                                                                <img class="post-image"  alt="Colors and Textures for Summer Weddings" src="images/Portafolio12 - copia.jpg" style="width: 370px; height: 246px;">
                                                                             </div>
-                                                                            <!--end .info-back  -->
                                                                         </div>
-                                                                        <!--end .info -->
                                                                     </div>
                                                                     <!-- end .post_content -->
                                                                 </div>

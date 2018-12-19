@@ -25,12 +25,11 @@
 */
 .ih-item .info .post_title {
 	overflow:hidden;
-	font-size:1.25em;
+	font-size:16px;
 	line-height:1.3em;
 }
 .ih-item .info p {
-	font-size:1em;
-	font-style: italic;
+	font-size:1.5em;
 	line-height:1.3em;
 }
 
@@ -2197,7 +2196,7 @@
 }
 .ih-item.square .info p {
 	color: #fff;
-	margin: 0;
+	margin: 50px;
 	position: relative;
 	padding: 0.5em 1em;
 	text-align: center;

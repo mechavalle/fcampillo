@@ -1243,7 +1243,7 @@ fieldset legend {
 .row > [class*="column-"], .columns_wrap > [class*="column-"] {
 
   /* Old way: floating columns */
-  /* float: left;*/
+   float: left;
 
   /* New way: inline blocks */
   /* Warning: remove spaces between columns tags:
@@ -1695,7 +1695,7 @@ fieldset legend {
 -------------------------------------------------------------- */
 .page_wrap,
 .content_wrap {
-	margin:0 auto;
+	margin:-33px auto;
 }
 .body_style_boxed .page_wrap {
 	width: 1349px;
@@ -1705,7 +1705,7 @@ fieldset legend {
 .slider_boxed,
 .content_container {
 	width:1170px;
-	margin:0 auto;
+	margin:33px auto;
 }
 .content_wrap:after,
 .content_container:after {
@@ -1847,9 +1847,9 @@ fieldset legend {
 	position:relative;
 }
 .top_panel_fixed .top_panel_wrap {
-	-webkit-box-shadow: 0px 1px 0px 0px rgba(0, 0, 0, 0.2);
+	/*-webkit-box-shadow: 0px 1px 0px 0px rgba(0, 0, 0, 0.2);
 	-moz-box-shadow: 0px 1px 0px 0px rgba(0, 0, 0, 0.2);
-	box-shadow: 0px 1px 0px 0px rgba(0, 0, 0, 0.2);
+	box-shadow: 0px 1px 0px 0px rgba(0, 0, 0, 0.2);*/
 }
 .top_panel_over .top_panel_wrap {
 	position:absolute;
@@ -1994,6 +1994,8 @@ body:not(.top_panel_fixed) .top_panel_position_over .top_panel_bottom {
 
 .top_panel_bottom .content_wrap {
 	position: relative;
+	height: 70px;
+    bottom: 10px;
 }
 
 .top_panel_wrap ul {
@@ -2681,7 +2683,7 @@ body:not(.top_panel_fixed) .top_panel_position_over .top_panel_bottom {
 	display:inline-block;
 }
 .logo img {
-	float:left;
+	/*float:left;*/
 	margin: 0 0.7857em 0.7857em 0;
 	width: auto;
 }
@@ -6133,7 +6135,7 @@ blockquote p.sc_quote_title{
 }
 .footer_wrap aside {
 	margin-bottom:1.5em;
-	text-align: center;
+	text-align: unset;
 }
 
 

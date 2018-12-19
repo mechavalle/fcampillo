@@ -214,7 +214,8 @@ p {
 .scheme_original .post_content.ih-item.square.effect_more.colored .info,
 .scheme_original .post_content.ih-item.square.effect_dir.colored .info,
 .scheme_original .post_content.ih-item.square.effect_shift.colored .info {
-  background: rgba(163,173,111,0.6);
+  /*background: rgba(163,173,111,0.6);*/
+  background-color: #88ccca96;
 }
 .scheme_original .post_content.ih-item.circle.effect1.colored .info,
 .scheme_original .post_content.ih-item.circle.effect2.colored .info,
@@ -297,8 +298,8 @@ select,
 textarea {
   font-size: 1.07em;
   line-height: 1.55em;
-  height: 3.55em;
-  width: 270px;
+  height: 2.55em;
+  width: 220px;
 }
 .scheme_original input[type="text"],
 .scheme_original input[type="tel"],
@@ -520,6 +521,7 @@ select {
 .scheme_original .sidebar_cart,
 .scheme_original #page_preloader {
   background-color: #ffffff;
+  padding-top: 17px;
 }
 .body_filled .sidebar[class*="scheme_"] .sidebar_inner {
   background-position: 100%;

@@ -79,7 +79,7 @@
                                                         <div class="sc_services sc_services_style_services-1 sc_services_type_images  margin_top_tiny- margin_bottom_large full-width">
                                                             <div class="sc_columns columns_wrap" style="margin-top: 50px;">
                                                                 <div class="column-1_2 column_padding_bottom">
-                                                                    <img src="images/titulos-03.png" style="width: 60%; padding-left: 20%; margin-bottom: 5%; margin-top: 5%;">
+                                                                    <img src="images/titulos_2-03.png" style="width: 60%; padding-left: 20%; margin-bottom: 5%; margin-top: 5%;">
                                                                     <div class="sc_services_item odd first">
                                                                         <div class="sc_services_item_content">
                                                                             <p>
@@ -93,7 +93,7 @@
                                                                         </div>
                                                                     </div>
                                                                 </div><div class="column-1_2 column_padding_bottom">
-                                                                     <img src="images/titulos-04.png" style="width: 60%; padding-left: 20%; margin-bottom: 5%; margin-top: 5%;">
+                                                                    <img src="images/titulos_2-04.png" style="width: 50%; padding-left: 20%; margin-bottom: 5%; margin-top: 5%;">
                                                                     <div class="sc_services_item even">
                                                                         <div class="sc_services_item_content">
                                                                             <p>
@@ -102,20 +102,32 @@
                                                                             <p>
                                                                              Me encanta todo lo que tiene que ver con decoración, los colores, las texturas, olores, etc. y con esto no sólo me comprometo a hacer que tu boda o evento no pierda tu esencia sino que también crearemos experiencias únicas, en donde no sólo tú como cliente quedes satisfecho sino que tus invitados vivan el sueño a través de todo lo que trabajamos durante meses.                                                          
                                                                             </p>   
-                                                            </div>
-                                                        </div>
-                                                    </div>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                                <img src="images/titulos_2-18.png" style="width: 45%; padding-left: 27%; margin-bottom: 0%; margin-top:0%;">
+                                                                <div class="column-1_1" style="text-align: center; color: #737373; padding: 20%; margin-bottom: -20%; margin-top: -20%;">
+                                                                <p>
+                                                                    Nos comprometemos a encontrar soluciones para los clientes y cumplir sus sueños. Usamos nuestro conocimiento y experiencia para crear un servicio a medida. Para nosotros es necesario estar conectados con los clientes y ponernos en sus zapatos, para así lograr que se enamoren de nuestro trabajo.
+                                                                </p>
+                                                                <p>
+                                                                    Somos un equipo creativo capaz de diseñar un evento de la A a la Z. A partir de un sólo detalle, elaboramos un proyecto basado en la visión de cada cliente.
+                                                                </p>
+                                                                <p>
+                                                                    Nos fascinan las flores, los muebles, los decorados y los detalles, que transforman un lugar sencillo en un conjunto de ensueño. Proporcionamos proveedores de alto nivel, que representan la excelencia mexicana, porque creemos firmemente que lo que queda en la memoria no es sólo el entorno sino también la excelente hospitalidad por la que México es famoso.
+                                                                </p>
+                                               
                                                 </div>
                                             </div>
                                         </div>
-                                    </div>
+                                    </div> 
                                 </div>
-                            </div> 
+                            </section>                
                         </div>
-                    </section>                
+                    <!-- end .post_content -->
+                    </article>
                 </div>
-                <!-- end .post_content -->
-            </article>
+            </div>
             <!--end .post_item .post_item_single .page .type-page-->
         </div>
         <!-- end .content-->

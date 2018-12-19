@@ -24,55 +24,93 @@
 <body class="single single-team">
     <!--.body_wrap -->
     <header class="top_panel_wrap top_panel_style_1 scheme_original">
-        <?php  //include("header.php"); ?>
+        <?php  include("sliderbar.php"); ?>
         <?php  
             $menu="nosotros";
             include("navbar.php");
         ?> 
     </header>
 
-    <!-- .page_content_wrap-->             
-    <div class="page_content_wrap page_paddings_no">
-        <!--.content -->
-        <div class="content">
-            <!-- .post_item .post_item_single_team -->
-            <article class="post_item post_item_single_team">
-                <!--.post_content-->
-                <div class="post_content">
-                    <section class="no-col-padding">
-                        <div class="content_container">
-                            <div class="columns_wrap">
-                                <div class="column_container column-1_1">
-                                    <div class="column-inner">
-                                        <div class="m_wrapper">
-                                            <div class="columns_wrap sc_columns columns_nofluid sc_columns_count_7 sc_our-team-single-column-margin">
-                                                <div class="column-3_7 sc_column_item odd first">
-                                                    <figure class="sc_image  sc_image_shape_square"><img src="images/MIA.jpeg" alt="" /></figure>
-                                                </div><div class="column-4_7 sc_column_item even">
-                                                    <h6 class="sc_title sc_title_regular margin_bottom_tiny sc_our-team-single-title-margin" style="color: #cab374; font-size: 16px; text-align: left;">Fernanda Campillo</h6>
-                                                    <div class="m_text_column m_content_element ">
-                                                        <div class="m_wrapper">
+    <div class="page_content_wrap page_paddings_yes">
+        <div class="sc_services_wrap">
+            <div class="sc_services sc_services_style_services-1 sc_services_type_images  margin_top_tiny- margin_bottom_large full-width">
+                <img src="images/titulos_2-06.png" style="width: 25%; padding-left: 36%; margin-bottom: 3%; margin-top: 5%;">
+            </div>    
+            <div class="content_wrap">
+                <div class="content">
+                    <!--.post_item .post_item_single .page .type-page -->
+                    <article class="post_item post_item_single page type-page">
+                        <!--.post_content-->
+                        <div class="post_content">
+                            <section class="no-col-padding">
+                                <div class="content_container">
+                                    <div class="columns_wrap">
+                                        <div class="column_container column-1_1">
+                                            <div class="column-inner">
+                                                <div class="m_wrapper">
+                                                    <!--.sc_services_wrap -->
+                                                    <div class="sc_services_wrap">
+                                                        <!-- .sc_services -->
+                                                        <div class="sc_services sc_services_style_services-1 sc_services_type_images  margin_top_tiny- margin_bottom_large full-width">
+                                                            <div class="sc_columns columns_wrap" style="padding-bottom: 0;">
+                                                                <div class="column-1_3 column_padding_bottom" style="padding-bottom: 0;">
+                                                                    <div class="sc_services_item_featured post_featured"  style="margin-bottom: 0;">
+                                                                        <div class="post_thumb" data-image="images/service-6.jpg" data-title="Bouquets &#038; Style">
+                                                                            <img class="post-image" alt="Bouquets &#038; Style" src="images/1.jpg" style="width: 370px; height: 240px; position: inherit;">
+                                                                        </div>
+                                                                    </div>
+                                                                </div><div class="column-1_3 column_padding_bottom" style="padding-bottom: 0;">
+                                                                    <div class="sc_services_item_featured post_featured" style="margin-bottom: 0;">
+                                                                        <div class="post_thumb" data-image="images/service-5.jpg" data-title="Wedding Planning">
+                                                                            <img class="post-image" alt="Wedding Planning" src="images/2.jpeg" style="width: 370px; height: 240px;">
+                                                                        </div>
+                                                                    </div>
+                                                                </div><div class="column-1_3 column_padding_bottom" style="padding-bottom: 0;">
+                                                                    <div class="sc_services_item_featured post_featured"  style="margin-bottom: 0;">
+                                                                        <div class="post_thumb" data-image="images/service-5.jpg" data-title="Wedding Planning">
+                                                                            <img class="post-image" alt="Wedding Planning" src="images/3.jpg" style="width: 370px; height: 240px;">
+                                                                        </div>
+                                                                    </div>  
+                                                                </div>
+                                                            </div>
+                                                            <div style="padding-bottom: 195px; padding-top: 20px; padding-left: 10%; width: 77%;">
+                                                                <h3 class="sc_title sc_title_iconed margin_top_tiny margin_bottom_null sc_a-us-margin-type-c fsz_cust" style="color: #88ccca; font-family: delicious; text-align: center;">&nbsp;Para crear algo excepcional debemos de &nbsp;buscar que cada detalle, cliente, evento o &nbsp;servicio sea realmente significativo.</h3>
+                                                            </div>
+                                                            <img src="images/titulos_2-12.png" style="width: 10%; padding-left: 44%; margin-bottom: 0%; margin-top: -14%;">
+                                                            <p style="padding-left: 25%; width: 50%; margin-top: -10%; color: #737373; text-align: center;">
+                                                                Estamos dedicados a la creación y planificación de eventos con un alto nivel de profesionalismo, en donde nos aseguramos de innovar para sorprender a todos y cada uno de nuestros clientes, cuidando que nuestros servicios se cumplan en tiempo y forma.
+                                                            </p>
+                                                            <img src="images/titulos_2-13.png" style="width: 10%; padding-left: 44%; margin-bottom: 1%; margin-top: 2%;">
+                                                            <p style="padding-left: 25%; width: 50%; color: #737373; text-align: center;">
+                                                                Ser una empresa líder dentro de la industria de los eventos, siendo ampliamente reconocidos por nuestro profesionalismo, calidad, vocación y compromiso con los objetivos de nuestros clientes. 
+                                                            </p>
                                                             <br>
-                                                            <p>Hola soy Fer, Licenciada en Dirección de Empresas de Entretenimiento y certificada por el INIBEP en Wedding & Event Planner. Lo que más me caracteriza es que siempre estoy creando ideas nuevas, es por eso que este gran proyecto lo creé para ti de una forma muy especial y junto con mi equipo coordinaremos minuciosamente cada paso en la organización de tu boda o evento.</p>
-                                                            <p>Somos una empresa dedicada 100% a ti y a través de cinco puntos clave (planeación, diseño, administración, coordinación y supervisión) todo aquello que te gusta, buscas e imaginas te aseguramos que lo encontrarás con nosotros. Hemos planificado y ejecutado eventos únicos, ¡y esperamos sean más! Nos sentimos increíblemente afortunados de ser parte de un momento tan especial en la vida de nuestras parejas y clientes, y estamos ansiosos por ayudarlo con cada detalle especial.</p>
-                                                            <p>Siempre buscaremos la perfección en nuestro trabajo: no existe una boda bien, sólo existen bodas perfectas.</p>
+                                                            <p style="padding-left: 25%; width: 50%; text-align: center; font-size: 20px; color: #88ccca;">
+                                                                Somos una empresa dedicada 100% a ti y a través de cinco puntos clave:
+                                                            </p>
+                                                            <p><img src="images/ICONOS-01.png" style="width: 60%; padding-left: 20%;"></p>
+                                                            <p style="padding-left: 25%; width: 50%; text-align: center; font-size: 20px; color: #88ccca;">
+                                                                todo aquello que te gusta, buscas e imaginas te aseguramos que lo encontrarás con nosotros.<br>
+                                                                Hemos planificado y ejecutado eventos únicos y esperamos sean más.
+                                                                Nos sentimos increíblemente afortunados de ser parte de un momento tan especial en la vida de nuestras parejas y clientes, y estamos ansiosos de ayudarlos con cada detalle especial. Siempre buscaremos la perfección en nuestro trabajo: no existe una boda bien, sólo existen bodas perfectas.
+                                                            </p>
                                                         </div>
                                                     </div>
                                                 </div>
                                             </div>
                                         </div>
                                     </div>
-                                </div>
-                            </div>
-                        </div>  
-                    </section>
+                                 </div> 
+                            </section>                            
+                        </div>
+                        <!--end .post_content-->
+                    </article>
+                    <!--  end .post_item .post_item_single .page .type-page -->
                 </div>
-                <!-- end .post_content-->
-            </article>
-            <!-- end .post_item .post_item_single_team -->
+                <!--end .content-->
+            </div>
         </div>
-        <!--end .content -->
-    </div>
+    </div>    
 
     <footer class="footer_wrap widget_area scheme_original">
         <?php require("footer.php"); ?>

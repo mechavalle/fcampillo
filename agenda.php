@@ -51,16 +51,16 @@
     .popup 
     {
       margin: 5px auto;
-      padding: 10px;
+      padding: 25px;
       background: #fff;
       border-radius: 0px;
       width: 35%;
       position: relative;
       transition: all 5s ease-in-out;
       border-style: solid;
-      border-width: 1px;
-      border-color: #cab374;
-
+      border-width: 2px;
+      border-color: #88ccca;
+      color: #88ccca;
     }
 
     .popup .close 
@@ -86,6 +86,20 @@
       overflow: auto;
       max-height: 100%;
     }
+    .scheme_original input[type="text"],
+    .scheme_original input[type="tel"],
+    .scheme_original input[type="number"],
+    .scheme_original input[type="email"],
+    .scheme_original input[type="date"]
+    {
+      border-color: #88ccca;
+      border-width: 2px;
+      margin-left: -230px;
+    }
+    textarea 
+    {
+    min-height: 3em;
+    }
 </style>     
 
 <body class="single single-product woocommerce woocommerce-page">
@@ -101,7 +115,7 @@
     <div class="page_content_wrap page_paddings_yes">
         <div class="sc_services_wrap">
             <div class="sc_services sc_services_style_services-1 sc_services_type_images  margin_top_tiny- margin_bottom_large full-width">
-                <img src="images/titulos-02.png" style="width: 30%; padding-left: 34%; margin-bottom: 3%; margin-top: 5%;">
+                <img src="images/titulos_2-02.png" style="width: 45%; padding-left: 26%; margin-bottom: 1%; margin-top: 5%;">
             </div>    
             <div class="content_wrap">
                 <div class="content">
@@ -123,8 +137,8 @@
                                                                 <div class="column-1_2 column_padding_bottom">
                                                                     <div class="sc_services_item odd first">
                                                                         <div class="sc_services_item_featured post_featured">
-                                                                            <div class="post_thumb" data-image="images/service-6.jpg" data-title="Bouquets &#038; Style">
-                                                                                <img class="post-image" alt="Bouquets &#038; Style" src="images/WEDDINGPLANNING.jpg">
+                                                                            <div class="post_thumb">
+                                                                                <img class="post-image" src="images/agenda1.jpg">
                                                                             </div>
                                                                         </div>
                                                                         <div class="sc_services_item_content">
@@ -148,8 +162,8 @@
                                                                 </div><div class="column-1_2 column_padding_bottom">
                                                                     <div class="sc_services_item even">
                                                                         <div class="sc_services_item_featured post_featured">
-                                                                            <div class="post_thumb" data-image="images/service-5.jpg" data-title="Wedding Planning">
-                                                                                <img class="post-image" alt="Wedding Planning" src="images/EVENTPLANNING.jpg">
+                                                                            <div class="post_thumb">
+                                                                                <img class="post-image" alt="Wedding Planning" src="images/servicio2.jpg">
                                                                             </div>
                                                                         </div>
                                                                         <div class="sc_services_item_content">
@@ -170,38 +184,53 @@
                                                                             <div id="presupuesto" class="overlay">
                                                                                 <div class="popup">
                                                                                     <a class="close" href="#">&times;</a>
-                                                                                    <div class="content">
-                                                                                        <h4></h4>  
+                                                                                    <p align="left"><img src="images/titulos-08.png" style="width: 45%;"></p>
+                                                                                    <div class="content"> 
                                                                                         <table width="100%">
                                                                                             <tr>
-                                                                                                <td align="left"><label style="padding-left: 5px; border-left-style: solid; border-left-width: 5px; border-left-color: #cab374;">NOMBRE:&nbsp;</label></td>
-                                                                                                <td><input type="text" name="nombre" aria-required style="margin-left: -300px;"></td>
+                                                                                                <td><input type="text" name="nombre" aria-required></td>
+                                                                                                <td><input type="text" name="apellidos" required style="margin-left: -210px;"></td>
+                                                                                            </tr>
+                                                                                            <tr align="left">
+                                                                                                <td>NOMBRE</td>
+                                                                                                <td><font style="margin-left: -198px;">APELLIDOS</font></td>
+                                                                                            </tr>
+                                                                                             <tr>
+                                                                                                <td><input type="tel" name="telefono"></td>
+                                                                                                <td><input type="email" name="email" required style="margin-left: -210px;"></td>
+                                                                                            </tr>
+                                                                                            <tr align="left">
+                                                                                                <td>TELÉFONO</td>
+                                                                                                <td><font style="margin-left: -198px;">E-MAIL</font></td>
                                                                                             </tr>
                                                                                             <tr>
-                                                                                                <td align="left"><label style="padding-left: 5px; border-left-style: solid; border-left-width: 5px; border-left-color: #cab374;">APELLIDOS:&nbsp;</label></td>
-                                                                                                <td><input type="text" name="apellidos" required style="margin-left: -300px;"></td>
+                                                                                                <td><input type="date" name="fecha"></td>
+                                                                                                <td><input type="text" name="ciudad" style="margin-left: -210px;"></td>
+                                                                                            </tr>
+                                                                                            <tr align="left">
+                                                                                                <td>FECHA DEL EVENTO</td>
+                                                                                                <td><font style="margin-left: -198px;">CIUDAD</font></td>
                                                                                             </tr>
                                                                                             <tr>
-                                                                                                <td align="left"><label style="padding-left: 5px; border-left-style: solid; border-left-width: 5px; border-left-color: #cab374;">TELÉFONO:&nbsp;</label></td>
-                                                                                                <td><input type="text" name="telefono" style="margin-left: -300px;"></td>
+                                                                                                <td>&nbsp;&nbsp;</td>
                                                                                             </tr>
                                                                                             <tr>
-                                                                                                <td align="left"><label style="padding-left: 5px; border-left-style: solid; border-left-width: 5px; border-left-color: #cab374;">E-MAIL:&nbsp;</label></td>
-                                                                                                <td><input type="text" name="email" required style="margin-left: -300px;"></td>
-                                                                                            </tr> 
-                                                                                            <tr>
-                                                                                                <td align="left"><label style="padding-left: 5px; border-left-style: solid; border-left-width: 5px; border-left-color: #cab374;">DIRECCIÓN:&nbsp;</label></td>
-                                                                                                <td><textarea type="text" name="direccion" style="margin-left: -300px;"></textarea></td>
-                                                                                            </tr>
-                                                                                            <tr>
-                                                                                                <td align="left" style="height: 80px;"><label style="padding-left: 5px; border-left-style: solid; border-left-width: 5px; border-left-color: #cab374;">FECHA DE LA BODA:&nbsp;</label></td>
-                                                                                                <td style="height: 50px;"><input type="date" name="fecha" style="margin-left: -400px;"></td>
-                                                                                            </tr>
-                                                                                            <tr>
-                                                                                                <td align="left"><label style="padding-left: 5px; border-left-style: solid; border-left-width: 5px; border-left-color: #cab374;">¿QUÉ NECESITAS DE FERNANDA CAMPILLO WEDDING PLANNING?&nbsp;</label></td>
+                                                                                                <td align="left"><font color="#cab374">¿QUÉ TIPO DE EVENTO BUSCAS?</font>&nbsp;</td>
                                                                                             </tr>
                                                                                             <tr>      
-                                                                                                <td><textarea type="text" name="quenecesitas" style="width: 400px;"></textarea></td>
+                                                                                                <td><textarea type="text" name="quenecesitas" style="width: 430px;"></textarea></td>
+                                                                                            </tr>  
+                                                                                            <tr>
+                                                                                                <td align="left"><font color="#cab374">¿EN QUÉ CIUDAD TE GUSTARÍA REALIZARLO?</font>&nbsp;</td>
+                                                                                            </tr>
+                                                                                            <tr>      
+                                                                                                <td><textarea type="text" name="quenecesitas" style="width: 430px;"></textarea></td>
+                                                                                            </tr>  
+                                                                                            <tr>
+                                                                                                <td align="left"><font color="#cab374">¿QUÉ TIPO DE SERVICIO(S) BUSCAS?</font>&nbsp;</td>
+                                                                                            </tr>
+                                                                                            <tr>      
+                                                                                                <td><textarea type="text" name="quenecesitas" style="width: 430px;"></textarea></td>
                                                                                             </tr>   
                                                                                         </table>
                                                                                         <br>

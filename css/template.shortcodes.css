@@ -3185,7 +3185,7 @@ ul.sc_list_style_iconed {
 .sc_price_block .sc_price_block_title {
 	font-size: 1.643em;
 	height: 3.67em;
-	margin-top: 2em;
+	margin-top: 1em;
 	padding: 0;
 	position:relative;
 	-webkit-box-sizing: border-box;
@@ -3263,7 +3263,7 @@ ul.sc_list_style_iconed {
 	height: 3em;
 	text-align:center;
 	padding-top: 3em;
-	padding-bottom: 4em;
+	padding-bottom: 6em;
 }
 .sc_price_block .sc_price_block_link .sc_button {
 	background-color:rgba(255, 255, 255);

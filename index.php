@@ -25,13 +25,14 @@
     <link property="stylesheet" rel='stylesheet' href='js/vendor/mediaelement/wp-mediaelement.css' type='text/css' media='all' />
     <link property="stylesheet" rel='stylesheet' href='css/responsive.css' type='text/css' media='all' /> 
     <link rel="stylesheet" href="fw/css/font-awesome.css"></link>
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
-    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <script type="text/javascript" src="js/jquery-3.3.1.min.js"></script>
+    <script type="text/javascript" src="js/bootstrap.min.js"></script>
 
 </head> 
 
 <style type="text/css">
+
     .overlay 
     {
       position: fixed;
@@ -39,7 +40,7 @@
       bottom: 0;
       left: 0;
       right: 0;
-      background: rgba(0, 0, 0, 0.8);
+      background: rgba(0 , 0, 0, 0.8);
       transition: opacity 500ms;
       visibility: hidden;
       opacity: 0;
@@ -55,7 +56,7 @@
     .popup 
     {
       margin: 5px auto;
-      padding: 10px;
+      padding: 25px;
       background: #fff;
       border-radius: 0px;
       width: 35%;
@@ -63,8 +64,8 @@
       transition: all 5s ease-in-out;
       border-style: solid;
       border-width: 1px;
-      border-color: #cab374;
-
+      border-color: #88ccca;
+      color: #88ccca;
     }
 
     .popup .close 
@@ -91,6 +92,54 @@
       max-height: 100%;
     }
 
+    .scheme_original input[type="text"],
+    .scheme_original input[type="tel"],
+    .scheme_original input[type="number"],
+    .scheme_original input[type="email"],
+    .scheme_original input[type="date"]
+    {
+      border-color: #88ccca;
+      border-width: 2px;
+      margin-left: -230px;
+    }
+
+    textarea 
+    {
+    min-height: 3em;
+    }
+
+    .carousel-indicators li 
+    {
+    width: 15px;
+    height: 15px;
+    border-radius: 15px !important;
+    cursor: pointer;
+    }
+
+    .carousel-control-next, .carousel-control-prev 
+    {
+    width: 10%;
+    color: #fff;
+    }
+
+    .carousel-control-next-icon, .carousel-control-prev-icon 
+    {
+    width: 40px;
+    height: 70px;
+    }
+
+    .carousel-control-next, .carousel-control-prev 
+    {
+    width: 10%;
+    color: #fff;
+    }
+
+    .carousel-control-next-icon, .carousel-control-prev-icon 
+    {
+    width: 40px;
+    height: 70px;
+    }
+
 </style>
 
 <body class="single single-product woocommerce woocommerce-page">
@@ -115,65 +164,85 @@
                                         <div class="sc_section_content_wrap">
                                             <div class="esg-media-cover-wrapper">
                                                 <div class="esg-entry-media">
-                                                    <div id="myCarousel" class="carousel slide" data-ride="carousel">       
-                                                        <!-- Indicators -->
-                                                        <ol class="carousel-indicators">
-                                                            <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
-                                                            <li data-target="#myCarousel" data-slide-to="1"></li>
-                                                            <li data-target="#myCarousel" data-slide-to="2"></li>
-                                                            <li data-target="#myCarousel" data-slide-to="3"></li>
-                                                            <li data-target="#myCarousel" data-slide-to="4"></li>
-                                                            <li data-target="#myCarousel" data-slide-to="5"></li>
-                                                            <li data-target="#myCarousel" data-slide-to="6"></li>
-                                                            <li data-target="#myCarousel" data-slide-to="7"></li>
-                                                        </ol>
-
-                                                        <!-- Wrapper for slides -->
-                                                        <div class="carousel-inner">
-
-                                                            <div class="item active">
-                                                                <img src="images/s1.jpg" style="height: 576px; width: 1349px;">
+                                                    <div id="cholder">
+                                                        <div id="carouselSF" class="carousel slide" data-ride="carousel">
+                                                            <ol class="carousel-indicators">
+                                                                <li data-target="#carouselSF" data-slide-to="0" class="active"></li>
+                                                                <li data-target="#carouselSF" data-slide-to="1"></li>
+                                                                <li data-target="#carouselSF" data-slide-to="2"></li>
+                                                                <li data-target="#carouselSF" data-slide-to="3" class="active"></li>
+                                                                <li data-target="#carouselSF" data-slide-to="4"></li>
+                                                                <li data-target="#carouselSF" data-slide-to="5"></li>
+                                                                <li data-target="#carouselSF" data-slide-to="6" class="active"></li>
+                                                                <li data-target="#carouselSF" data-slide-to="7"></li>
+                                                            </ol>
+                                                            <div class="carousel-inner">
+                                                                <div class="carousel-item active">
+                                                                    <div class="row">
+                                                                        <div class="col desk" align="center">
+                                                                            <img src="images/s1.jpg" style="height: 576px; width: 1349px;">
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                                <div class="carousel-item">
+                                                                    <div class="row">
+                                                                        <div class="col desk" align="right">
+                                                                            <img src="images/s2.jpg" style="height: 576px; width: 1349px;">
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                                <div class="carousel-item">
+                                                                    <div class="row">
+                                                                        <div class="col desk" align="right">
+                                                                            <img src="images/s3.jpg" style="height: 576px; width: 1349px;">
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                                <div class="carousel-item">
+                                                                    <div class="row">
+                                                                        <div class="col desk" align="center">
+                                                                            <img src="images/s4.jpg" style="height: 576px; width: 1349px;">
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                                <div class="carousel-item">
+                                                                    <div class="row">
+                                                                        <div class="col desk" align="right">
+                                                                            <img src="images/s5.jpg" style="height: 576px; width: 1349px;">
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                                <div class="carousel-item">
+                                                                    <div class="row">
+                                                                        <div class="col desk" align="right">
+                                                                            <img src="images/s6.jpg" style="height: 576px; width: 1349px;">
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                                <div class="carousel-item">
+                                                                    <div class="row">
+                                                                        <div class="col desk" align="right">
+                                                                            <img src="images/s7.jpg" style="height: 576px; width: 1349px;">
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                                <div class="carousel-item">
+                                                                    <div class="row">
+                                                                        <div class="col desk" align="right">
+                                                                            <img src="images/s8.jpg" style="height: 576px; width: 1349px;">
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
                                                             </div>
-
-                                                            <div class="item">
-                                                                <img src="images/s2.jpg" style="height: 576px; width: 1349px;">
-                                                             </div>
-                                                            
-                                                            <div class="item">
-                                                                <img src="images/s3.jpg" style="height: 576px; width: 1349px;">
-                                                            </div>
-
-                                                            <div class="item">
-                                                                <img src="images/s4.jpg" style="height: 576px; width: 1349px;">
-                                                            </div>
-
-                                                            <div class="item">
-                                                                <img src="images/s5.jpg" style="height: 576px; width: 1349px;">
-                                                             </div>
-                                                            
-                                                            <div class="item">
-                                                                <img src="images/s6.jpg" style="height: 576px; width: 1349px;">
-                                                            </div>
-
-                                                            <div class="item">
-                                                                <img src="images/s7.jpg" style="height: 576px; width: 1349px;">
-                                                             </div>
-                                                            
-                                                            <div class="item">
-                                                                <img src="images/s8.jpg" style="height: 576px; width: 1349px;">
-                                                            </div>
-                                                          
+                                                            <a class="carousel-control-prev" href="#carouselSF" role="button" data-slide="prev">
+                                                                <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                                                                <span class="sr-only">Previous</span>
+                                                            </a>
+                                                            <a class="carousel-control-next" href="#carouselSF" role="button" data-slide="next">
+                                                                <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                                                                <span class="sr-only">Next</span>
+                                                            </a>
                                                         </div>
-
-                                                        <!-- Left and right controls -->
-                                                        <a class="left carousel-control" href="#myCarousel" data-slide="prev">
-                                                            <span class="glyphicon glyphicon-chevron-left"></span>
-                                                            <span class="sr-only">Previous</span>
-                                                        </a>
-                                                        <a class="right carousel-control" href="#myCarousel" data-slide="next">
-                                                            <span class="glyphicon glyphicon-chevron-right"></span>
-                                                            <span class="sr-only">Next</span>
-                                                        </a>
                                                     </div>
                                                 </div>
                                             </div>
@@ -197,66 +266,91 @@
                             <div class="m_wrapper">
                                 <div class="sc_section sc_section_block sc_home-margin-type-j">
                                     <div class="sc_section_inner">
-                                        <h3 class="sc_section_title sc_item_title sc_item_title_without_descr" style="font-family: delicious; text-underline-position: under; text-decoration: underline; text-decoration: underline; text-decoration-skip-ink: none;">Paquetes</h3>
+                                        <img src="images/titulos_2-05.png" style="width: 35%; padding-left: 30%; margin-bottom: 2%; margin-top:-8%;">
+                                        <p style="text-align: center;">
+                                            ¿No sabes por dónde empezar con tus planes?<br>
+                                            ¿Necesitas un poco de apoyo adicional para completar tus últimos detalles?<br>
+                                            <font color="#88ccca">¡Estamos aquí para ti!</font><br>
+                                            Desde investigar el lugar perfecto, seleccionar proveedores 
+                                            de primer nivel hasta crear un evento único.<br>
+                                            Estaremos a tu lado en cada paso del camino
+                                        </p>
+                                        <br>
+                                        <div class="column-1_1" style="text-align: center; color: #737373;">
                                         <div class="sc_section_content_wrap">
                                             <div class="columns_wrap sc_columns columns_nofluid sc_columns_count_3">
                                                 <div class="column-1_3 sc_column_item odd first">
-                                                    <div class="sc_price_block sc_price_block_style_1" style="height: 1195px;">
+                                                    <div class="sc_price_block sc_price_block_style_1">
                                                         <div class="featured_image"><img src="images/FULLSERVICEGUIDE.jpg"></div>
-                                                        <div class="sc_price_block_title"><h6 style="font-size: 16px;">FULL SERVICE GUIDE</h6></div>
+                                                        <div class="sc_price_block_title"><img src="images/titulos_2-09.png" style="width: 80%;"></div>
                                                         <div class="sc_price_block_description">
                                                             <ul>
                                                                 <li style="font-size: 16px;">¡Estamos aquí para ti!</li>
                                                                 <br>
                                                             </ul>
                                                         </div>
-                                                        <div class="sc_price_block_money" style="margin-left: 2.0em; margin-right: 2.0em;">
-                                                            <div class="sc_price">
-                                                                <p align="left">Sabemos que organizar cualquier tipo de evento no es fácil, es por eso que te ofrecemos este paquete, para que aclares todas tus dudas y tu evento sea un éxito.</p>
-                                                            </div> 
-                                                            <p align="left">Consiste en:</p>
-                                                            <p align="left">• Una primera entrevista en donde se le explicará al cliente nuestros servicios y nos hablarán de sus necesidades. Aclararemos dudas y nos centraremos en el presupuesto.</p>
-                                                            <p align="left">• Tres entrevistas de asesoría con al menos 6 meses de anticipación. 
-                                                            <p align="left">• Contacto ilimitado por teléfono y correo electrónico desde el momento de la reserva para recibir consejos, preguntas y orientación.</p>
-                                                            <p align="left">• Investigar y recomendar todas las opciones de lugares y proveedores.</p>
+                                                        <div class="sc_price_block_money" style="margin-left: 1.0em; margin-right: 1.0em; text-align: center;">
+                                                            <p>Sabemos que organizar cualquier tipo de evento no es fácil, es por eso que te ofrecemos este paquete, para que aclares todas tus dudas y tu evento sea un éxito.</p>
+                                                            <p>Consiste en:</p>
+                                                            <p>
+                                                            • Una primera entrevista en donde se le explicará al cliente nuestros servicios y nos hablarán de sus necesidades. <br>Aclararemos dudas y nos centraremos en el presupuesto.<br>
+                                                            • Tres entrevistas de asesoría con al menos 6 meses de anticipación.<br>
+                                                            • Contacto ilimitado por teléfono y correo electrónico desde el momento de la reserva para recibir consejos, preguntas y orientación.<br>
+                                                            • Investigar y recomendar todas las opciones de lugares y proveedores.
+                                                            </p>
                                                         </div>
-                                                        <div class="sc_price_block_link" style="margin-top: 290px;">
+                                                        <div class="sc_price_block_link" style="margin-top: 222px;">
                                                             <a href="#presupuesto" class="sc_button sc_button_square sc_button_size_small" style="border-style: solid; border-width: 2px;">Pedir Presupuesto</a>
                                                             <div id="presupuesto" class="overlay">
                                                                 <div class="popup">
                                                                     <a class="close" href="#">&times;</a>
-                                                                    <div class="content">
-                                                                        <h4></h4>  
+                                                                    <p align="left"><img src="images/titulos-08.png" style="width: 45%;"></p>
+                                                                    <div class="content"> 
                                                                         <table width="100%">
                                                                             <tr>
-                                                                                <td align="left"><label style="padding-left: 5px; border-left-style: solid; border-left-width: 5px; border-left-color: #cab374;">NOMBRE:&nbsp;</label></td>
-                                                                                <td><input type="text" name="nombre" required style="margin-left: -300px;"></td>
+                                                                                <td><input type="text" name="nombre" aria-required></td>
+                                                                                <td><input type="text" name="apellidos" required style="margin-left: -210px;"></td>
+                                                                            </tr>
+                                                                            <tr align="left">
+                                                                                <td>NOMBRE</td>
+                                                                                <td><font style="margin-left: -198px;">APELLIDOS</font></td>
                                                                             </tr>
                                                                             <tr>
-                                                                                <td align="left"><label style="padding-left: 5px; border-left-style: solid; border-left-width: 5px; border-left-color: #cab374;">APELLIDOS:&nbsp;</label></td>
-                                                                                <td><input type="text" name="apellidos" required style="margin-left: -300px;"></td>
+                                                                                <td><input type="tel" name="telefono"></td>
+                                                                                <td><input type="email" name="email" required style="margin-left: -210px;"></td>
+                                                                            </tr>
+                                                                            <tr align="left">
+                                                                                <td>TELÉFONO</td>
+                                                                                <td><font style="margin-left: -198px;">E-MAIL</font></td>
                                                                             </tr>
                                                                             <tr>
-                                                                                <td align="left"><label style="padding-left: 5px; border-left-style: solid; border-left-width: 5px; border-left-color: #cab374;">TELÉFONO:&nbsp;</label></td>
-                                                                                <td><input type="text" name="telefono" style="margin-left: -300px;"></td>
+                                                                                <td><input type="date" name="fecha"></td>
+                                                                                <td><input type="text" name="ciudad" style="margin-left: -210px;"></td>
+                                                                            </tr>
+                                                                            <tr align="left">
+                                                                                <td>FECHA DEL EVENTO</td>
+                                                                                <td><font style="margin-left: -198px;">CIUDAD</font></td>
                                                                             </tr>
                                                                             <tr>
-                                                                                <td align="left"><label style="padding-left: 5px; border-left-style: solid; border-left-width: 5px; border-left-color: #cab374;">E-MAIL:&nbsp;</label></td>
-                                                                                <td><input type="text" name="email" required style="margin-left: -300px;"></td>
-                                                                            </tr> 
-                                                                            <tr>
-                                                                                <td align="left"><label style="padding-left: 5px; border-left-style: solid; border-left-width: 5px; border-left-color: #cab374;">DIRECCIÓN:&nbsp;</label></td>
-                                                                                <td><textarea type="text" name="direccion" style="margin-left: -300px;"></textarea></td>
+                                                                                <td>&nbsp;&nbsp;</td>
                                                                             </tr>
                                                                             <tr>
-                                                                                <td align="left" style="height: 50px;"><label style="padding-left: 5px; border-left-style: solid; border-left-width: 5px; border-left-color: #cab374;">FECHA:&nbsp;</label></td>
-                                                                                <td style="height: 50px;"><input type="date" name="fecha" style="margin-left: -400px;"></td>
-                                                                            </tr>
-                                                                            <tr>
-                                                                                <td align="left"><label style="padding-left: 5px; border-left-style: solid; border-left-width: 5px; border-left-color: #cab374;">¿QUÉ NECESITAS DE FERNANDA CAMPILLO WEDDING PLANNING?&nbsp;</label></td>
+                                                                                <td align="left"><font color="#cab374">¿QUÉ TIPO DE EVENTO BUSCAS?</font>&nbsp;</td>
                                                                             </tr>
                                                                             <tr>      
-                                                                                <td><textarea type="text" name="quenecesitas" style="width: 400px;"></textarea></td>
+                                                                                <td><textarea type="text" name="quenecesitas" style="width: 430px;"></textarea></td>
+                                                                            </tr>  
+                                                                            <tr>
+                                                                                <td align="left"><font color="#cab374">¿EN QUÉ CIUDAD TE GUSTARÍA REALIZARLO?</font>&nbsp;</td>
+                                                                            </tr>
+                                                                            <tr>      
+                                                                                <td><textarea type="text" name="quenecesitas" style="width: 430px;"></textarea></td>
+                                                                            </tr>  
+                                                                            <tr>
+                                                                                <td align="left"><font color="#cab374">¿QUÉ TIPO DE SERVICIO(S) BUSCAS?</font>&nbsp;</td>
+                                                                            </tr>
+                                                                            <tr>      
+                                                                                <td><textarea type="text" name="quenecesitas" style="width: 430px;"></textarea></td>
                                                                             </tr>   
                                                                         </table>
                                                                         <br>
@@ -269,63 +363,78 @@
                                                 </div><div class="column-1_3 sc_column_item even">
                                                     <div class="sc_price_block sc_price_block_style_1">
                                                         <div class="featured_image"><img src="images/DAY-OFCORDINATION.jpg"></div>
-                                                        <div class="sc_price_block_title"><H6 style="font-size: 16px;">DAY-OF COORDINATION</H6></div>
+                                                        <div class="sc_price_block_title"><img src="images/titulos_2-10.png" style="width: 80%;"></div>
                                                         <div class="sc_price_block_description">
                                                             <ul>
                                                                 <li style="font-size: 16px;">¡Tú planeas, nosotros lo ejecutamos!</li>
                                                             </ul>
                                                         </div>
-                                                        <div class="sc_price_block_money" style="margin-left: 2.0em; margin-right: 2.0em;">
-                                                            <div class="sc_price">
-                                                                <p align="left">¿Ya tienes todo organizado y no sabes cómo hacerte cargo de todo el día del evento? Pues este es el servicio que necesitarás… Con un mes de anticipación nos podrás contactar y nos encargaremos de coordinar todos los servicios y, por supuesto estaremos ese día encargándonos de que todo salga tal y como lo soñaste.</p>
-                                                            </div>  
-                                                            <p align="left">¿Cómo funciona?</p>
-                                                            <p align="left">Con un mes de anticipación nos explicarás qué servicios tienes contratados, de qué va tu evento, fecha, lugar, lista y contratos con proveedores, etc. todo lo necesario para que nosotros podamos tener una mejor coordinación el día del evento. Al momento de contratar el servicio agendaremos dos citas: la primera y otra una semana antes del evento.</p> 
-                                                            <p align="left">Se realizará un scouting del lugar para visualizar los espacios y la decoración.</p> 
-                                                            <p align="left">•   Confirmación de planos y asignación de asientos/lugares.</p> 
-                                                            <p align="left">•   Confirmación de proveedores.</p>
-                                                            <p align="left">•   Revisión de que el montaje se realice de manera adecuada y que los proveedores cumplan en tiempo y forma.</p> 
-                                                            <p align="left">•   Kit de emergencia para el día de la boda.</p>
-                                                            <p align="left">•   Manejo continuo del minute by minute.</p> 
-                                                            <p align="left">Distribución de pagos finales / consejos para proveedores.</p>
+                                                        <div class="sc_price_block_money" style="margin-left: 1.0em; margin-right: 1.0em; text-align: center;">
+                                                            <p>¿Ya tienes todo organizado y no sabes cómo hacerte cargo de todo el día del evento? Pues este es el servicio que necesitarás… Con un mes de anticipación nos podrás contactar y nos encargaremos de coordinar todos los servicios y, por supuesto estaremos ese día encargándonos de que todo salga tal y como lo soñaste.</p>
+                                                            <p>¿Cómo funciona?</p>
+                                                            <p>Con un mes de anticipación nos explicarás qué servicios tienes contratados, de qué va tu evento, fecha, lugar, lista y contratos con proveedores, etc. todo lo necesario para que nosotros podamos tener una mejor coordinación el día del evento. Al momento de contratar el servicio agendaremos dos citas: la primera y otra una semana antes del evento.</p> 
+                                                            <p>Se realizará un scouting del lugar para visualizar los espacios y la decoración.</p>
+                                                            <p> 
+                                                            •   Confirmación de planos y asignación de asientos/lugares.<br> 
+                                                            •   Confirmación de proveedores.<br>
+                                                            •   Revisión de que el montaje se realice de manera adecuada y que los proveedores cumplan en tiempo y forma.<br>
+                                                            •   Kit de emergencia para el día de la boda.<br>
+                                                            •   Manejo continuo del minute by minute.<br> 
+                                                            •   Distribución de pagos finales / consejos para proveedores.
+                                                            </p>
                                                         </div>
                                                         <div class="sc_price_block_link">
                                                             <a href="#presupuesto" class="sc_button sc_button_square sc_button_size_small" style="border-style: solid; border-width: 2px;">Pedir Presupuesto</a>
                                                             <div id="presupuesto" class="overlay">
                                                                 <div class="popup">
                                                                     <a class="close" href="#">&times;</a>
-                                                                    <div class="content">
-                                                                        <h4></h4>  
+                                                                    <p align="left"><img src="images/titulos-08.png" style="width: 45%;"></p>
+                                                                    <div class="content"> 
                                                                         <table width="100%">
                                                                             <tr>
-                                                                                <td align="left"><label style="padding-left: 5px; border-left-style: solid; border-left-width: 5px; border-left-color: #cab374;">NOMBRE:&nbsp;</label></td>
-                                                                                <td><input type="text" name="nombre" required style="margin-left: -300px;"></td>
+                                                                                <td><input type="text" name="nombre" aria-required></td>
+                                                                                <td><input type="text" name="apellidos" required style="margin-left: -210px;"></td>
+                                                                            </tr>
+                                                                            <tr align="left">
+                                                                                <td>NOMBRE</td>
+                                                                                <td><font style="margin-left: -198px;">APELLIDOS</font></td>
                                                                             </tr>
                                                                             <tr>
-                                                                                <td align="left"><label style="padding-left: 5px; border-left-style: solid; border-left-width: 5px; border-left-color: #cab374;">APELLIDOS:&nbsp;</label></td>
-                                                                                <td><input type="text" name="apellidos" required style="margin-left: -300px;"></td>
+                                                                                <td><input type="tel" name="telefono"></td>
+                                                                                <td><input type="email" name="email" required style="margin-left: -210px;"></td>
+                                                                            </tr>
+                                                                            <tr align="left">
+                                                                                <td>TELÉFONO</td>
+                                                                                <td><font style="margin-left: -198px;">E-MAIL</font></td>
                                                                             </tr>
                                                                             <tr>
-                                                                                <td align="left"><label style="padding-left: 5px; border-left-style: solid; border-left-width: 5px; border-left-color: #cab374;">TELÉFONO:&nbsp;</label></td>
-                                                                                <td><input type="text" name="telefono" style="margin-left: -300px;"></td>
+                                                                                <td><input type="date" name="fecha"></td>
+                                                                                <td><input type="text" name="ciudad" style="margin-left: -210px;"></td>
+                                                                            </tr>
+                                                                            <tr align="left">
+                                                                                <td>FECHA DEL EVENTO</td>
+                                                                                <td><font style="margin-left: -198px;">CIUDAD</font></td>
                                                                             </tr>
                                                                             <tr>
-                                                                                <td align="left"><label style="padding-left: 5px; border-left-style: solid; border-left-width: 5px; border-left-color: #cab374;">E-MAIL:&nbsp;</label></td>
-                                                                                <td><input type="text" name="email" required style="margin-left: -300px;"></td>
-                                                                            </tr> 
-                                                                            <tr>
-                                                                                <td align="left"><label style="padding-left: 5px; border-left-style: solid; border-left-width: 5px; border-left-color: #cab374;">DIRECCIÓN:&nbsp;</label></td>
-                                                                                <td><textarea type="text" name="direccion" style="margin-left: -300px;"></textarea></td>
+                                                                                <td>&nbsp;&nbsp;</td>
                                                                             </tr>
                                                                             <tr>
-                                                                                <td align="left" style="height: 50px;"><label style="padding-left: 5px; border-left-style: solid; border-left-width: 5px; border-left-color: #cab374;">FECHA:&nbsp;</label></td>
-                                                                                <td style="height: 50px;"><input type="date" name="fecha" style="margin-left: -400px;"></td>
-                                                                            </tr>
-                                                                            <tr>
-                                                                                <td align="left"><label style="padding-left: 5px; border-left-style: solid; border-left-width: 5px; border-left-color: #cab374;">¿QUÉ NECESITAS DE FERNANDA CAMPILLO WEDDING PLANNING?&nbsp;</label></td>
+                                                                                <td align="left"><font color="#cab374">¿QUÉ TIPO DE EVENTO BUSCAS?</font>&nbsp;</td>
                                                                             </tr>
                                                                             <tr>      
-                                                                                <td><textarea type="text" name="quenecesitas" style="width: 400px;"></textarea></td>
+                                                                                <td><textarea type="text" name="quenecesitas" style="width: 500px;"></textarea></td>
+                                                                            </tr>  
+                                                                            <tr>
+                                                                                <td align="left"><font color="#cab374">¿EN QUÉ CIUDAD TE GUSTARÍA REALIZARLO?</font>&nbsp;</td>
+                                                                            </tr>
+                                                                            <tr>      
+                                                                                <td><textarea type="text" name="quenecesitas" style="width: 500px;"></textarea></td>
+                                                                            </tr>  
+                                                                            <tr>
+                                                                                <td align="left"><font color="#cab374">¿QUÉ TIPO DE SERVICIO(S) BUSCAS?</font>&nbsp;</td>
+                                                                            </tr>
+                                                                            <tr>      
+                                                                                <td><textarea type="text" name="quenecesitas" style="width: 500px;"></textarea></td>
                                                                             </tr>   
                                                                         </table>
                                                                         <br>
@@ -336,58 +445,71 @@
                                                         </div>
                                                     </div>
                                                 </div><div class="column-1_3 sc_column_item odd">
-                                                    <div class="sc_price_block sc_price_block_style_1" style="height: 1195px;">
+                                                    <div class="sc_price_block sc_price_block_style_1">
                                                         <div class="featured_image"><img alt="Full Package" src="images/COORDINATIONPACKAGE.jpg"></div>
-                                                        <div class="sc_price_block_title"><h6 style="font-size: 16px;">COORDINATION PACKAGE</h6></div>
+                                                        <div class="sc_price_block_title"><img src="images/titulos_2-11.png" style="width: 80%;"></div>
                                                         <div class="sc_price_block_description">
                                                             <ul>
                                                                 <li style="font-size: 16px;">¡Relájate y deja todo en nuestras manos!</li>
                                                             </ul>
                                                         </div>
-                                                        <div class="sc_price_block_money" style="margin-left: 2.0em; margin-right: 2.0em;">
-                                                            <div class="sc_price">
-                                                                <p align="left">Sabemos que cada evento es único y es por eso que siempre buscaremos conservar tu esencia y personalidad. Normalmente tenemos un año o quizás menos para organizar una boda o cualquier evento y si a esto le restamos las jornadas de trabajo ¿de cuánto tiempo dispones para que salga de la mejor manera?</p> 
-                                                                <p align="left">Nos encargaremos de planificar, organizar y coordinar ese gran día de principio a fin para entregarte un evento único y distintivo.</p> 
-                                                                <p align="left">Le daremos forma a ese gran día y pondremos en marcha todas tus ideas.</p>
-                                                            </div>
+                                                        <div class="sc_price_block_money" style="margin-left: 1.0em; margin-right: 1.0em; text-align: center;">
+                                                            <p>Sabemos que cada evento es único y es por eso que siempre buscaremos conservar tu esencia y personalidad. Normalmente tenemos un año o quizás menos para organizar una boda o cualquier evento y si a esto le restamos las jornadas de trabajo ¿de cuánto tiempo dispones para que salga de la mejor manera?</p> 
+                                                            <p>Nos encargaremos de planificar, organizar y coordinar ese gran día de principio a fin para entregarte un evento único y distintivo.</p> 
+                                                            <p>Le daremos forma a ese gran día y pondremos en marcha todas tus ideas.</p>
                                                         </div>
-                                                        <div class="sc_price_block_link" style="margin-top: 415px;">
+                                                        <div class="sc_price_block_link" style="margin-top: 317px;">
                                                             <a href="#presupuesto" class="sc_button sc_button_square sc_button_size_small" style="border-style: solid; border-width: 2px;">Pedir Presupuesto</a>
                                                             <div id="presupuesto" class="overlay">
                                                                 <div class="popup">
                                                                     <a class="close" href="#">&times;</a>
-                                                                    <div class="content">
-                                                                        <h4></h4>  
+                                                                    <p align="left"><img src="images/titulos-08.png" style="width: 45%;"></p>
+                                                                    <div class="content"> 
                                                                         <table width="100%">
                                                                             <tr>
-                                                                                <td align="left"><label style="padding-left: 5px; border-left-style: solid; border-left-width: 5px; border-left-color: #cab374;">NOMBRE:&nbsp;</label></td>
-                                                                                <td><input type="text" name="nombre" required style="margin-left: -300px;"></td>
+                                                                                <td><input type="text" name="nombre" aria-required></td>
+                                                                                <td><input type="text" name="apellidos" required style="margin-left: -210px;"></td>
+                                                                            </tr>
+                                                                            <tr align="left">
+                                                                                <td>NOMBRE</td>
+                                                                                <td><font style="margin-left: -198px;">APELLIDOS</font></td>
                                                                             </tr>
                                                                             <tr>
-                                                                                <td align="left"><label style="padding-left: 5px; border-left-style: solid; border-left-width: 5px; border-left-color: #cab374;">APELLIDOS:&nbsp;</label></td>
-                                                                                <td><input type="text" name="apellidos" required style="margin-left: -300px;"></td>
+                                                                                <td><input type="tel" name="telefono"></td>
+                                                                                <td><input type="email" name="email" required style="margin-left: -210px;"></td>
+                                                                            </tr>
+                                                                            <tr align="left">
+                                                                                <td>TELÉFONO</td>
+                                                                                <td><font style="margin-left: -198px;">E-MAIL</font></td>
                                                                             </tr>
                                                                             <tr>
-                                                                                <td align="left"><label style="padding-left: 5px; border-left-style: solid; border-left-width: 5px; border-left-color: #cab374;">TELÉFONO:&nbsp;</label></td>
-                                                                                <td><input type="text" name="telefono" style="margin-left: -300px;"></td>
+                                                                                <td><input type="date" name="fecha"></td>
+                                                                                <td><input type="text" name="ciudad" style="margin-left: -210px;"></td>
+                                                                            </tr>
+                                                                            <tr align="left">
+                                                                                <td>FECHA DEL EVENTO</td>
+                                                                                <td><font style="margin-left: -198px;">CIUDAD</font></td>
                                                                             </tr>
                                                                             <tr>
-                                                                                <td align="left"><label style="padding-left: 5px; border-left-style: solid; border-left-width: 5px; border-left-color: #cab374;">E-MAIL:&nbsp;</label></td>
-                                                                                <td><input type="text" name="email" required style="margin-left: -300px;"></td>
-                                                                            </tr> 
-                                                                            <tr>
-                                                                                <td align="left"><label style="padding-left: 5px; border-left-style: solid; border-left-width: 5px; border-left-color: #cab374;">DIRECCIÓN:&nbsp;</label></td>
-                                                                                <td><textarea type="text" name="direccion" style="margin-left: -300px;"></textarea></td>
+                                                                                <td>&nbsp;&nbsp;</td>
                                                                             </tr>
                                                                             <tr>
-                                                                                <td align="left" style="height: 50px;"><label style="padding-left: 5px; border-left-style: solid; border-left-width: 5px; border-left-color: #cab374;">FECHA:&nbsp;</label></td>
-                                                                                <td style="height: 50px;"><input type="date" name="fecha" style="margin-left: -400px;"></td>
-                                                                            </tr>
-                                                                            <tr>
-                                                                                <td align="left"><label style="padding-left: 5px; border-left-style: solid; border-left-width: 5px; border-left-color: #cab374;">¿QUÉ NECESITAS DE FERNANDA CAMPILLO WEDDING PLANNING?&nbsp;</label></td>
+                                                                                <td align="left"><font color="#cab374">¿QUÉ TIPO DE EVENTO BUSCAS?</font>&nbsp;</td>
                                                                             </tr>
                                                                             <tr>      
-                                                                                <td><textarea type="text" name="quenecesitas" style="width: 400px;"></textarea></td>
+                                                                                <td><textarea type="text" name="quenecesitas" style="width: 500px;"></textarea></td>
+                                                                            </tr>  
+                                                                            <tr>
+                                                                                <td align="left"><font color="#cab374">¿EN QUÉ CIUDAD TE GUSTARÍA REALIZARLO?</font>&nbsp;</td>
+                                                                            </tr>
+                                                                            <tr>      
+                                                                                <td><textarea type="text" name="quenecesitas" style="width: 500px;"></textarea></td>
+                                                                            </tr>  
+                                                                            <tr>
+                                                                                <td align="left"><font color="#cab374">¿QUÉ TIPO DE SERVICIO(S) BUSCAS?</font>&nbsp;</td>
+                                                                            </tr>
+                                                                            <tr>      
+                                                                                <td><textarea type="text" name="quenecesitas" style="width: 500px;"></textarea></td>
                                                                             </tr>   
                                                                         </table>
                                                                         <br>
@@ -410,11 +532,9 @@
         </div>
     </section>
 
-    <section class="related_wrap related_wrap_empty"></section>
-
     <footer class="footer_wrap widget_area scheme_original">
         <?php require("footer.php"); ?>
-    </footer>     
+    </footer>
 
     <a href="#" class="scroll_to_top icon-up" title="Scroll to top"></a>
     

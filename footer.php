@@ -2,29 +2,53 @@
     <div class="content_wrap">
         <aside id="lovestory_widget_socials-2" class="widget_number_1 widget widget_socials">
             <div class="widget_inner">
-                 <div style="text-align: left;">
-                    <p>
-                        <a>CDMX</a><br>
-                        Cerrada Hidalgo 11-1<br>
-                        Col. Rancho San Francisco<br>
-                        <a>RIVIERA MAYA</a><br>
-                        Azuna Corporate Center piso 11<br>
-                        Av. Sayil esquina Av. Savignac<br>
-                    </p>
-                    <p>
-                        <a href="mailto:info@fernandacampillo.com">info@fernandacampillo.com</a>
-                        <br>
-                        <a href="callto:+5552140418">55 5214 0418</a>
-                    </p>
-                </div>    
-                <div class="logo" style="margin-left: 45%; margin-top: -85px; float: none; margin-bottom: 3.2em;">
-                    <img src="images/logotipo.png" class="logo_main" alt="" style="margin-right: 165px; margin-top: -99px;"></a>  
-                    <img src="images/badge-silver_es_MX@2x.jpg" class="logo_main" alt="" style="margin-left: 20px; margin-top: -99px;">
-                    <img src="images/2.png" class="logo_main" alt="" style="margin-left: 20px; margin-top: -99px;">
-                    <img src="images/unnamed.jpeg" class="logo_main" alt="" style="margin-left: 20px; margin-top: -99px;">
-                </div>
-                <div class="copyright_text">
-                    <p><a href="#" style="color: #88ccca;"> &copy; Copyright FERNANDA CAMPILLO 2018&nbsp; |</a>&nbsp; AVISO DE PRIVACIDAD</p>
+                <div class="row">
+                    <div class="column-1_3">
+                        <div style="text-align: left;">
+                            <p>
+                                <a>CDMX</a><br>  
+                                Boulevard Manuel Ávila Camacho 24,<br>
+                                Col. Lomas de Chapultepec,<br>
+                                Del. Miguel Hidalgo, CP. 11000<br>
+                            </p>
+                            <p>    
+                                <a>RIVIERA MAYA</a><br>
+                                Azuna Corporate Center piso 11<br>
+                                Av. Sayil esquina Av. Savignac<br>
+                            </p>
+                            <p>
+                                <a href="mailto:info@fernandacampillo.com">info@fernandacampillo.com</a>
+                                <br>
+                                <a href="callto:+5552140418">Tel. 55 5214 0418</a>
+                            </p>
+                        </div> 
+                    </div> 
+                    <div class="column-1_3" style="text-align: center !important;">  
+                        <div class="logo">
+                            <img src="images/logotipo.png" class="logo_main" style="padding-bottom: 82px;"></a>  
+                        </div>
+                        <div class="copyright_text" style="font-size: 13.7px;">
+                            <a href="#" style="color: #88ccca;">&copy; Copyright FERNANDA CAMPILLO 2018 |</a> AVISO DE PRIVACIDAD
+                        </div>
+                    </div> 
+                    <div class="column-1_3" style="text-align: center !important;">
+                        <div class="logo" style="letter-spacing: 20px;">
+                            <div class="row">
+                                <div class="column-1_3" style="text-align: center !important;">
+                                    <img src="images/badge-gold_es_MX@2x.jpg" class="logo_main">
+                                </div>
+                                <div class="column-1_3" style="text-align: center !important;">
+                                    <img src="images/2.png" class="logo_main">
+                                </div>
+                                <div class="column-1_3" style="text-align: center !important;">
+                                    <img src="images/unnamed.jpeg" class="logo_main">
+                                </div>
+                                <div class="column-2_2" style="text-align: center !important; padding-top: 8%;">
+                                    <img src="images/seal_bodas_es_MX.png" class="logo_main">
+                                </div>    
+                            </div>
+                        </div>
+                    </div>
                 </div>
             </div>
         </aside>
