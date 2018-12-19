@@ -34,7 +34,7 @@
     <div class="page_content_wrap page_paddings_yes">
         <div class="sc_services_wrap">
             <div class="sc_services sc_services_style_services-1 sc_services_type_images  margin_top_tiny- margin_bottom_large full-width">
-                <img src="images/titulos_2-06.png" style="width: 25%; padding-left: 36%; margin-bottom: 3%; margin-top: 5%;">
+                <img src="images/titulos_2-06.png" style="width: 25%; padding-left: 36%; margin-bottom: 3%; margin-top: 4%;">
             </div>    
             <div class="content_wrap">
                 <div class="content">

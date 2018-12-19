@@ -28,7 +28,7 @@
                             <img src="images/logotipo.png" class="logo_main" style="padding-bottom: 82px;"></a>  
                         </div>
                         <div class="copyright_text" style="font-size: 13.7px;">
-                            <a href="#" style="color: #88ccca;">&copy; Copyright FERNANDA CAMPILLO 2018 |</a> AVISO DE PRIVACIDAD
+                            <a target="_blank" href="AVISO-PRIVACIDAD-MEXOUT.pdf" style="color: #88ccca;">&copy; Copyright FERNANDA CAMPILLO 2018 |</a> AVISO DE PRIVACIDAD
                         </div>
                     </div> 
                     <div class="column-1_3" style="text-align: center !important;">
