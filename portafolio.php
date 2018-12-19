@@ -56,7 +56,7 @@
                                                                     <div class="post_content isotope_item_content ih-item colored square effect_shift left_to_right">
                                                                         <div class="post_featured img ">
                                                                             <div class="post_thumb">
-                                                                                <img class="post-image" src="images/Portafolio1 - copia.jpeg" style="width: 370px; height: 246px;">
+                                                                                <img class="post-image" src="images/portafolio1.jpg" style="width: 370px; height: 246px;">
                                                                             </div>
                                                                         </div>
                                                                     </div>
@@ -72,7 +72,7 @@
                                                                     <div class="post_content isotope_item_content ih-item colored square effect_shift left_to_right">
                                                                         <div class="post_featured img ">
                                                                             <div class="post_thumb">
-                                                                                <img class="post-image"  alt="Colors and Textures for Summer Weddings" src="images/Portafolio2.jpg" style="width: 370px; height: 246px;">
+                                                                                <img class="post-image"  alt="Colors and Textures for Summer Weddings" src="images/portafolio2.jpg" style="width: 370px; height: 246px;">
                                                                             </div>
                                                                         </div>
                                                                     </div>
@@ -89,7 +89,7 @@
                                                                     <div class="post_content isotope_item_content ih-item colored square effect_shift left_to_right">
                                                                         <div class="post_featured img ">
                                                                             <div class="post_thumb">
-                                                                                <img class="post-image"  alt="Colors and Textures for Summer Weddings" src="images/Portafolio3.jpg" style="width: 370px; height: 246px;">
+                                                                                <img class="post-image"  alt="Colors and Textures for Summer Weddings" src="images/portafolio3.jpg" style="width: 370px; height: 246px;">
                                                                             </div>
                                                                         </div>
                                                                     </div>
@@ -106,7 +106,7 @@
                                                                     <div class="post_content isotope_item_content ih-item colored square effect_shift left_to_right">
                                                                         <div class="post_featured img ">
                                                                             <div class="post_thumb">
-                                                                                <img class="post-image"  alt="Colors and Textures for Summer Weddings" src="images/Portafolio4.jpg" style="width: 370px; height: 246px;">
+                                                                                <img class="post-image"  alt="Colors and Textures for Summer Weddings" src="images/portafolio4.jpg" style="width: 370px; height: 246px;">
                                                                             </div>
                                                                         </div>
                                                                     </div>
@@ -123,7 +123,7 @@
                                                                     <div class="post_content isotope_item_content ih-item colored square effect_shift left_to_right">
                                                                         <div class="post_featured img ">
                                                                             <div class="post_thumb">
-                                                                                <img class="post-image"  alt="Colors and Textures for Summer Weddings" src="images/Portafolio5.jpg" style="width: 370px; height: 246px;">
+                                                                                <img class="post-image"  alt="Colors and Textures for Summer Weddings" src="images/portafolio5.jpg" style="width: 370px; height: 246px;">
                                                                             </div>
                                                                         </div>
                                                                     </div>
@@ -140,7 +140,7 @@
                                                                     <div class="post_content isotope_item_content ih-item colored square effect_shift left_to_right">
                                                                         <div class="post_featured img ">
                                                                             <div class="post_thumb">
-                                                                                <img class="post-image"  alt="Colors and Textures for Summer Weddings" src="images/Portafolio6.jpg" style="width: 370px; height: 246px;">
+                                                                                <img class="post-image"  alt="Colors and Textures for Summer Weddings" src="images/portafolio6.jpg" style="width: 370px; height: 246px;">
                                                                             </div>
                                                                         </div>
                                                                     </div>
@@ -157,7 +157,7 @@
                                                                     <div class="post_content isotope_item_content ih-item colored square effect_shift left_to_right">
                                                                         <div class="post_featured img ">
                                                                            <div class="post_thumb">
-                                                                                <img class="post-image"  alt="Colors and Textures for Summer Weddings" src="images/Portafolio7.jpg" style="width: 370px; height: 246px;">
+                                                                                <img class="post-image"  alt="Colors and Textures for Summer Weddings" src="images/portafolio7.jpg" style="width: 370px; height: 246px;">
                                                                             </div>
                                                                         </div>
                                                                     </div>
@@ -174,7 +174,7 @@
                                                                     <div class="post_content isotope_item_content ih-item colored square effect_shift left_to_right">
                                                                         <div class="post_featured img ">
                                                                             <div class="post_thumb">
-                                                                                <img class="post-image"  alt="Colors and Textures for Summer Weddings" src="images/Portafolio8.jpg" style="width: 370px; height: 246px;">
+                                                                                <img class="post-image"  alt="Colors and Textures for Summer Weddings" src="images/portafolio8.jpg" style="width: 370px; height: 246px;">
                                                                             </div>
                                                                         </div>
                                                                     </div>
@@ -191,7 +191,7 @@
                                                                     <div class="post_content isotope_item_content ih-item colored square effect_shift left_to_right">
                                                                         <div class="post_featured img ">
                                                                             <div class="post_thumb">
-                                                                                <img class="post-image"  alt="Colors and Textures for Summer Weddings" src="images/Portafolio9.jpg" style="width: 370px; height: 246px;">
+                                                                                <img class="post-image"  alt="Colors and Textures for Summer Weddings" src="images/portafolio9.jpg" style="width: 370px; height: 246px;">
                                                                             </div>
                                                                         </div>
                                                                     </div>
@@ -208,7 +208,7 @@
                                                                     <div class="post_content isotope_item_content ih-item colored square effect_shift left_to_right">
                                                                         <div class="post_featured img ">
                                                                           <div class="post_thumb">
-                                                                                <img class="post-image"  alt="Colors and Textures for Summer Weddings" src="images/Portafolio10.jpg" style="width: 370px; height: 246px;">
+                                                                                <img class="post-image"  alt="Colors and Textures for Summer Weddings" src="images/portafolio10.jpg" style="width: 370px; height: 246px;">
                                                                             </div>
                                                                         </div>
                                                                     </div>
@@ -225,7 +225,7 @@
                                                                     <div class="post_content isotope_item_content ih-item colored square effect_shift left_to_right">
                                                                         <div class="post_featured img ">
                                                                             <div class="post_thumb">
-                                                                                <img class="post-image"  alt="Colors and Textures for Summer Weddings" src="images/Portafolio11 - copia.jpeg" style="width: 370px; height: 246px;">
+                                                                                <img class="post-image"  alt="Colors and Textures for Summer Weddings" src="images/portafolio11.jpg" style="width: 370px; height: 246px;">
                                                                             </div>
                                                                         </div>
                                                                     </div>
@@ -242,7 +242,160 @@
                                                                     <div class="post_content isotope_item_content ih-item colored square effect_shift left_to_right">
                                                                         <div class="post_featured img ">
                                                                             <div class="post_thumb">
-                                                                                <img class="post-image"  alt="Colors and Textures for Summer Weddings" src="images/Portafolio12 - copia.jpg" style="width: 370px; height: 246px;">
+                                                                                <img class="post-image"  alt="Colors and Textures for Summer Weddings" src="images/portafolio12.jpg" style="width: 370px; height: 246px;">
+                                                                            </div>
+                                                                        </div>
+                                                                    </div>
+                                                                    <!-- end .post_content -->
+                                                                </div>
+                                                                <!-- end .post_item -->
+                                                            </div>
+                                                            <!-- end .isotope_item -->
+                                                            <!--.isotope_item -->
+                                                            <div class="isotope_item isotope_item_portfolio isotope_column_3">
+                                                                <!--.post_item -->
+                                                                <div class="post_item even">
+                                                                    <!--.post_content -->
+                                                                    <div class="post_content isotope_item_content ih-item colored square effect_shift left_to_right">
+                                                                        <div class="post_featured img ">
+                                                                            <div class="post_thumb">
+                                                                                <img class="post-image"  alt="Colors and Textures for Summer Weddings" src="images/portafolio13.jpg" style="width: 370px; height: 246px;">
+                                                                            </div>
+                                                                        </div>
+                                                                    </div>
+                                                                    <!-- end .post_content -->
+                                                                </div>
+                                                                <!-- end .post_item -->
+                                                            </div>
+                                                            <!-- end .isotope_item -->
+                                                            <!--.isotope_item -->
+                                                            <div class="isotope_item isotope_item_portfolio isotope_column_3">
+                                                                <!--.post_item -->
+                                                                <div class="post_item odd">
+                                                                    <!--.post_content -->
+                                                                    <div class="post_content isotope_item_content ih-item colored square effect_shift left_to_right">
+                                                                        <div class="post_featured img ">
+                                                                           <div class="post_thumb">
+                                                                                <img class="post-image"  alt="Colors and Textures for Summer Weddings" src="images/portafolio14.jpg" style="width: 370px; height: 246px;">
+                                                                            </div>
+                                                                        </div>
+                                                                    </div>
+                                                                    <!-- end .post_content -->
+                                                                </div>
+                                                                <!-- end .post_item -->
+                                                            </div>
+                                                            <!-- end .isotope_item -->
+                                                            <!--.isotope_item -->
+                                                            <div class="isotope_item isotope_item_portfolio isotope_column_3">
+                                                                <!--.post_item -->
+                                                                <div class="post_item even last">
+                                                                    <!--.post_content -->
+                                                                    <div class="post_content isotope_item_content ih-item colored square effect_shift left_to_right">
+                                                                        <div class="post_featured img ">
+                                                                            <div class="post_thumb">
+                                                                                <img class="post-image"  alt="Colors and Textures for Summer Weddings" src="images/portafolio15.jpg" style="width: 370px; height: 246px;">
+                                                                            </div>
+                                                                        </div>
+                                                                    </div>
+                                                                    <!-- end .post_content -->
+                                                                </div>
+                                                                <!-- end .post_item -->
+                                                            </div>
+                                                            <!-- end .isotope_item -->
+                                                            <!--.isotope_item -->
+                                                            <div class="isotope_item isotope_item_portfolio isotope_column_3">
+                                                                <!--.post_item -->
+                                                                <div class="post_item even">
+                                                                    <!--.post_content -->
+                                                                    <div class="post_content isotope_item_content ih-item colored square effect_shift left_to_right">
+                                                                        <div class="post_featured img ">
+                                                                            <div class="post_thumb">
+                                                                                <img class="post-image"  alt="Colors and Textures for Summer Weddings" src="images/portafolio16.jpg" style="width: 370px; height: 246px;">
+                                                                            </div>
+                                                                        </div>
+                                                                    </div>
+                                                                    <!-- end .post_content -->
+                                                                </div>
+                                                                <!-- end .post_item -->
+                                                            </div>
+                                                            <!-- end .isotope_item -->
+                                                            <!--.isotope_item -->
+                                                            <div class="isotope_item isotope_item_portfolio isotope_column_3">
+                                                                <!--.post_item -->
+                                                                <div class="post_item odd">
+                                                                    <!--.post_content -->
+                                                                    <div class="post_content isotope_item_content ih-item colored square effect_shift left_to_right">
+                                                                        <div class="post_featured img ">
+                                                                          <div class="post_thumb">
+                                                                                <img class="post-image"  alt="Colors and Textures for Summer Weddings" src="images/portafolio17.jpg" style="width: 370px; height: 246px;">
+                                                                            </div>
+                                                                        </div>
+                                                                    </div>
+                                                                    <!-- end .post_content -->
+                                                                </div>
+                                                                <!-- end .post_item -->
+                                                            </div>
+                                                            <!-- end .isotope_item -->
+                                                            <!--.isotope_item -->
+                                                            <div class="isotope_item isotope_item_portfolio isotope_column_3">
+                                                                <!--.post_item -->
+                                                                <div class="post_item even last">
+                                                                    <!--.post_content -->
+                                                                    <div class="post_content isotope_item_content ih-item colored square effect_shift left_to_right">
+                                                                        <div class="post_featured img ">
+                                                                            <div class="post_thumb">
+                                                                                <img class="post-image"  alt="Colors and Textures for Summer Weddings" src="images/portafolio18.jpg" style="width: 370px; height: 246px;">
+                                                                            </div>
+                                                                        </div>
+                                                                    </div>
+                                                                    <!-- end .post_content -->
+                                                                </div>
+                                                                <!-- end .post_item -->
+                                                            </div>
+                                                            <!-- end .isotope_item -->
+                                                            <!--.isotope_item -->
+                                                            <div class="isotope_item isotope_item_portfolio isotope_column_3">
+                                                                <!--.post_item -->
+                                                                <div class="post_item even">
+                                                                    <!--.post_content -->
+                                                                    <div class="post_content isotope_item_content ih-item colored square effect_shift left_to_right">
+                                                                        <div class="post_featured img ">
+                                                                            <div class="post_thumb">
+                                                                                <img class="post-image"  alt="Colors and Textures for Summer Weddings" src="images/portafolio19.jpg" style="width: 370px; height: 246px;">
+                                                                            </div>
+                                                                        </div>
+                                                                    </div>
+                                                                    <!-- end .post_content -->
+                                                                </div>
+                                                                <!-- end .post_item -->
+                                                            </div>
+                                                            <!-- end .isotope_item -->
+                                                             <!--.isotope_item -->
+                                                            <div class="isotope_item isotope_item_portfolio isotope_column_3">
+                                                                <!--.post_item -->
+                                                                <div class="post_item even">
+                                                                    <!--.post_content -->
+                                                                    <div class="post_content isotope_item_content ih-item colored square effect_shift left_to_right">
+                                                                        <div class="post_featured img ">
+                                                                            <div class="post_thumb">
+                                                                                <img class="post-image"  alt="Colors and Textures for Summer Weddings" src="images/portafolio20.jpg" style="width: 370px; height: 246px;">
+                                                                            </div>
+                                                                        </div>
+                                                                    </div>
+                                                                    <!-- end .post_content -->
+                                                                </div>
+                                                                <!-- end .post_item -->
+                                                            </div>
+                                                            <!-- end .isotope_item -->
+                                                             <!--.isotope_item -->
+                                                            <div class="isotope_item isotope_item_portfolio isotope_column_3">
+                                                                <!--.post_item -->
+                                                                <div class="post_item even">
+                                                                    <!--.post_content -->
+                                                                    <div class="post_content isotope_item_content ih-item colored square effect_shift left_to_right">
+                                                                        <div class="post_featured img ">
+                                                                            <div class="post_thumb">
+                                                                                <img class="post-image"  alt="Colors and Textures for Summer Weddings" src="images/portafolio21.jpeg" style="width: 370px; height: 246px;">
                                                                             </div>
                                                                         </div>
                                                                     </div>
