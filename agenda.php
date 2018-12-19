@@ -152,10 +152,11 @@
                                                                               Incluye:<br>
                                                                               Una sección de preguntas básicas previas a la organización.<br>
                                                                               Checklist de todas las cosas importantes y necesarias.<br>
+                                                                              Checklist desde 12 meses previos al gran día.<br> 
                                                                               Un calendario atemporal para que definas tus citas con proveedores, pagos, etc.<br>
                                                                               Lista de invitados.<br>
+                                                                              Tabla de presupuesto.<br> 
                                                                               Tips para ese gran día.<br>
-                                                                              Y más...
                                                                             </p>     
                                                                         </div>
                                                                     </div>
@@ -178,7 +179,7 @@
                                                                               Si te encuentras en otro país, me puedes depósitar por Paypal (aleestefaniafitness@gmail.com).
                                                                             </p>
                                                                             <p>
-                                                                              $300.00
+                                                                              $450.00
                                                                             </p>
                                                                             <a href="#presupuesto" class="sc_button sc_button_square sc_button_size_small" style="border-style: solid; border-width: 2px;">Pedir Presupuesto</a>
                                                                             <div id="presupuesto" class="overlay">
