@@ -55,19 +55,19 @@
                                                             <div class="sc_columns columns_wrap" style="padding-bottom: 0;">
                                                                 <div class="column-1_3 column_padding_bottom" style="padding-bottom: 0;">
                                                                     <div class="sc_services_item_featured post_featured"  style="margin-bottom: 0;">
-                                                                        <div class="post_thumb" data-image="images/service-6.jpg" data-title="Bouquets &#038; Style">
+                                                                        <div class="post_thumb">
                                                                             <img class="post-image" alt="Bouquets &#038; Style" src="images/1.jpg" style="width: 370px; height: 240px; position: inherit;">
                                                                         </div>
                                                                     </div>
                                                                 </div><div class="column-1_3 column_padding_bottom" style="padding-bottom: 0;">
                                                                     <div class="sc_services_item_featured post_featured" style="margin-bottom: 0;">
-                                                                        <div class="post_thumb" data-image="images/service-5.jpg" data-title="Wedding Planning">
-                                                                            <img class="post-image" alt="Wedding Planning" src="images/2.jpeg" style="width: 370px; height: 240px;">
+                                                                        <div class="post_thumb">
+                                                                            <img class="post-image" alt="Wedding Planning" src="images/0-5.jpg" style="width: 370px; height: 240px;">
                                                                         </div>
                                                                     </div>
                                                                 </div><div class="column-1_3 column_padding_bottom" style="padding-bottom: 0;">
                                                                     <div class="sc_services_item_featured post_featured"  style="margin-bottom: 0;">
-                                                                        <div class="post_thumb" data-image="images/service-5.jpg" data-title="Wedding Planning">
+                                                                        <div class="post_thumb">
                                                                             <img class="post-image" alt="Wedding Planning" src="images/3.jpg" style="width: 370px; height: 240px;">
                                                                         </div>
                                                                     </div>  
