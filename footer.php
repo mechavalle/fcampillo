@@ -9,7 +9,7 @@
                                 <a>CDMX</a><br>  
                                 Boulevard Manuel Ávila Camacho 24,<br>
                                 Col. Lomas de Chapultepec,<br>
-                                Del. Miguel Hidalgo, CP. 11000<br>
+                                Del. Miguel Hidalgo, C.P. 11000<br>
                             </p>
                             <p>    
                                 <a>RIVIERA MAYA</a><br>

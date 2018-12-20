@@ -73,14 +73,14 @@
                                                     data-description="Riviera Maya" 
                                                     data-address="Av. Sayil Esq con Av. Savignac, Malecón Tajamar, Zona Hotelera, 77503 Cancún, Q.R." 
                                                     data-latlng="21.149032, -86.819170" 
-                                                    data-point="images/location.png">
+                                                    data-point="images/pin.png">
                                                 </div>
                                                 <div id="sc_googlemap_1_1" class="sc_googlemap_marker" 
                                                     data-title="" 
                                                     data-description="CDMX" 
                                                     data-address="Tenancingo 34, Cuauhtémoc, 06140 Ciudad de México, CDMX" 
                                                     data-latlng="19.413088, -99.173390" 
-                                                    data-point="images/location.png">
+                                                    data-point="images/pin.png">
                                                 </div>
                                             </div>
                                         </div>
@@ -106,8 +106,11 @@
                                                                         <h5 class="sc_title sc_title_regular sc_align_center sc-contacts-custom-h5" style="font-family: delicious; color: #737373;">CDMX</h5>
                                                                         <div class="m_text_column m_content_element ">
                                                                             <div class="m_wrapper">
-                                                                                <p style="font-weight: bold;">Cerrada Hidalgo 11 - 1
-                                                                                <br />Col. Rancho San Francisco</p>
+                                                                                <p style="font-weight: bold;">
+                                                                                    Boulevard Manuel Ávila Camacho 24,<br> 
+                                                                                    Col. Lomas de Chapultepec,<br>
+                                                                                    Del. Miguel Hidalgo, C.P. 11000
+                                                                                </p>
                                                                             </div>
                                                                         </div>
                                                                         <div class="sc-contacts-emptyspace" ></div>
