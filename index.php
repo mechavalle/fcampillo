@@ -78,7 +78,7 @@
       font-size: 20px;
       font-weight: bold;
       text-decoration: none;
-      color: #cab374;
+      color: #88ccca;
     }
 
     .popup .close:hover 

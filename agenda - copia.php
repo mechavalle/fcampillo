@@ -157,18 +157,7 @@
                                                                               Lista de invitados.<br>
                                                                               Tabla de presupuesto.<br> 
                                                                               Tips para ese gran día.<br>
-                                                                            </p>  
-                                                                            <p>
-                                                                              Descripción:<br>
-                                                                              20 x 20 cm.<br>
-                                                                              Pastas rígidas forradas en terminado mate.<br>
-                                                                              Páginas interiores en papel bond 120 gramos.<br>
-                                                                              Hojas para notas.<br>
-                                                                              Espiral metálico.<br>
-                                                                              Una bolsita "DRAMA" de manta para guardar tu agenda durante todo tu año, y no se te ensucie ni maltrate.<br>
-                                                                              Un sobre al principio para guardar papeles y notas importantes.<br> 
-                                                                              Encuadernada para darle protección y durabilidad, lleva el estilo a todas partes.
-                                                                            </p>   
+                                                                            </p>     
                                                                         </div>
                                                                     </div>
                                                                 </div><div class="column-1_2 column_padding_bottom">
@@ -181,12 +170,14 @@
                                                                         <div class="sc_services_item_content">
                                                                             <p style="color: #88ccca">Si te interesa adquirir la agenda</p>
                                                                             <p>
-                                                                              Para transferencia o depósito
-                                                                            </p>
+                                                                              El pago se hace a CLABE interbancaria: 012180011640652634 (Bancomer) ó número de tarjeta: 4152 3134 1208 4563 (Bancomer) a nombre de Alejandra Estefania Tello.
+                                                                            </p> 
                                                                             <p>
-                                                                              Número de cuenta: 1600426105<br>
-                                                                              CLABE: 042180016004261050<br>
-                                                                              Banco Mifel a nombre de Mexout Events S.A. de C.V.
+                                                                              Si quieres hacer un depósito vía Oxxo, 7 Eleven, farmacias, etc. por favor hazlo a la tarjeta: 4915 6630 1322 2253 (Banorte) a nombre de Alejandra Estefania Tello.
+                                                                            </p> 
+                                                                            <p>
+                                                                              Si te encuentras en otro país, me puedes depósitar por Paypal (aleestefaniafitness@gmail.com).
+                                                                            </p>
                                                                             <p>
                                                                               $450.00
                                                                             </p>
