@@ -58,7 +58,7 @@
       position: relative;
       transition: all 5s ease-in-out;
       border-style: solid;
-      border-width: 2px;
+      border-width: 1px;
       border-color: #88ccca;
       color: #88ccca;
     }
