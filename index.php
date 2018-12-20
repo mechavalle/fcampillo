@@ -282,7 +282,7 @@
                                                 <div class="column-1_3 sc_column_item odd first">
                                                     <div class="sc_price_block sc_price_block_style_1">
                                                         <div class="featured_image"><img src="images/FULLSERVICEGUIDE.jpg"></div>
-                                                        <div class="sc_price_block_title"><img src="images/titulos_2-09.png" style="width: 80%;"></div>
+                                                        <div class="sc_price_block_title"><img src="images/titulos_2-09.png" style="width: 75%;"></div>
                                                         <div class="sc_price_block_description">
                                                             <ul>
                                                                 <li style="font-size: 16px;">¡Estamos aquí para ti!</li>

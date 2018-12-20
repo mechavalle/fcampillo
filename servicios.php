@@ -89,7 +89,7 @@
                                                                     </div>
                                                                 </div>
                                                                 <div class="sc_services_item_content">
-                                                                    <img src="images/titulos_2-14.png" style="width: 70%; padding-left: 10%; margin-bottom: 0%; margin-top: 0%;">
+                                                                    <img src="images/titulos_2-14.png" style="width: 74%; padding-left: 10%; margin-bottom: 0%; margin-top: 0%;">
                                                                 </div>
                                                             </div>
                                                         </div><div class="column-1_2 column_padding_bottom">
@@ -100,7 +100,7 @@
                                                                     </div>
                                                                 </div>
                                                                 <div class="sc_services_item_content">
-                                                                    <img src="images/titulos_2-15.png" style="width: 60%; padding-left: 0%; margin-bottom: 0%; margin-top: 0%;">
+                                                                    <img src="images/titulos_2-15.png" style="width: 60%; padding-left: 0%; margin-bottom: 0%; margin-top: -1%;">
                                                                 </div>
                                                             </div>
                                                         </div><div class="column-1_2 column_padding_bottom">

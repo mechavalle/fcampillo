@@ -93,7 +93,7 @@
                                                                         </div>
                                                                     </div>
                                                                 </div><div class="column-1_2 column_padding_bottom">
-                                                                    <img src="images/titulos_2-04.png" style="width: 50%; padding-left: 20%; margin-bottom: 5%; margin-top: 5%;">
+                                                                    <img src="images/titulos_2-04.png" style="width: 50%; padding-left: 20%; margin-bottom: 6%; margin-top: 6%;">
                                                                     <div class="sc_services_item even">
                                                                         <div class="sc_services_item_content">
                                                                             <p>
