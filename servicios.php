@@ -5,7 +5,7 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
     <meta name="format-detection" content="telephone=no">
-    <title>Services – Fernanda Campillo</title>
+    <title>Servicios - Fernanda Campillo – Wedding & Event Planner</title>
     <link rel="icon" type="image/x-icon" href="images/logo30x30.png"/>
     <link property="stylesheet" rel='stylesheet' href='css/fontello/css/fontello.css' type='text/css' media='all' />
     <link property="stylesheet" rel='stylesheet' href='css/style.css' type='text/css' media='all' />

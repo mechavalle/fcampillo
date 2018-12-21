@@ -299,7 +299,7 @@
                                                             • Investigar y recomendar todas las opciones de lugares y proveedores.
                                                             </p>
                                                         </div>
-                                                        <div class="sc_price_block_link" style="margin-top: 241px;">
+                                                        <div class="sc_price_block_link" style="margin-top: 222px;">
                                                             <a href="#presupuesto" class="sc_button sc_button_square sc_button_size_small" style="border-style: solid; border-width: 2px;">Pedir Presupuesto</a>
                                                             <div id="presupuesto" class="overlay">
                                                                 <div class="popup">
