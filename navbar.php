@@ -52,7 +52,7 @@ switch($menu)
         </div>
 </header>
 <div class="header_mobile">
-    <div class="content_wrap">
+    <div class="content_wrap" style="margin: 0px auto;">
         <div class="menu_button icon-menu"></div>
         <div class="logo">
             <a href="#"><img src="images/logotipo.png" class="logo_main" alt=""></a>

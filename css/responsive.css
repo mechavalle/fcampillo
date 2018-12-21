@@ -2307,7 +2307,7 @@ Very common low res
     }
 	/* Body sizes */
 	.body_style_boxed .page_wrap {		width:100%; }
-	.slider_boxed, .content_wrap, .content_container {	width:280px; }
+	.slider_boxed, .content_wrap, .content_container {	width:333px; }
 
 	/* Content and Sidebar */
 	.sidebar_show .content { width: 100%; float: none; }
@@ -2375,8 +2375,8 @@ Very common low res
 		padding-right: 0;
 	}
 	.row, .columns_wrap {
-		margin-right: -20px;
-		margin-left: -20px;
+		margin-right: 0;
+		margin-left: 0;
 	}
 	.row > [class*="column-"], .columns_wrap > [class*="column-"] {
 		padding-right: 10px;
@@ -3487,7 +3487,7 @@ Very common low res
 	}
 	.header_mobile .side_wrap {
 		width: 100%;
-		top: 115px;
+		top: 88px;
 		left: -100%;
 	}
 	.admin-bar .header_mobile .side_wrap {

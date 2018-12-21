@@ -1552,7 +1552,7 @@ fieldset legend {
 
 .no-col-padding > [class*="container"] > .columns_wrap,
 .no-col-padding [class*="sc_parallax"] > [class*="container"] > .columns_wrap {
-	margin-right: -20px;
+	margin-right: 0;
 }
 .no-col-padding > [class*="container"] > .columns_wrap > .column_container,
 .no-col-padding [class*="sc_parallax"] > [class*="container"] > .columns_wrap > .column_container {
@@ -3460,8 +3460,7 @@ li.opened > a > .open_child_menu:before {
 .header_mobile .menu_button {
     position: absolute;
     left: 30px;
-    top: 50%;
-    margin-top: -13px;
+    top: 34px;
 }
 .header_mobile .menu_main_cart {
 	position: absolute;
@@ -3473,7 +3472,7 @@ li.opened > a > .open_child_menu:before {
 .header_mobile .menu_button,
 .header_mobile .menu_main_cart .top_panel_cart_button .contact_icon {
 	background-color: transparent !important;
-    font-size: 26px;
+    font-size: 35px;
     height: auto;
     width: auto;
     line-height: 25px;
@@ -3508,7 +3507,7 @@ li.opened > a > .open_child_menu:before {
 	top: 32px;
 }
 .header_mobile .side_wrap.open{
-	left: -20px;
+	left: 0;
 }
 .header_mobile .side_wrap .close {
     position: absolute;
