@@ -19,31 +19,6 @@
     <link property="stylesheet" rel='stylesheet' href='js/vendor/woocommerce/assets/css/plugin.woocommerce.css' type='text/css' media='all' />
     <link property="stylesheet" rel='stylesheet' href='css/responsive.css' type='text/css' media='all' />
     <link rel="stylesheet" href="fw/css/font-awesome.css"></link>
-    <link property="stylesheet" rel='stylesheet' href='css/bootstrap.min.css' type='text/css' media='all' />
-    <style type="text/css">
-        .barra {
-  background-image: url("images/nosback.png");
-  background-color: #ffffff;
-  width: 850px;
-  height: 116px;
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
-  position: relative;
-  margin: 10px auto;
-  text-align: center; 
-  vertical-align: middle;
-  display: inline-flex;
-  margin-bottom: 50px;
-}
-
-.grow:hover
-        {
-        -webkit-transform: scale(1.3);
-        -ms-transform: scale(1.3);
-        transform: scale(1.3);
-        }
-    </style>
 </head>
 
 <body class="single single-team">
@@ -112,27 +87,7 @@
                                                                 <p style="text-align: center; font-size: 20px; color: #88ccca;">
                                                                     Somos una empresa dedicada 100% a ti y a través de cinco puntos clave:
                                                                 </p>
-                                                                                                                                   
-                                                                </p>
-                                                                <div class="table-responsive">
-                                                                    <div class="barra">
-                                                                        <div class="column-1_6">
-                                                                            <img class="grow" src="images/nos1.PNG">
-                                                                        </div>
-                                                                        <div class="column-1_6">
-                                                                            <img class="grow" src="images/nos2.PNG">
-                                                                        </div>
-                                                                        <div class="column-1_6">
-                                                                            <img class="grow" src="images/nos3.PNG">
-                                                                        </div>
-                                                                        <div class="column-1_6">
-                                                                            <img class="grow" src="images/nos4.PNG">
-                                                                        </div>
-                                                                        <div class="column-1_6">
-                                                                            <img class="grow" src="images/nos5.PNG">
-                                                                        </div>
-                                                                    </div>
-                                                                </div>
+                                                                <p><img src="images/ICONOS-01.png" style="width: 850px;"></p>
                                                                 <p style="font-size: 20px; color: #88ccca;">
                                                                     todo aquello que te gusta, buscas e imaginas te aseguramos<br> que lo encontrarás con nosotros.<br>
                                                                     Hemos planificado y ejecutado eventos únicos y esperamos sean más.<br>

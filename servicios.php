@@ -20,6 +20,14 @@
     <link property="stylesheet" rel='stylesheet' href='css/responsive.css' type='text/css' media='all' />
     <link rel="stylesheet" href="fw/css/font-awesome.css"></link>
     <link property="stylesheet" rel='stylesheet' href='css/core.portfolio.css' type='text/css' media='all' />
+    <style type="text/css">
+    .grow:hover
+        {
+        -webkit-transform: scale(1.3);
+        -ms-transform: scale(1.3);
+        transform: scale(1.3);
+        }
+    </style>
    
 </head>
 </head>
@@ -136,25 +144,25 @@
                                 </div>
                                 <div class="row" style="text-align: center; vertical-align: middle;">
                                     <div class="column-1_7">
-                                        <img src="images/ICONOS-04.PNG">
+                                        <img class="grow" src="images/ICONOS-04.PNG">
                                     </div>
                                     <div class="column-1_7" style="top: -8px;">
-                                        <img src="images/ICONOS-05.PNG">
+                                        <img class="grow" src="images/ICONOS-05.PNG">
                                     </div>
                                     <div class="column-1_7" style="top: 3px;">
-                                        <img src="images/ICONOS-06.PNG">
+                                        <img class="grow" src="images/ICONOS-06.PNG">
                                     </div>
                                     <div class="column-1_7" style="top: -6px;">
-                                        <img src="images/ICONOS-07.PNG">
+                                        <img class="grow" src="images/ICONOS-07.PNG">
                                     </div>
                                     <div class="column-1_7">
-                                        <img src="images/ICONOS-08.PNG">
+                                        <img class="grow" src="images/ICONOS-08.PNG">
                                     </div>
                                     <div class="column-1_7" style="top: -5px;">
-                                        <img src="images/ICONOS-09.PNG">
+                                        <img class="grow" src="images/ICONOS-09.PNG">
                                     </div>
                                     <div class="column-1_7" style="top: 34px;">
-                                        <img src="images/ICONOS-10.PNG">
+                                        <img class="grow" src="images/ICONOS-10.PNG">
                                     </div>
                                 </div>
                             </div>
