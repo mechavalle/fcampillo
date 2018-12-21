@@ -2375,7 +2375,8 @@ Very common low res
 		padding-right: 0;
 	}
 	.row, .columns_wrap {
-		margin-right: -10px;
+		margin-right: -20px;
+		margin-left: -20px;
 	}
 	.row > [class*="column-"], .columns_wrap > [class*="column-"] {
 		padding-right: 10px;
@@ -3391,7 +3392,7 @@ Very common low res
 	}
 
 	.page_content_wrap{
-		padding: 4.26em 0;
+		padding: 0em 0;
 	}
     .pagination_wrap {
         margin-top: 3em;
@@ -3471,12 +3472,11 @@ Very common low res
 		display: none !important;
 	}
 	.header_mobile .content_wrap {
-		margin-left: 35px;
 		text-align: left;
 	}
 	.header_mobile .logo {
-		padding-top: 24px;
-		padding-bottom: 10px;
+		padding-top: 0px;
+		padding-bottom: 0px;
 	}	
 	.header_mobile .menu_main_cart {
 		right: 30px;
@@ -3487,7 +3487,7 @@ Very common low res
 	}
 	.header_mobile .side_wrap {
 		width: 100%;
-		top: 110px;
+		top: 115px;
 		left: -100%;
 	}
 	.admin-bar .header_mobile .side_wrap {

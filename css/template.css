@@ -3391,6 +3391,7 @@ button,
 }
 .scheme_original .sc_section_inner {
   color: #928b84;
+  text-align: center !important;
 }
 .scheme_original .sc_services_item .sc_services_item_readmore {
   color: #424443;

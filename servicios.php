@@ -51,8 +51,8 @@
                                             <!--.sc_services_wrap -->
                                             <div class="sc_services_wrap">
                                                 <!-- .sc_services -->
-                                                <div class="sc_services sc_services_style_services-1 sc_services_type_images  margin_top_tiny- margin_bottom_large full-width">
-                                                    <img src="images/titulos_2-07.png" style="width: 30%; padding-left: 34%; margin-bottom: 3%; margin-top: 1%;">
+                                                <div class="sc_services sc_services_style_services-1 sc_services_type_images  margin_top_tiny- margin_bottom_large full-width" style="text-align: center;">
+                                                    <img src="images/titulos_2-07.png" style="width: 400px; margin-bottom: 20px; margin-top: 0px;">
                                                     <div class="sc_columns columns_wrap">
                                                         <div class="column-1_2 column_padding_bottom">
                                                             <div  class="sc_blogger">
@@ -88,8 +88,8 @@
                                                                         </div>
                                                                     </div>
                                                                 </div>
-                                                                <div class="sc_services_item_content">
-                                                                    <img src="images/titulos_2-14.png" style="width: 74%; padding-left: 10%; margin-bottom: 0%; margin-top: 0%;">
+                                                                <div class="sc_services_item_content" style="text-align: center;">
+                                                                    <img src="images/titulos_2-14.png" style="width: 390px;">
                                                                 </div>
                                                             </div>
                                                         </div><div class="column-1_2 column_padding_bottom">
@@ -99,8 +99,8 @@
                                                                        <img class="post-image" alt="Wedding Planning" src="images/servicio2.jpg" style="width: 565px; height: 377px;"></a> 
                                                                     </div>
                                                                 </div>
-                                                                <div class="sc_services_item_content">
-                                                                    <img src="images/titulos_2-15.png" style="width: 60%; padding-left: 0%; margin-bottom: 0%; margin-top: -1%;">
+                                                                <div class="sc_services_item_content" style="text-align: center;">
+                                                                    <img src="images/titulos_2-15.png" style="width: 300px;">
                                                                 </div>
                                                             </div>
                                                         </div><div class="column-1_2 column_padding_bottom">
@@ -110,8 +110,8 @@
                                                                         <img class="post-image" alt="Catering &#038; Decoration" src="images/servicio3.jpg" style="width: 565px; height: 377px;"></a>
                                                                     </div>
                                                                 </div>
-                                                                <div class="sc_services_item_content">
-                                                                    <img src="images/titulos_2-17.png" style="width: 70%; padding-left: 0%; margin-bottom: 0%; margin-top: 0%;">
+                                                                <div class="sc_services_item_content" style="text-align: center;">
+                                                                    <img src="images/titulos_2-17.png" style="width: 350px;">
                                                                 </div>
                                                             </div>
                                                         </div><div class="column-1_2 column_padding_bottom">
@@ -121,8 +121,8 @@
                                                                         <img class="post-image" alt="Gift Ideas" src="images/servicio4.jpg" style="width: 565px; height: 377px;"></a>
                                                                     </div>
                                                                 </div>
-                                                                <div class="sc_services_item_content">
-                                                                    <img src="images/titulos_2-16.png" style="width: 55%; padding-left: 0%; margin-bottom: 0%; margin-top: 0%;">
+                                                                <div class="sc_services_item_content" style="text-align: center;">
+                                                                    <img src="images/titulos_2-16.png" style="width: 300px;">
                                                                 </div>
                                                             </div>
                                                         </div>
@@ -134,7 +134,29 @@
                                         </div>
                                     </div>
                                 </div>
-                                <img src="images/ICONOS-03.png">
+                                <div class="row" style="text-align: center; vertical-align: middle;">
+                                    <div class="column-1_7">
+                                        <img src="images/ICONOS-04.PNG">
+                                    </div>
+                                    <div class="column-1_7">
+                                        <img src="images/ICONOS-05.PNG">
+                                    </div>
+                                    <div class="column-1_7">
+                                        <img src="images/ICONOS-06.PNG">
+                                    </div>
+                                    <div class="column-1_7">
+                                        <img src="images/ICONOS-07.PNG">
+                                    </div>
+                                    <div class="column-1_7">
+                                        <img src="images/ICONOS-08.PNG">
+                                    </div>
+                                    <div class="column-1_7">
+                                        <img src="images/ICONOS-09.PNG">
+                                    </div>
+                                    <div class="column-1_7">
+                                        <img src="images/ICONOS-10.PNG">
+                                    </div>
+                                </div>
                             </div>
                         </div>	
                     </section>                                           

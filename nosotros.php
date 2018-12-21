@@ -33,8 +33,8 @@
 
     <div class="page_content_wrap page_paddings_yes">
         <div class="sc_services_wrap">
-            <div class="sc_services sc_services_style_services-1 sc_services_type_images  margin_top_tiny- margin_bottom_large full-width">
-                <img src="images/titulos_2-06.png" style="width: 25%; padding-left: 36%; margin-bottom: 3%; margin-top: 4%;">
+            <div class="sc_services sc_services_style_services-1 sc_services_type_images  margin_top_tiny- margin_bottom_large full-width" style="text-align: center;">
+                <img src="images/titulos_2-06.png" style="width: 400px; margin-top: 20px;">
             </div>    
             <div class="content_wrap">
                 <div class="content">
@@ -73,27 +73,27 @@
                                                                     </div>  
                                                                 </div>
                                                             </div>
-                                                            <div style="padding-bottom: 195px; padding-top: 20px; padding-left: 10%; width: 77%;">
-                                                                <h3 class="sc_title sc_title_iconed margin_top_tiny margin_bottom_null sc_a-us-margin-type-c fsz_cust" style="color: #88ccca; font-family: delicious; text-align: center;">&nbsp;Para crear algo excepcional debemos de &nbsp;buscar que cada detalle, cliente, evento o &nbsp;servicio sea realmente significativo.</h3>
+                                                            <div class="container" style="text-align: center !important;">
+                                                                <h3 class="sc_title sc_title_iconed margin_top_tiny margin_bottom_null sc_a-us-margin-type-c fsz_cust" style="color: #88ccca; font-family: delicious;">Para crear algo excepcional debemos de buscar que cada<br> detalle, cliente, evento o servicio sea realmente significativo.</h3>
+                                                                <img src="images/titulos_2-12.png" style="width: 190px; margin-bottom: 130px; margin-top: 20px;">
+                                                                <p style="margin-top: -110px; color: #737373; font-size: 18px;">
+                                                                    Estamos dedicados a la creación y planificación de eventos con un alto nivel de profesionalismo,<br> en donde nos aseguramos de innovar para sorprender a todos y cada uno de nuestros clientes,<br> cuidando que nuestros servicios se cumplan en tiempo y forma.
+                                                                </p>
+                                                                <img src="images/titulos_2-13.png" style="width: 190px; margin-bottom: 20px; margin-top: 20px;">
+                                                                <p style="color: #737373; font-size: 18px;">
+                                                                    Ser una empresa líder dentro de la industria de los eventos, siendo ampliamente reconocidos por nuestro<br> profesionalismo, calidad, vocación y compromiso con los objetivos de nuestros clientes. 
+                                                                </p>
+                                                                <br>
+                                                                <p style="text-align: center; font-size: 20px; color: #88ccca;">
+                                                                    Somos una empresa dedicada 100% a ti y a través de cinco puntos clave:
+                                                                </p>
+                                                                <p><img src="images/ICONOS-01.png" style="width: 850px;"></p>
+                                                                <p style="font-size: 20px; color: #88ccca;">
+                                                                    todo aquello que te gusta, buscas e imaginas te aseguramos<br> que lo encontrarás con nosotros.<br>
+                                                                    Hemos planificado y ejecutado eventos únicos y esperamos sean más.<br>
+                                                                    Nos sentimos increíblemente afortunados de ser parte de un momento tan<br> especial en la vida de nuestras parejas y clientes, y estamos ansiosos de<br> ayudarlos con cada detalle especial. Siempre buscaremos la perfección en<br> nuestro trabajo: no existe una boda bien, sólo existen bodas perfectas.
+                                                                </p>
                                                             </div>
-                                                            <img src="images/titulos_2-12.png" style="width: 10%; padding-left: 44%; margin-bottom: 0%; margin-top: -14%;">
-                                                            <p style="padding-left: 25%; width: 50%; margin-top: -10%; color: #737373; text-align: center;">
-                                                                Estamos dedicados a la creación y planificación de eventos con un alto nivel de profesionalismo, en donde nos aseguramos de innovar para sorprender a todos y cada uno de nuestros clientes, cuidando que nuestros servicios se cumplan en tiempo y forma.
-                                                            </p>
-                                                            <img src="images/titulos_2-13.png" style="width: 10%; padding-left: 44%; margin-bottom: 1%; margin-top: 2%;">
-                                                            <p style="padding-left: 25%; width: 50%; color: #737373; text-align: center;">
-                                                                Ser una empresa líder dentro de la industria de los eventos, siendo ampliamente reconocidos por nuestro profesionalismo, calidad, vocación y compromiso con los objetivos de nuestros clientes. 
-                                                            </p>
-                                                            <br>
-                                                            <p style="padding-left: 25%; width: 50%; text-align: center; font-size: 20px; color: #88ccca;">
-                                                                Somos una empresa dedicada 100% a ti y a través de cinco puntos clave:
-                                                            </p>
-                                                            <p><img src="images/ICONOS-01.png" style="width: 60%; padding-left: 20%;"></p>
-                                                            <p style="padding-left: 25%; width: 50%; text-align: center; font-size: 20px; color: #88ccca;">
-                                                                todo aquello que te gusta, buscas e imaginas te aseguramos que lo encontrarás con nosotros.<br>
-                                                                Hemos planificado y ejecutado eventos únicos y esperamos sean más.
-                                                                Nos sentimos increíblemente afortunados de ser parte de un momento tan especial en la vida de nuestras parejas y clientes, y estamos ansiosos de ayudarlos con cada detalle especial. Siempre buscaremos la perfección en nuestro trabajo: no existe una boda bien, sólo existen bodas perfectas.
-                                                            </p>
                                                         </div>
                                                     </div>
                                                 </div>

@@ -2,9 +2,10 @@
 
 .social 
 	{
+	display: block;
 	position: fixed; 
 	left: 0px; 
-	top: 100px; 
+	top: 100px;
 	z-index: 2000;
 	line-height: initial;
 	font-size: smaller;

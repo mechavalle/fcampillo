@@ -1552,7 +1552,7 @@ fieldset legend {
 
 .no-col-padding > [class*="container"] > .columns_wrap,
 .no-col-padding [class*="sc_parallax"] > [class*="container"] > .columns_wrap {
-	margin-right: 0;
+	margin-right: -20px;
 }
 .no-col-padding > [class*="container"] > .columns_wrap > .column_container,
 .no-col-padding [class*="sc_parallax"] > [class*="container"] > .columns_wrap > .column_container {
@@ -3508,7 +3508,7 @@ li.opened > a > .open_child_menu:before {
 	top: 32px;
 }
 .header_mobile .side_wrap.open{
-	left: 0;
+	left: -20px;
 }
 .header_mobile .side_wrap .close {
     position: absolute;

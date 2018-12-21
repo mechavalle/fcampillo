@@ -180,56 +180,56 @@
                                                                 <div class="carousel-item active">
                                                                     <div class="row">
                                                                         <div class="col desk" align="center">
-                                                                            <img src="images/s1.jpg" style="height: 576px; width: 1349px;">
+                                                                            <img src="images/s1.jpg">
                                                                         </div>
                                                                     </div>
                                                                 </div>
                                                                 <div class="carousel-item">
                                                                     <div class="row">
                                                                         <div class="col desk" align="right">
-                                                                            <img src="images/s2.jpg" style="height: 576px; width: 1349px;">
+                                                                            <img src="images/s2.jpg">
                                                                         </div>
                                                                     </div>
                                                                 </div>
                                                                 <div class="carousel-item">
                                                                     <div class="row">
                                                                         <div class="col desk" align="right">
-                                                                            <img src="images/s3.jpg" style="height: 576px; width: 1349px;">
+                                                                            <img src="images/s3.jpg">
                                                                         </div>
                                                                     </div>
                                                                 </div>
                                                                 <div class="carousel-item">
                                                                     <div class="row">
                                                                         <div class="col desk" align="center">
-                                                                            <img src="images/s4.jpg" style="height: 576px; width: 1349px;">
+                                                                            <img src="images/s4.jpg">
                                                                         </div>
                                                                     </div>
                                                                 </div>
                                                                 <div class="carousel-item">
                                                                     <div class="row">
                                                                         <div class="col desk" align="right">
-                                                                            <img src="images/s5.jpg" style="height: 576px; width: 1349px;">
+                                                                            <img src="images/s5.jpg">
                                                                         </div>
                                                                     </div>
                                                                 </div>
                                                                 <div class="carousel-item">
                                                                     <div class="row">
                                                                         <div class="col desk" align="right">
-                                                                            <img src="images/s6.jpg" style="height: 576px; width: 1349px;">
+                                                                            <img src="images/s6.jpg">
                                                                         </div>
                                                                     </div>
                                                                 </div>
                                                                 <div class="carousel-item">
                                                                     <div class="row">
                                                                         <div class="col desk" align="right">
-                                                                            <img src="images/s7.jpg" style="height: 576px; width: 1349px;">
+                                                                            <img src="images/s7.jpg">
                                                                         </div>
                                                                     </div>
                                                                 </div>
                                                                 <div class="carousel-item">
                                                                     <div class="row">
                                                                         <div class="col desk" align="right">
-                                                                            <img src="images/s8.jpg" style="height: 576px; width: 1349px;">
+                                                                            <img src="images/s8.jpg">
                                                                         </div>
                                                                     </div>
                                                                 </div>
@@ -266,8 +266,8 @@
                             <div class="m_wrapper">
                                 <div class="sc_section sc_section_block sc_home-margin-type-j">
                                     <div class="sc_section_inner">
-                                        <img src="images/titulos_2-05.png" style="width: 35%; padding-left: 30%; margin-bottom: 2%; margin-top:-8%;">
-                                        <p style="text-align: center;">
+                                        <img src="images/titulos_2-05.png" style="width: 400px; margin-bottom: 10px; margin-top:-120px;">
+                                        <p style="font-size: 18px;">
                                             ¿No sabes por dónde empezar con tus planes?<br>
                                             ¿Necesitas un poco de apoyo adicional para completar tus últimos detalles?<br>
                                             <font color="#88ccca">¡Estamos aquí para ti!</font><br>
@@ -276,20 +276,20 @@
                                             Estaremos a tu lado en cada paso del camino
                                         </p>
                                         <br>
-                                        <div class="column-1_1" style="text-align: center; color: #737373;">
+                                        <div class="column-1_1" style="color: #737373;">
                                         <div class="sc_section_content_wrap">
                                             <div class="columns_wrap sc_columns columns_nofluid sc_columns_count_3">
                                                 <div class="column-1_3 sc_column_item odd first">
                                                     <div class="sc_price_block sc_price_block_style_1">
                                                         <div class="featured_image"><img src="images/FULLSERVICEGUIDE.jpg"></div>
-                                                        <div class="sc_price_block_title"><img src="images/titulos_2-09.png" style="width: 75%;"></div>
+                                                        <div class="sc_price_block_title"><img src="images/titulos_2-09.png" style="width: 280px;"></div>
                                                         <div class="sc_price_block_description">
                                                             <ul>
                                                                 <li style="font-size: 16px;">¡Estamos aquí para ti!</li>
                                                                 <br>
                                                             </ul>
                                                         </div>
-                                                        <div class="sc_price_block_money" style="margin-left: 1.0em; margin-right: 1.0em; text-align: center;">
+                                                        <div class="sc_price_block_money">
                                                             <p>Sabemos que organizar cualquier tipo de evento no es fácil, es por eso que te ofrecemos este paquete, para que aclares todas tus dudas y tu evento sea un éxito.</p>
                                                             <p>Consiste en:</p>
                                                             <p>
@@ -299,12 +299,12 @@
                                                             • Investigar y recomendar todas las opciones de lugares y proveedores.
                                                             </p>
                                                         </div>
-                                                        <div class="sc_price_block_link" style="margin-top: 222px;">
+                                                        <div class="sc_price_block_link" style="margin-top: 241px;">
                                                             <a href="#presupuesto" class="sc_button sc_button_square sc_button_size_small" style="border-style: solid; border-width: 2px;">Pedir Presupuesto</a>
                                                             <div id="presupuesto" class="overlay">
                                                                 <div class="popup">
                                                                     <a class="close" href="#">&times;</a>
-                                                                    <p align="left"><img src="images/titulos-08.png" style="width: 45%;"></p>
+                                                                    <p align="left"><img src="images/titulos-08.png" style="width: 300px;"></p>
                                                                     <div class="content"> 
                                                                         <table width="100%">
                                                                             <tr>
@@ -363,13 +363,13 @@
                                                 </div><div class="column-1_3 sc_column_item even">
                                                     <div class="sc_price_block sc_price_block_style_1">
                                                         <div class="featured_image"><img src="images/DAY-OFCORDINATION.jpg"></div>
-                                                        <div class="sc_price_block_title"><img src="images/titulos_2-10.png" style="width: 80%;"></div>
+                                                        <div class="sc_price_block_title"><img src="images/titulos_2-10.png" style="width: 295px;"></div>
                                                         <div class="sc_price_block_description">
                                                             <ul>
                                                                 <li style="font-size: 16px;">¡Tú planeas, nosotros lo ejecutamos!</li>
                                                             </ul>
                                                         </div>
-                                                        <div class="sc_price_block_money" style="margin-left: 1.0em; margin-right: 1.0em; text-align: center;">
+                                                        <div class="sc_price_block_money">
                                                             <p>¿Ya tienes todo organizado y no sabes cómo hacerte cargo de todo el día del evento? Pues este es el servicio que necesitarás… Con un mes de anticipación nos podrás contactar y nos encargaremos de coordinar todos los servicios y, por supuesto estaremos ese día encargándonos de que todo salga tal y como lo soñaste.</p>
                                                             <p>¿Cómo funciona?</p>
                                                             <p>Con un mes de anticipación nos explicarás qué servicios tienes contratados, de qué va tu evento, fecha, lugar, lista y contratos con proveedores, etc. todo lo necesario para que nosotros podamos tener una mejor coordinación el día del evento. Al momento de contratar el servicio agendaremos dos citas: la primera y otra una semana antes del evento.</p> 
@@ -388,7 +388,7 @@
                                                             <div id="presupuesto" class="overlay">
                                                                 <div class="popup">
                                                                     <a class="close" href="#">&times;</a>
-                                                                    <p align="left"><img src="images/titulos-08.png" style="width: 45%;"></p>
+                                                                    <p align="left"><img src="images/titulos-08.png" style="width: 300px;"></p>
                                                                     <div class="content"> 
                                                                         <table width="100%">
                                                                             <tr>
@@ -453,7 +453,7 @@
                                                                 <li style="font-size: 16px;">¡Relájate y deja todo en nuestras manos!</li>
                                                             </ul>
                                                         </div>
-                                                        <div class="sc_price_block_money" style="margin-left: 1.0em; margin-right: 1.0em; text-align: center;">
+                                                        <div class="sc_price_block_money">
                                                             <p>Sabemos que cada evento es único y es por eso que siempre buscaremos conservar tu esencia y personalidad. Normalmente tenemos un año o quizás menos para organizar una boda o cualquier evento y si a esto le restamos las jornadas de trabajo ¿de cuánto tiempo dispones para que salga de la mejor manera?</p> 
                                                             <p>Nos encargaremos de planificar, organizar y coordinar ese gran día de principio a fin para entregarte un evento único y distintivo.</p> 
                                                             <p>Le daremos forma a ese gran día y pondremos en marcha todas tus ideas.</p>
@@ -463,7 +463,7 @@
                                                             <div id="presupuesto" class="overlay">
                                                                 <div class="popup">
                                                                     <a class="close" href="#">&times;</a>
-                                                                    <p align="left"><img src="images/titulos-08.png" style="width: 45%;"></p>
+                                                                    <p align="left"><img src="images/titulos-08.png" style="width: 300px;"></p>
                                                                     <div class="content"> 
                                                                         <table width="100%">
                                                                             <tr>

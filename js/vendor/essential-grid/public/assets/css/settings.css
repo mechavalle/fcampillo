@@ -214,7 +214,7 @@ font-family: star;
 											}
 
 .esg-entry-media							{	width:100%;}
-.esg-entry-media img						{	width:100%; height:700px; max-width:none !important; min-width:none !important}
+.esg-entry-media img						{	width:100%; height:auto; max-width:none !important; min-width:none !important}
 
 .esg-layout-masonry .esg-entry-media img	{
 	line-height: 0px;

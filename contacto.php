@@ -54,8 +54,8 @@
         ?> 
     </header>
         
-    <div class="page_content_wrap page_paddings_no scheme_original">
-        <img src="images/titulos_2-19.png" style="width: 40%; padding-left: 29%; margin-bottom: 2%; margin-top: 3%;">
+    <div class="page_content_wrap page_paddings_no scheme_original" style="text-align: center;">
+        <img src="images/titulos_2-19.png" style="width: 600px; margin-bottom: 20px; margin-top: 40px;">
         <div class="content">
             <!-- .post_item_single .page .type-page  -->
             <article class="post_item_single page type-page">
@@ -144,7 +144,7 @@
                                         <div class="m_wrapper">
                                             <div class="sc_form_wrap">
                                                 <div class="sc_form sc_form_style_form_1 aligncenter sc-contacts-form">
-                                                    <img src="images/titulos_2-08.png" style="width: 70%; margin-bottom: 6%; margin-top: -75px;">
+                                                    <img src="images/titulos_2-08.png" style="width: 400px; margin-bottom: 20px; margin-top: 0px;">
                                                     <form class="sc_input_hover_default" data-formtype="form_1" method="post" action="include/contact-form.php">
                                                     <div class="sc_form_info columns_wrap">
                                                         <div class="sc_form_item sc_form_field label_over column-1_2">

@@ -24,6 +24,13 @@
     <link rel="stylesheet" href="fw/css/font-awesome.css"></link>
 </head>
 
+<style type="text/css">
+    p
+    {
+    font-size: 18px;
+    }
+</style>
+
 <body class="single single-product woocommerce woocommerce-page">
 
     <header class="top_panel_wrap top_panel_style_1 scheme_original">
@@ -46,7 +53,7 @@
                                         <div class="sc_section_content_wrap">
                                             <div class="esg-media-cover-wrapper">
                                                 <div class="esg-entry-media">
-                                                    <img src="images/BIO.jpg" alt="" style="height: 576px; width: 1349px;">
+                                                    <img src="images/BIO.jpg">
                                                 </div>
                                             </div>         
                                         </div>
@@ -77,9 +84,9 @@
                                                     <div class="sc_services_wrap">
                                                         <!-- .sc_services -->
                                                         <div class="sc_services sc_services_style_services-1 sc_services_type_images  margin_top_tiny- margin_bottom_large full-width">
-                                                            <div class="sc_columns columns_wrap" style="margin-top: 50px;">
+                                                            <div class="sc_columns columns_wrap" style="margin-top: 50px; text-align: center !important;">
                                                                 <div class="column-1_2 column_padding_bottom">
-                                                                    <img src="images/titulos_2-03.png" style="width: 60%; padding-left: 20%; margin-bottom: 5%; margin-top: 5%;">
+                                                                    <img src="images/titulos_2-03.png" style="width: 450px; margin-bottom: 20px; margin-top: 0px;">
                                                                     <div class="sc_services_item odd first">
                                                                         <div class="sc_services_item_content">
                                                                             <p>
@@ -93,7 +100,7 @@
                                                                         </div>
                                                                     </div>
                                                                 </div><div class="column-1_2 column_padding_bottom">
-                                                                    <img src="images/titulos_2-04.png" style="width: 50%; padding-left: 20%; margin-bottom: 6%; margin-top: 6%;">
+                                                                    <img src="images/titulos_2-04.png" style="width: 400px; margin-bottom: 20px; margin-top: 0px;">
                                                                     <div class="sc_services_item even">
                                                                         <div class="sc_services_item_content">
                                                                             <p>
@@ -105,18 +112,22 @@
                                                                         </div>
                                                                     </div>
                                                                 </div>
-                                                                <img src="images/titulos_2-18.png" style="width: 45%; padding-left: 27%; margin-bottom: 0%; margin-top:0%;">
-                                                                <div class="column-1_1" style="text-align: center; color: #737373; padding: 20%; margin-bottom: -20%; margin-top: -20%;">
-                                                                <p>
-                                                                    Nos comprometemos a encontrar soluciones para los clientes y cumplir sus sueños. Usamos nuestro conocimiento y experiencia para crear un servicio a medida. Para nosotros es necesario estar conectados con los clientes y ponernos en sus zapatos, para así lograr que se enamoren de nuestro trabajo.
-                                                                </p>
-                                                                <p>
-                                                                    Somos un equipo creativo capaz de diseñar un evento de la A a la Z. A partir de un sólo detalle, elaboramos un proyecto basado en la visión de cada cliente.
-                                                                </p>
-                                                                <p>
-                                                                    Nos fascinan las flores, los muebles, los decorados y los detalles, que transforman un lugar sencillo en un conjunto de ensueño. Proporcionamos proveedores de alto nivel, que representan la excelencia mexicana, porque creemos firmemente que lo que queda en la memoria no es sólo el entorno sino también la excelente hospitalidad por la que México es famoso.
-                                                                </p>
-                                               
+                                                            </div>
+                                                        </div>
+                                                        <div class="container" style="text-align: center !important;">
+                                                            <img src="images/titulos_2-18.png" style="width: 500px; margin-bottom: 0px; margin-top:0px;">
+                                                            <div class="column-1_1" style="text-align: center; color: #737373; margin-bottom: 0px; margin-top: 0px;">
+                                                            <p>
+                                                                Nos comprometemos a encontrar soluciones para los clientes y cumplir sus sueños. Usamos nuestro<br> conocimiento y experiencia para crear un servicio a medida. Para nosotros es necesario estar conectados<br> con los clientes y ponernos en sus zapatos, para así lograr que se enamoren de nuestro trabajo.
+                                                            </p>
+                                                            <p>
+                                                                Somos un equipo creativo capaz de diseñar un evento de la A a la Z. A partir de un sólo detalle,<br> elaboramos un proyecto basado en la visión de cada cliente.
+                                                            </p>
+                                                            <p>
+                                                                Nos fascinan las flores, los muebles, los decorados y los detalles, que transforman un lugar sencillo en un<br> conjunto de ensueño. Proporcionamos proveedores de alto nivel, que representan la excelencia mexicana,<br> porque creemos firmemente que lo que queda en la memoria no es sólo el entorno sino también la<br> excelente hospitalidad por la que México es famoso.
+                                                            </p>
+                                                        </div>
+                                                    </div>
                                                 </div>
                                             </div>
                                         </div>

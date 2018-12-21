@@ -30,7 +30,7 @@
 <style type="text/css">
     .overlay 
     {
-      position: fixed;
+      position: fixed; /*position: inherit;*/
       top: 0;
       bottom: 0;
       left: 0;
@@ -54,7 +54,7 @@
       padding: 25px;
       background: #fff;
       border-radius: 0px;
-      width: 35%;
+      width: 35%; /*width:95%;*/
       position: relative;
       transition: all 5s ease-in-out;
       border-style: solid;
@@ -114,8 +114,8 @@
         
     <div class="page_content_wrap page_paddings_yes">
         <div class="sc_services_wrap">
-            <div class="sc_services sc_services_style_services-1 sc_services_type_images  margin_top_tiny- margin_bottom_large full-width">
-                <img src="images/titulos_2-02.png" style="width: 45%; padding-left: 26%; margin-bottom: 1%; margin-top: 3%;">
+            <div class="sc_services sc_services_style_services-1 sc_services_type_images  margin_top_tiny- margin_bottom_large full-width" style="text-align: center;">
+                <img src="images/titulos_2-02.png" style="width: 600px; margin-bottom: 0px; margin-top: 40px;">
             </div>    
             <div class="content_wrap">
                 <div class="content">
@@ -181,11 +181,9 @@
                                                                         <div class="sc_services_item_content">
                                                                             <p style="color: #88ccca">Si te interesa adquirir la agenda</p>
                                                                             <p>
-                                                                              Para transferencia o depósito
-                                                                            </p>
-                                                                            <p>
-                                                                              Número de cuenta: 1600426105<br>
-                                                                              CLABE: 042180016004261050<br>
+                                                                              Para transferencia o depósito:<br>
+                                                                               &nbsp; Número de cuenta: 1600426105<br>
+                                                                               &nbsp; CLABE: 042180016004261050<br>
                                                                               Banco Mifel a nombre de Mexout Events S.A. de C.V.
                                                                             <p>
                                                                               $450.00
@@ -194,7 +192,7 @@
                                                                             <div id="presupuesto" class="overlay">
                                                                                 <div class="popup">
                                                                                     <a class="close" href="#">&times;</a>
-                                                                                    <p align="left"><img src="images/titulos-08.png" style="width: 45%;"></p>
+                                                                                    <p align="left"><img src="images/titulos-08.png" style="width: 300px;"></p>
                                                                                     <div class="content"> 
                                                                                         <table width="100%">
                                                                                             <tr>
