@@ -282,4 +282,13 @@
     <script type='text/javascript' src='js/vendor/core.messages/core.messages.js'></script>
 
 </body>
-</html>                       
+</html>    
+<?php //navbar
+/*<div class="sc_socials sc_socials_type_icons sc_socials_size_tiny">
+            <div class="sc_socials_item" style="display: flex; margin: 1.25em 0.4em 0.25em 130px;">
+                <a href="https://www.facebook.com/fercampillowp" target="_blank" class="social_icons"><span class="icon-facebook"></span></a>
+                <a href="https://www.pinterest.com/fercampillowp" target="_blank" class="social_icons"><span class="fa fa-pinterest-p"></span></a>
+                <a href="https://www.instagram.com/fercampillowp" target="_blank" class="social_icons"><span class="icon-instagramm"></span></a>
+            </div>
+        </div> */
+?>           

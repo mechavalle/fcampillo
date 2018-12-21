@@ -93,6 +93,5 @@ switch($menu)
                 </a>
             </div>
         </div>
-        <?php include("sliderbar.php"); ?>
     </div>
 </div>
