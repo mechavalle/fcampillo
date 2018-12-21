@@ -117,19 +117,19 @@
                                                                 <div class="table-responsive">
                                                                     <div class="barra">
                                                                         <div class="column-1_6">
-                                                                            <img class="grow" src="images/nos1.PNG">
+                                                                            <img class="grow" src="images/nos1.png">
                                                                         </div>
                                                                         <div class="column-1_6">
-                                                                            <img class="grow" src="images/nos2.PNG">
+                                                                            <img class="grow" src="images/nos2.png">
                                                                         </div>
                                                                         <div class="column-1_6">
-                                                                            <img class="grow" src="images/nos3.PNG">
+                                                                            <img class="grow" src="images/nos3.png">
                                                                         </div>
                                                                         <div class="column-1_6">
-                                                                            <img class="grow" src="images/nos4.PNG">
+                                                                            <img class="grow" src="images/nos4.png">
                                                                         </div>
                                                                         <div class="column-1_6">
-                                                                            <img class="grow" src="images/nos5.PNG">
+                                                                            <img class="grow" src="images/nos5.png">
                                                                         </div>
                                                                     </div>
                                                                 </div>

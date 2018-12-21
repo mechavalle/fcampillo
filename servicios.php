@@ -144,25 +144,25 @@
                                 </div>
                                 <div class="row" style="text-align: center; vertical-align: middle;">
                                     <div class="column-1_7">
-                                        <img class="grow" src="images/ICONOS-04.PNG">
-                                    </div>
-                                    <div class="column-1_7" style="top: -8px;">
-                                        <img class="grow" src="images/ICONOS-05.PNG">
-                                    </div>
-                                    <div class="column-1_7" style="top: 3px;">
-                                        <img class="grow" src="images/ICONOS-06.PNG">
-                                    </div>
-                                    <div class="column-1_7" style="top: -6px;">
-                                        <img class="grow" src="images/ICONOS-07.PNG">
+                                        <img class="grow" src="images/ICONOS-04.png">
                                     </div>
                                     <div class="column-1_7">
-                                        <img class="grow" src="images/ICONOS-08.PNG">
+                                        <img class="grow" src="images/ICONOS-05.png">
                                     </div>
-                                    <div class="column-1_7" style="top: -5px;">
-                                        <img class="grow" src="images/ICONOS-09.PNG">
+                                    <div class="column-1_7"">
+                                        <img class="grow" src="images/ICONOS-06.png">
                                     </div>
-                                    <div class="column-1_7" style="top: 34px;">
-                                        <img class="grow" src="images/ICONOS-10.PNG">
+                                    <div class="column-1_7">
+                                        <img class="grow" src="images/ICONOS-07.png">
+                                    </div>
+                                    <div class="column-1_7">
+                                        <img class="grow" src="images/ICONOS-08.png">
+                                    </div>
+                                    <div class="column-1_7">
+                                        <img class="grow" src="images/ICONOS-09.png">
+                                    </div>
+                                    <div class="column-1_7">
+                                        <img class="grow" src="images/ICONOS-10.png">
                                     </div>
                                 </div>
                             </div>
