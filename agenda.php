@@ -84,7 +84,6 @@
     .popup .content 
     {
       overflow: auto;
-      max-height: 100%;
     }
     .scheme_original input[type="text"],
     .scheme_original input[type="tel"],
@@ -175,7 +174,7 @@
                                                                     <div class="sc_services_item even">
                                                                         <div class="sc_services_item_featured post_featured">
                                                                             <div class="post_thumb">
-                                                                                <img class="post-image" alt="Wedding Planning" src="images/servicio2.jpg">
+                                                                                <img class="post-image" alt="Wedding Planning" src="images/agenda2.jpg">
                                                                             </div>
                                                                         </div>
                                                                         <div class="sc_services_item_content">

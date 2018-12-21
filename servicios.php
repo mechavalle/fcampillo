@@ -67,7 +67,7 @@
                                                                                     <div class="sc_services_item odd first">
                                                                                         <div class="sc_services_item_featured post_featured">
                                                                                             <div class="post_thumb" data-title="Bouquets &#038; Style">
-                                                                                                <img class="post-image" src="images/servicio1.jpg" style="width: 565px; height: 377px;"></a> 
+                                                                                                <img class="post-image" src="images/servicio1.jpg"></a> 
                                                                                             </div>
                                                                                             <!--.info -->
                                                                                             <div class="post_info_wrap info">
@@ -96,7 +96,7 @@
                                                             <div class="sc_services_item even">
                                                                 <div class="sc_services_item_featured post_featured">
                                                                     <div class="post_thumb" data-title="Wedding Planning">
-                                                                       <img class="post-image" alt="Wedding Planning" src="images/servicio2.jpg" style="width: 565px; height: 377px;"></a> 
+                                                                       <img class="post-image" alt="Wedding Planning" src="images/servicio2.jpg"></a> 
                                                                     </div>
                                                                 </div>
                                                                 <div class="sc_services_item_content" style="text-align: center;">
@@ -107,7 +107,7 @@
                                                             <div class="sc_services_item odd">
                                                                 <div class="sc_services_item_featured post_featured">
                                                                     <div class="post_thumb" data-title="Catering &#038; Decoration">
-                                                                        <img class="post-image" alt="Catering &#038; Decoration" src="images/servicio3.jpg" style="width: 565px; height: 377px;"></a>
+                                                                        <img class="post-image" alt="Catering &#038; Decoration" src="images/servicio3.jpg"></a>
                                                                     </div>
                                                                 </div>
                                                                 <div class="sc_services_item_content" style="text-align: center;">
@@ -118,7 +118,7 @@
                                                             <div class="sc_services_item even">
                                                                 <div class="sc_services_item_featured post_featured">
                                                                     <div class="post_thumb" data-title="Gift Ideas">
-                                                                        <img class="post-image" alt="Gift Ideas" src="images/servicio4.jpg" style="width: 565px; height: 377px;"></a>
+                                                                        <img class="post-image" alt="Gift Ideas" src="images/servicio4.jpg"></a>
                                                                     </div>
                                                                 </div>
                                                                 <div class="sc_services_item_content" style="text-align: center;">
@@ -138,22 +138,22 @@
                                     <div class="column-1_7">
                                         <img src="images/ICONOS-04.PNG">
                                     </div>
-                                    <div class="column-1_7">
+                                    <div class="column-1_7" style="top: -8px;">
                                         <img src="images/ICONOS-05.PNG">
                                     </div>
-                                    <div class="column-1_7">
+                                    <div class="column-1_7" style="top: 3px;">
                                         <img src="images/ICONOS-06.PNG">
                                     </div>
-                                    <div class="column-1_7">
+                                    <div class="column-1_7" style="top: -6px;">
                                         <img src="images/ICONOS-07.PNG">
                                     </div>
                                     <div class="column-1_7">
                                         <img src="images/ICONOS-08.PNG">
                                     </div>
-                                    <div class="column-1_7">
+                                    <div class="column-1_7" style="top: -5px;">
                                         <img src="images/ICONOS-09.PNG">
                                     </div>
-                                    <div class="column-1_7">
+                                    <div class="column-1_7" style="top: 34px;">
                                         <img src="images/ICONOS-10.PNG">
                                     </div>
                                 </div>
