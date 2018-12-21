@@ -73,7 +73,7 @@
                                                                                             <div class="post_info_wrap info">
                                                                                                 <!--.info-back  -->
                                                                                                 <div class="info-back">
-                                                                                                    <p>
+                                                                                                    <p style="vertical-align: middle;">
                                                                                                         Cuéntanos lo que tienes en mente y nuestro equipo se encargará de ayudarte a hacerlo realidad.
                                                                                                         Nos encargaremos de brindarte una experiencia y hacer que desde el más mínimo detalle haga la diferencia. Cada amor es una historia por contar.
                                                                                                     </p>
