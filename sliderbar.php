@@ -16,6 +16,8 @@
     padding-bottom: 0.5em;
     padding-left: 0.5em;
     padding-right: 0.5em;
+    border-bottom-right-radius: 15px;
+    border-top-right-radius: 15px;
 	} 
 
 .social a:hover
