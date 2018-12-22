@@ -103,6 +103,12 @@
       margin-left: -230px;
     }
 
+    .scheme_original textarea
+    {
+      border-color: #88ccca;
+      border-width: 2px;
+    }
+
     textarea 
     {
     min-height: 3em;
@@ -324,7 +330,7 @@
                                                                                 <td><font style="margin-left: -198px;">E-MAIL</font></td>
                                                                             </tr>
                                                                             <tr>
-                                                                                <td><input type="date" name="fecha"></td>
+                                                                                <td><input type="text" name="fecha"></td>
                                                                                 <td><input type="text" name="ciudad" style="margin-left: -210px;"></td>
                                                                             </tr>
                                                                             <tr align="left">
@@ -335,19 +341,19 @@
                                                                                 <td>&nbsp;&nbsp;</td>
                                                                             </tr>
                                                                             <tr>
-                                                                                <td align="left"><font color="#cab374">¿QUÉ TIPO DE EVENTO BUSCAS?</font>&nbsp;</td>
+                                                                                <td align="left">¿QUÉ TIPO DE EVENTO BUSCAS?&nbsp;</td>
                                                                             </tr>
                                                                             <tr>      
                                                                                 <td><textarea type="text" name="quenecesitas" style="width: 430px;"></textarea></td>
                                                                             </tr>  
                                                                             <tr>
-                                                                                <td align="left"><font color="#cab374">¿EN QUÉ CIUDAD TE GUSTARÍA REALIZARLO?</font>&nbsp;</td>
+                                                                                <td align="left">¿EN QUÉ CIUDAD TE GUSTARÍA REALIZARLO?&nbsp;</td>
                                                                             </tr>
                                                                             <tr>      
                                                                                 <td><textarea type="text" name="quenecesitas" style="width: 430px;"></textarea></td>
                                                                             </tr>  
                                                                             <tr>
-                                                                                <td align="left"><font color="#cab374">¿QUÉ TIPO DE SERVICIO(S) BUSCAS?</font>&nbsp;</td>
+                                                                                <td align="left">¿QUÉ TIPO DE SERVICIO(S) BUSCAS?&nbsp;</td>
                                                                             </tr>
                                                                             <tr>      
                                                                                 <td><textarea type="text" name="quenecesitas" style="width: 430px;"></textarea></td>
@@ -408,7 +414,7 @@
                                                                                 <td><font style="margin-left: -198px;">E-MAIL</font></td>
                                                                             </tr>
                                                                             <tr>
-                                                                                <td><input type="date" name="fecha"></td>
+                                                                                <td><input type="text" name="fecha"></td>
                                                                                 <td><input type="text" name="ciudad" style="margin-left: -210px;"></td>
                                                                             </tr>
                                                                             <tr align="left">
@@ -419,19 +425,19 @@
                                                                                 <td>&nbsp;&nbsp;</td>
                                                                             </tr>
                                                                             <tr>
-                                                                                <td align="left"><font color="#cab374">¿QUÉ TIPO DE EVENTO BUSCAS?</font>&nbsp;</td>
+                                                                                <td align="left">¿QUÉ TIPO DE EVENTO BUSCAS?&nbsp;</td>
                                                                             </tr>
                                                                             <tr>      
                                                                                 <td><textarea type="text" name="quenecesitas" style="width: 500px;"></textarea></td>
                                                                             </tr>  
                                                                             <tr>
-                                                                                <td align="left"><font color="#cab374">¿EN QUÉ CIUDAD TE GUSTARÍA REALIZARLO?</font>&nbsp;</td>
+                                                                                <td align="left">¿EN QUÉ CIUDAD TE GUSTARÍA REALIZARLO?&nbsp;</td>
                                                                             </tr>
                                                                             <tr>      
                                                                                 <td><textarea type="text" name="quenecesitas" style="width: 500px;"></textarea></td>
                                                                             </tr>  
                                                                             <tr>
-                                                                                <td align="left"><font color="#cab374">¿QUÉ TIPO DE SERVICIO(S) BUSCAS?</font>&nbsp;</td>
+                                                                                <td align="left">¿QUÉ TIPO DE SERVICIO(S) BUSCAS?&nbsp;</td>
                                                                             </tr>
                                                                             <tr>      
                                                                                 <td><textarea type="text" name="quenecesitas" style="width: 500px;"></textarea></td>
@@ -483,7 +489,7 @@
                                                                                 <td><font style="margin-left: -198px;">E-MAIL</font></td>
                                                                             </tr>
                                                                             <tr>
-                                                                                <td><input type="date" name="fecha"></td>
+                                                                                <td><input type="text" name="fecha"></td>
                                                                                 <td><input type="text" name="ciudad" style="margin-left: -210px;"></td>
                                                                             </tr>
                                                                             <tr align="left">
@@ -494,19 +500,19 @@
                                                                                 <td>&nbsp;&nbsp;</td>
                                                                             </tr>
                                                                             <tr>
-                                                                                <td align="left"><font color="#cab374">¿QUÉ TIPO DE EVENTO BUSCAS?</font>&nbsp;</td>
+                                                                                <td align="left">¿QUÉ TIPO DE EVENTO BUSCAS?&nbsp;</td>
                                                                             </tr>
                                                                             <tr>      
                                                                                 <td><textarea type="text" name="quenecesitas" style="width: 500px;"></textarea></td>
                                                                             </tr>  
                                                                             <tr>
-                                                                                <td align="left"><font color="#cab374">¿EN QUÉ CIUDAD TE GUSTARÍA REALIZARLO?</font>&nbsp;</td>
+                                                                                <td align="left">¿EN QUÉ CIUDAD TE GUSTARÍA REALIZARLO?&nbsp;</td>
                                                                             </tr>
                                                                             <tr>      
                                                                                 <td><textarea type="text" name="quenecesitas" style="width: 500px;"></textarea></td>
                                                                             </tr>  
                                                                             <tr>
-                                                                                <td align="left"><font color="#cab374">¿QUÉ TIPO DE SERVICIO(S) BUSCAS?</font>&nbsp;</td>
+                                                                                <td align="left">¿QUÉ TIPO DE SERVICIO(S) BUSCAS?&nbsp;</td>
                                                                             </tr>
                                                                             <tr>      
                                                                                 <td><textarea type="text" name="quenecesitas" style="width: 500px;"></textarea></td>

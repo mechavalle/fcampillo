@@ -90,7 +90,7 @@ p {
   color: #cbb9a6;
 }
 .scheme_original a:hover {
-  color: #a3ad6f;
+  color: #cab374;
 }
 .scheme_original blockquote:before {
   color: rgba(66,68,67,0.1);
@@ -3094,13 +3094,13 @@ button,
 .scheme_original .sc_icon_shape_square.sc_icon:hover,
 .scheme_original a:hover .sc_icon_shape_round.sc_icon,
 .scheme_original a:hover .sc_icon_shape_square.sc_icon {
-  background-color: #a3ad6f;
+  background-color: #cab374;/**/
 }
 .scheme_original .sc_icon_shape_round.sc_icon:hover,
 .scheme_original .sc_icon_shape_square.sc_icon:hover,
 .scheme_original a:hover .sc_icon_shape_round.sc_icon,
 .scheme_original a:hover .sc_icon_shape_square.sc_icon {
-  border-color: #a3ad6f;
+  border-color: #cab374; /**/
 }
 .scheme_original figure figcaption,
 .scheme_original .sc_image figcaption {

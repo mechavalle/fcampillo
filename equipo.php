@@ -100,7 +100,7 @@
                                                                         </div>
                                                                     </div>
                                                                 </div><div class="column-1_2 column_padding_bottom">
-                                                                    <img src="images/titulos_2-04.png" style="width: 400px; margin-bottom: 20px; margin-top: 0px;">
+                                                                    <img src="images/titulos_2-04.png" style="width: 400px; margin-bottom: 20px; margin-top: 10px;">
                                                                     <div class="sc_services_item even">
                                                                         <div class="sc_services_item_content">
                                                                             <p>
@@ -115,7 +115,7 @@
                                                             </div>
                                                         </div>
                                                         <div class="container" style="text-align: center !important;">
-                                                            <img src="images/titulos_2-18.png" style="width: 500px; margin-bottom: 0px; margin-top:0px;">
+                                                            <img src="images/titulos_2-18.png" style="width: 500px; margin-bottom: 0px; margin-top:-60px;">
                                                             <div class="column-1_1" style="text-align: center; color: #737373; margin-bottom: 0px; margin-top: 0px;">
                                                             <p>
                                                                 Nos comprometemos a encontrar soluciones para los clientes y cumplir sus sueños. Usamos nuestro<br> conocimiento y experiencia para crear un servicio a medida. Para nosotros es necesario estar conectados<br> con los clientes y ponernos en sus zapatos, para así lograr que se enamoren de nuestro trabajo.
