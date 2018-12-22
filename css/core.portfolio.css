@@ -2169,8 +2169,8 @@
 }
 .ih-item.square .info {
 	position: absolute;
-	left: 0;
-	top: 0;
+	left: -20px;
+	top: -20px;
 	/*
 	bottom: 0;
 	right: 0;

@@ -101,21 +101,75 @@
                                                                 </div>
                                                             </div>
                                                         </div><div class="column-1_2 column_padding_bottom">
-                                                            <div class="sc_services_item even">
-                                                                <div class="sc_services_item_featured post_featured">
-                                                                    <div class="post_thumb" data-title="Wedding Planning">
-                                                                       <img class="post-image" alt="Wedding Planning" src="images/servicio2.jpg"></a> 
+                                                            <div  class="sc_blogger">
+                                                                <div class="isotope_wrap">
+                                                                    <!--.isotope_item -->
+                                                                    <div class="isotope_item isotope_item_portfolio">
+                                                                        <!--.post_item -->
+                                                                        <div class="post_item odd">
+                                                                            <!-- .post_content -->
+                                                                            <div class="post_content isotope_item_content ih-item colored square effect_shift left_to_right">
+                                                                                <div class="post_featured img ">
+                                                                                    <div class="sc_services_item odd first">
+                                                                                        <div class="sc_services_item_featured post_featured">
+                                                                                            <div class="post_thumb" data-title="Bouquets &#038; Style">
+                                                                                                <img class="post-image" src="images/servicio2.jpg"></a> 
+                                                                                            </div>
+                                                                                            <!--.info -->
+                                                                                            <div class="post_info_wrap info">
+                                                                                                <!--.info-back  -->
+                                                                                                <div class="info-back">
+                                                                                                    <p style="vertical-align: middle;">
+                                                                                                        Cuéntanos lo que tienes en mente y nuestro equipo se encargará de ayudarte a hacerlo realidad.
+                                                                                                        Nos encargaremos de brindarte una experiencia y hacer que desde el más mínimo detalle haga la diferencia. Cada amor es una historia por contar.
+                                                                                                    </p>
+                                                                                                    <!--end .info-back  -->
+                                                                                                </div>
+                                                                                                <!--end .info -->
+                                                                                            </div>
+                                                                                        </div>
+                                                                                    </div>
+                                                                                </div>
+                                                                            </div>
+                                                                        </div>
                                                                     </div>
                                                                 </div>
                                                                 <div class="sc_services_item_content" style="text-align: center;">
-                                                                    <img src="images/titulos_2-15.png" style="width: 300px;">
+                                                                    <img src="images/titulos_2-15.png" style="width: 304px;">
                                                                 </div>
                                                             </div>
                                                         </div><div class="column-1_2 column_padding_bottom">
-                                                            <div class="sc_services_item odd">
-                                                                <div class="sc_services_item_featured post_featured">
-                                                                    <div class="post_thumb" data-title="Catering &#038; Decoration">
-                                                                        <img class="post-image" alt="Catering &#038; Decoration" src="images/servicio3.jpg"></a>
+                                                            <div  class="sc_blogger">
+                                                                <div class="isotope_wrap">
+                                                                    <!--.isotope_item -->
+                                                                    <div class="isotope_item isotope_item_portfolio">
+                                                                        <!--.post_item -->
+                                                                        <div class="post_item odd">
+                                                                            <!-- .post_content -->
+                                                                            <div class="post_content isotope_item_content ih-item colored square effect_shift left_to_right">
+                                                                                <div class="post_featured img ">
+                                                                                    <div class="sc_services_item odd first">
+                                                                                        <div class="sc_services_item_featured post_featured">
+                                                                                            <div class="post_thumb" data-title="Bouquets &#038; Style">
+                                                                                                <img class="post-image" src="images/servicio3.jpg"></a> 
+                                                                                            </div>
+                                                                                            <!--.info -->
+                                                                                            <div class="post_info_wrap info">
+                                                                                                <!--.info-back  -->
+                                                                                                <div class="info-back">
+                                                                                                    <p>
+                                                                                                        Cuéntanos lo que tienes en mente y nuestro equipo se encargará de ayudarte a hacerlo realidad.
+                                                                                                        Nos encargaremos de brindarte una experiencia y hacer que desde el más mínimo detalle haga la diferencia. Cada amor es una historia por contar.
+                                                                                                    </p>
+                                                                                                    <!--end .info-back  -->
+                                                                                                </div>
+                                                                                                <!--end .info -->
+                                                                                            </div>
+                                                                                        </div>
+                                                                                    </div>
+                                                                                </div>
+                                                                            </div>
+                                                                        </div>
                                                                     </div>
                                                                 </div>
                                                                 <div class="sc_services_item_content" style="text-align: center;">
@@ -123,10 +177,37 @@
                                                                 </div>
                                                             </div>
                                                         </div><div class="column-1_2 column_padding_bottom">
-                                                            <div class="sc_services_item even">
-                                                                <div class="sc_services_item_featured post_featured">
-                                                                    <div class="post_thumb" data-title="Gift Ideas">
-                                                                        <img class="post-image" alt="Gift Ideas" src="images/servicio4.jpg"></a>
+                                                            <div  class="sc_blogger">
+                                                                <div class="isotope_wrap">
+                                                                    <!--.isotope_item -->
+                                                                    <div class="isotope_item isotope_item_portfolio">
+                                                                        <!--.post_item -->
+                                                                        <div class="post_item odd">
+                                                                            <!-- .post_content -->
+                                                                            <div class="post_content isotope_item_content ih-item colored square effect_shift left_to_right">
+                                                                                <div class="post_featured img ">
+                                                                                    <div class="sc_services_item odd first">
+                                                                                        <div class="sc_services_item_featured post_featured">
+                                                                                            <div class="post_thumb" data-title="Bouquets &#038; Style">
+                                                                                                <img class="post-image" src="images/servicio4.jpg"></a> 
+                                                                                            </div>
+                                                                                            <!--.info -->
+                                                                                            <div class="post_info_wrap info">
+                                                                                                <!--.info-back  -->
+                                                                                                <div class="info-back">
+                                                                                                    <p style="vertical-align: middle;">
+                                                                                                        Cuéntanos lo que tienes en mente y nuestro equipo se encargará de ayudarte a hacerlo realidad.
+                                                                                                        Nos encargaremos de brindarte una experiencia y hacer que desde el más mínimo detalle haga la diferencia. Cada amor es una historia por contar.
+                                                                                                    </p>
+                                                                                                    <!--end .info-back  -->
+                                                                                                </div>
+                                                                                                <!--end .info -->
+                                                                                            </div>
+                                                                                        </div>
+                                                                                    </div>
+                                                                                </div>
+                                                                            </div>
+                                                                        </div>
                                                                     </div>
                                                                 </div>
                                                                 <div class="sc_services_item_content" style="text-align: center;">
