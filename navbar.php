@@ -20,7 +20,21 @@ switch($menu)
 ?>
 
 <style type="text/css">
+.navlogo{
+    justify-content: center; 
+    position: absolute; 
+    left: 0; top: -40px;
+}
 
+@-moz-document url-prefix() { 
+  .menu_hover_fade{
+   top: -15px;
+  }
+
+  .navlogo{
+    top: -10px;
+  }
+}
 </style>
 
 <script type="text/javascript">
@@ -33,7 +47,7 @@ switch($menu)
             <div class="top_panel_bottom">
                 <div class="content_wrap clearfix">
                     <nav class="menu_main_nav_area menu_hover_fade">
-                        <ul id="menu_main" class="menu_main_nav">
+                        <ul id="menu_main" class="menu_main_nav"">
                             <li <?php echo $chome; ?> class="menu-item"><a href="index.php"><span>HOME</span></a></li>
                             <li <?php echo $cnosotros; ?> class="menu-item menu-item-has-children"><a href="nosotros.php"><span>NOSOTROS</span></a>
                                 <ul class="sub-menu fadeOutDown animated fast">
@@ -41,7 +55,7 @@ switch($menu)
                                 </ul>
                             </li>
                             <li <?php echo $cservicios; ?> class="menu-item"><a href="servicios.php"><span>SERVICIOS</span></a></li>
-                            <li style="height: auto; width: 150px; display: inline-flex;"><a href="index.php"><img src="images/logotipo.png" style="justify-content: center; position: absolute; left: 0; top: -40px;"></a></li>
+                            <li style="height: auto; width: 150px; display: inline-flex;"><a href="index.php"><img src="images/logotipo.png" class="navlogo"></a></li>
                             <li <?php echo $cportafolio; ?> class="menu-item"><a href="portafolio.php"><span>PORTAFOLIO</span></a></li>
                             <li <?php echo $cagenda; ?> class="menu-item"><a href="agenda.php"><span>AGENDA</span></a></li>
                             <li <?php echo $ccontacto; ?> class="menu-item"><a href="contacto.php"><span>CONTACTO</span></a></li>
