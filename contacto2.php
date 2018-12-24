@@ -106,13 +106,7 @@
     background: -ms-linear-gradient(top, rgba(255,255,255,0) 0%, rgba(255,255,255,1) 100%);
 }
 
-.scheme_original .sc_form .sc_form_button button:hover {
-    background-color: #fff;
-}
 
-.scheme_original .sc_form .sc_form_item.sc_form_button button {
-    background-color: #fff;
-}
 </style>
 
 <body class="single single-product woocommerce woocommerce-page">
@@ -164,7 +158,7 @@
                                                         </div>
                                                     </div>
                                                     <div class="sc_form_item sc_form_button">
-                                                       <button type="submit" class="sc_button sc_button_square sc_button_size_small" style="border-style: solid; border-width: 2px; line-height: 0.2857em; color: #cbb9a6;">Enviar</button>
+                                                       <a type="submit" class="sc_button sc_button_square sc_button_size_small" style="border-style: solid; border-width: 2px; line-height: 0.2857em;">Enviar</a>
                                                     </div>
                                                     <div class="result sc_infobox"></div>
                                                     </form> 

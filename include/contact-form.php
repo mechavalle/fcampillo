@@ -1,7 +1,7 @@
 <?php
 global $_REQUEST;
 $response = array('error'=>'');
-$contact_email = 'your_mail@mail.com';
+$contact_email = 'il.diabolo@gmail.com';
 
 // type
 $type = $_REQUEST['type'];
@@ -13,8 +13,8 @@ $user_email = stripslashes(strip_tags(trim($post_data['email'])));
 $user_msg =stripslashes(strip_tags(trim( $post_data['message'])));
 
 if (trim($contact_email)!='') {
-	$subj = 'Message from HTML';
-	$msg = $subj." \r\nName: $user_name \r\nE-mail: $user_email \r\nMessage: $user_msg";
+	$subj = 'Mensaje de la página web (contacto)';
+	$msg = $subj." \r\nNombre: $user_name \r\nE-mail: $user_email \r\nMensaje: $user_msg";
 
 	$head = "Content-Type: text/plain; charset=\"utf-8\"\n"
 		. "X-Mailer: PHP/" . phpversion() . "\n"
@@ -23,10 +23,10 @@ if (trim($contact_email)!='') {
 		. "From: $user_email\n";
 
 	if (!@mail($contact_email, $subj, $msg, $head)) {
-		$response['error'] = 'Error send message!';
+		$response['error'] = 'Error enviando mensaje!';
 	}
 } else
-	$response['error'] = 'Error send message!';
+	$response['error'] = 'Error enviando mensaje!';
 
 
 echo json_encode($response);
