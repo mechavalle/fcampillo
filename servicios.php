@@ -27,6 +27,16 @@
         -ms-transform: scale(1.3);
         transform: scale(1.3);
         }
+
+        /* margin: 0; */
+    .textos {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    width: 100%;
+    }
     </style>
    
 </head>
@@ -81,7 +91,7 @@
                                                                                             <div class="post_info_wrap info">
                                                                                                 <!--.info-back  -->
                                                                                                 <div class="info-back">
-                                                                                                    <p style="vertical-align: middle;">
+                                                                                                    <p style="position: absolute; top: 50%; left: 50%; -ms-transform: translate(-50%, -50%); transform: translate(-50%, -50%); width: 100%;">
                                                                                                         Cuéntanos lo que tienes en mente y nuestro equipo se encargará de ayudarte a hacerlo realidad.
                                                                                                         Nos encargaremos de brindarte una experiencia y hacer que desde el más mínimo detalle haga la diferencia. Cada amor es una historia por contar.
                                                                                                     </p>
@@ -119,7 +129,7 @@
                                                                                             <div class="post_info_wrap info">
                                                                                                 <!--.info-back  -->
                                                                                                 <div class="info-back">
-                                                                                                    <p style="vertical-align: middle;">
+                                                                                                    <p style="position: absolute; top: 50%; left: 50%; -ms-transform: translate(-50%, -50%); transform: translate(-50%, -50%); width: 100%;">
                                                                                                         Cuéntanos lo que tienes en mente y nuestro equipo se encargará de ayudarte a hacerlo realidad.
                                                                                                         Nos encargaremos de brindarte una experiencia y hacer que desde el más mínimo detalle haga la diferencia. Cada amor es una historia por contar.
                                                                                                     </p>
@@ -157,7 +167,7 @@
                                                                                             <div class="post_info_wrap info">
                                                                                                 <!--.info-back  -->
                                                                                                 <div class="info-back">
-                                                                                                    <p>
+                                                                                                    <p style="position: absolute; top: 50%; left: 50%; -ms-transform: translate(-50%, -50%); transform: translate(-50%, -50%); width: 100%;">
                                                                                                         Cuéntanos lo que tienes en mente y nuestro equipo se encargará de ayudarte a hacerlo realidad.
                                                                                                         Nos encargaremos de brindarte una experiencia y hacer que desde el más mínimo detalle haga la diferencia. Cada amor es una historia por contar.
                                                                                                     </p>
@@ -195,7 +205,7 @@
                                                                                             <div class="post_info_wrap info">
                                                                                                 <!--.info-back  -->
                                                                                                 <div class="info-back">
-                                                                                                    <p style="vertical-align: middle;">
+                                                                                                    <p style="position: absolute; top: 50%; left: 50%; -ms-transform: translate(-50%, -50%); transform: translate(-50%, -50%); width: 100%;">
                                                                                                         Cuéntanos lo que tienes en mente y nuestro equipo se encargará de ayudarte a hacerlo realidad.
                                                                                                         Nos encargaremos de brindarte una experiencia y hacer que desde el más mínimo detalle haga la diferencia. Cada amor es una historia por contar.
                                                                                                     </p>
@@ -225,19 +235,19 @@
                                 </div>
                                 <div class="row" style="text-align: center; vertical-align: middle;">
                                     <div class="column-1_7">
-                                        <img class="grow" src="images/ICONOS-04.png">
+                                        <img class="grow" src="images/ICONOS-04.png" style="width: 80%; height: auto">
                                     </div>
                                     <div class="column-1_7">
-                                        <img class="grow" src="images/ICONOS-05.png">
+                                        <img class="grow" src="images/ICONOS-05.png" style="width: 80%; height: auto">
                                     </div>
                                     <div class="column-1_7"">
-                                        <img class="grow" src="images/ICONOS-06.png">
+                                        <img class="grow" src="images/ICONOS-06.png" style="width: 80%; height: auto">
                                     </div>
                                     <div class="column-1_7">
-                                        <img class="grow" src="images/ICONOS-07.png">
+                                        <img class="grow" src="images/ICONOS-07.png" style="width: 80%; height: auto">
                                     </div>
                                     <div class="column-1_7">
-                                        <img class="grow" src="images/ICONOS-08.png">
+                                        <img class="grow" src="images/ICONOS-08.png" style="width: 80%; height: auto">
                                     </div>
                                     <div class="column-1_7">
                                         <img class="grow" src="images/ICONOS-09.png">
