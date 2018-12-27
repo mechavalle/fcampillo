@@ -50,11 +50,11 @@
 
     .popup 
     {
-      margin: 5px auto;
-      padding: 25px;
+      margin: 5px auto 5px auto;
+      padding: 10px;
       background: #fff;
       border-radius: 0px;
-      width: 35%;
+      width: 350px;
       position: relative;
       transition: all 5s ease-in-out;
       border-style: solid;
@@ -84,7 +84,6 @@
     .popup .content 
     {
       overflow: auto;
-      max-height: 100%;
     }
 
     .scheme_original input[type="text"],
@@ -95,24 +94,22 @@
     {
       border-color: #88ccca;
       border-width: 2px;
-      margin-left: -230px;
+      max-width: 150px;
     }
 
     .scheme_original textarea
     {
       border-color: #88ccca;
       border-width: 2px;
-    }
-
-    textarea 
-    {
-    min-height: 3em;
+      width: 300px;
+      min-height: 1em;
     }
 
     p
     {
       font-size: 18px;
     }
+
 </style>     
 
 <body class="single single-product woocommerce woocommerce-page">
@@ -171,17 +168,6 @@
                                                                               Tabla de presupuesto.<br> 
                                                                               Tips para ese gran día.<br>
                                                                             </p>  
-                                                                            <p>
-                                                                              Descripción:<br>
-                                                                              20 x 20 cm.<br>
-                                                                              Pastas rígidas forradas en terminado mate.<br>
-                                                                              Páginas interiores en papel bond 120 gramos.<br>
-                                                                              Hojas para notas.<br>
-                                                                              Espiral metálico.<br>
-                                                                              Una bolsita "DRAMA" de manta para guardar tu agenda durante todo tu año, y no se te ensucie ni maltrate.<br>
-                                                                              Un sobre al principio para guardar papeles y notas importantes.<br> 
-                                                                              Encuadernada para darle protección y durabilidad, lleva el estilo a todas partes.
-                                                                            </p>   
                                                                         </div>
                                                                     </div>
                                                                 </div><div class="column-1_2 column_padding_bottom">
@@ -192,6 +178,17 @@
                                                                             </div>
                                                                         </div>
                                                                         <div class="sc_services_item_content">
+                                                                            <p>
+                                                                              Descripción:<br>
+                                                                              20 x 20 cm.<br>
+                                                                              Pastas rígidas forradas en terminado mate.<br>
+                                                                              Páginas interiores en papel bond 120 gramos.<br>
+                                                                              Hojas para notas.<br>
+                                                                              Espiral metálico.<br>
+                                                                              Una bolsita "DRAMA" de manta para guardar tu agenda durante todo tu año, y no se te ensucie ni maltrate.<br>
+                                                                              Un sobre al principio para guardar papeles y notas importantes.<br> 
+                                                                              Encuadernada para darle protección y durabilidad, lleva el estilo a todas partes.
+                                                                            </p> 
                                                                             <p style="color: #88ccca">Si te interesa adquirir la agenda</p>
                                                                             <p>
                                                                               Para transferencia o depósito:<br>
@@ -206,54 +203,114 @@
                                                                                 <div class="popup">
                                                                                     <a class="close" href="#">&times;</a>
                                                                                     <p align="left"><img src="images/titulos-08.png" style="width: 300px;"></p>
-                                                                                    <div class="content"> 
-                                                                                        <table width="100%">
-                                                                                            <tr>
-                                                                                                <td><input type="text" name="nombre" aria-required></td>
-                                                                                                <td><input type="text" name="apellidos" required style="margin-left: -210px;"></td>
-                                                                                            </tr>
-                                                                                            <tr align="left">
-                                                                                                <td>NOMBRE</td>
-                                                                                                <td><font style="margin-left: -198px;">APELLIDOS</font></td>
-                                                                                            </tr>
-                                                                                             <tr>
-                                                                                                <td><input type="tel" name="telefono"></td>
-                                                                                                <td><input type="email" name="email" required style="margin-left: -210px;"></td>
-                                                                                            </tr>
-                                                                                            <tr align="left">
-                                                                                                <td>TELÉFONO</td>
-                                                                                                <td><font style="margin-left: -198px;">E-MAIL</font></td>
-                                                                                            </tr>
-                                                                                            <tr>
-                                                                                                <td><input type="text" name="fecha"></td>
-                                                                                                <td><input type="text" name="ciudad" style="margin-left: -210px;"></td>
-                                                                                            </tr>
-                                                                                            <tr align="left">
-                                                                                                <td>FECHA DEL EVENTO</td>
-                                                                                                <td><font style="margin-left: -198px;">CIUDAD</font></td>
-                                                                                            </tr>
-                                                                                            <tr>
-                                                                                                <td>&nbsp;&nbsp;</td>
-                                                                                            </tr>
-                                                                                            <tr>
-                                                                                                <td align="left">¿QUÉ TIPO DE EVENTO BUSCAS?&nbsp;</td>
-                                                                                            </tr>
-                                                                                            <tr>      
-                                                                                                <td><textarea type="text" name="quenecesitas" style="width: 430px;"></textarea></td>
-                                                                                            </tr>  
-                                                                                            <tr>
-                                                                                                <td align="left">¿EN QUÉ CIUDAD TE GUSTARÍA REALIZARLO?&nbsp;</td>
-                                                                                            </tr>
-                                                                                            <tr>      
-                                                                                                <td><textarea type="text" name="quenecesitas" style="width: 430px;"></textarea></td>
-                                                                                            </tr>  
-                                                                                            <tr>
-                                                                                                <td align="left">¿QUÉ TIPO DE SERVICIO(S) BUSCAS?&nbsp;</td>
-                                                                                            </tr>
-                                                                                            <tr>      
-                                                                                                <td><textarea type="text" name="quenecesitas" style="width: 430px;"></textarea></td>
-                                                                                            </tr>   
-                                                                                        </table>
+                                                                                    <div class="content" style="text-align: center;"> 
+
+                                                                                        <div class="row">
+                                                                                            <div class="column-1_1">
+                                                                                                <table width="100%">
+                                                                                                    <tr>
+                                                                                                        <td><input type="text" name="nombre" aria-required></td>
+                                                                                                        <td><input type="text" name="apellidos" required></td>
+                                                                                                    </tr>
+                                                                                                    <tr>
+                                                                                                        <td style="text-align: left;"> &nbsp; NOMBRE</td>
+                                                                                                        <td style="text-align: left;"> &nbsp; APELLIDOS</td>
+                                                                                                    </tr>
+                                                                                                </table>
+                                                                                            </div>
+                                                                                        </div>
+
+                                                                                        <div class="row">
+                                                                                            <div class="column-1_1">
+                                                                                                <table width="100%">
+                                                                                                    <tr>
+                                                                                                        <td><input type="tel" name="telefono"></td>
+                                                                                                        <td><input type="email" name="email" required></td>
+                                                                                                    </tr>
+                                                                                                    <tr>
+                                                                                                        <td style="text-align: left;"> &nbsp; TELÉFONO</td>
+                                                                                                        <td style="text-align: left;"> &nbsp; E-MAIL</td>
+                                                                                                    </tr>
+                                                                                                </table>
+                                                                                            </div>
+                                                                                        </div>
+
+                                                                                        <div class="row">
+                                                                                            <div class="column-1_1">
+                                                                                                <table width="100%">
+                                                                                                    <tr>
+                                                                                                        <td><input type="text" name="fecha"></td>
+                                                                                                        <td><input type="text" name="ciudad"></td>
+                                                                                                    </tr>
+                                                                                                    <tr>
+                                                                                                        <td style="text-align: left;"> &nbsp; FECHA DEL EVENTO</td>
+                                                                                                        <td style="text-align: left;"> &nbsp; CIUDAD</td>
+                                                                                                    </tr>
+                                                                                                </table>
+                                                                                            </div>
+                                                                                        </div>
+
+                                                                                        <div class="row">
+                                                                                            <div class="column-1_1">
+                                                                                                <table width="100%">
+                                                                                                    <tr>
+                                                                                                        <td>&nbsp;&nbsp;</td>
+                                                                                                    </tr>
+                                                                                                </table>
+                                                                                            </div>
+                                                                                        </div>
+
+                                                                                        <div class="row">
+                                                                                            <div class="column-1_1">
+                                                                                                <table width="100%">
+                                                                                                    <tr>
+                                                                                                        <td align="left"> &nbsp; ¿QUÉ TIPO DE EVENTO BUSCAS</td>
+                                                                                                    </tr>
+                                                                                                </table>
+                                                                                            </div>
+                                                                                            <div class="column-1_1">
+                                                                                                <table width="100%">
+                                                                                                    <tr>      
+                                                                                                        <td><textarea type="text" name="quenecesitas"></textarea></td>
+                                                                                                    </tr>  
+                                                                                                </table>
+                                                                                            </div>
+                                                                                        </div>
+                                                                                        <br>
+                                                                                        <div class="row">
+                                                                                            <div class="column-1_1">
+                                                                                                <table width="100%">
+                                                                                                    <tr>
+                                                                                                        <td align="left"> &nbsp; ¿EN QUÉ CIUDAD TE GUSTARÍA REALIZARLO?</td>
+                                                                                                    </tr>
+                                                                                                </table>
+                                                                                            </div>
+                                                                                            <div class="column-1_1">
+                                                                                                <table width="100%">
+                                                                                                    <tr>      
+                                                                                                        <td><textarea type="text" name="quenecesitas"></textarea></td>
+                                                                                                    </tr>  
+                                                                                                </table>
+                                                                                            </div>
+                                                                                        </div>
+                                                                                        <br>
+                                                                                        <div class="row">
+                                                                                            <div class="column-1_1">
+                                                                                                <table width="100%">
+                                                                                                    <tr>
+                                                                                                        <td align="left"> &nbsp; ¿QUÉ TIPO DE SERVICIO(S) BUSCAS?</td>
+                                                                                                    </tr>
+                                                                                                </table>
+                                                                                            </div>
+                                                                                            <div class="column-1_1">
+                                                                                                <table width="100%">
+                                                                                                    <tr>      
+                                                                                                        <td><textarea type="text" name="quenecesitas"></textarea></td>
+                                                                                                    </tr>   
+                                                                                                </table>
+                                                                                            </div>
+                                                                                        </div>
+
                                                                                         <br>
                                                                                         <a type="submit" class="sc_button sc_button_square sc_button_size_small" style="border-style: solid; border-width: 2px; line-height: 0.2857em;">Enviar</a>
                                                                                     </div>

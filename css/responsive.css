@@ -2964,7 +2964,7 @@ Very common low res
 	}
 
 	.sc_price_block .sc_price_block_description {
-		height: 5.5em;
+		height: 3.5em; /*height: 5.5em;*/
 	}
 
 	.sc_socials_type_icons.sc_socials_shape_round.sc_socials_size_small a,
@@ -3483,7 +3483,7 @@ Very common low res
 	}
 	.header_mobile .menu_button {
 		left: auto;
-		right: 70px;
+		right: 30px;
 	}
 	.header_mobile .side_wrap {
 		width: 100%;
@@ -3504,6 +3504,16 @@ Very common low res
     .sc_home-box-bg-type-c {
         background: #f2f1ef !important;
     }
-    
+
+    .sc_price_block .sc_price_block_money {
+    height: 53em;
+	}
+
+	.popup 
+    {
+    max-width: 85%;
+    max-height: 90%;
+    overflow: auto;
+    }
 
 }

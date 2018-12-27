@@ -99,12 +99,12 @@
                                                                 </div>
                                                             </div>
                                                             <div class="container" style="text-align: center !important;">
-                                                                <h3 class="sc_title sc_title_iconed margin_top_tiny margin_bottom_null sc_a-us-margin-type-c fsz_cust" style="color: #88ccca; font-family: delicious;">Para crear algo excepcional debemos de buscar que cada<br> detalle, cliente, evento o servicio sea realmente significativo.</h3>
-                                                                <img src="images/titulos_2-12.png" style="width: 190px; margin-bottom: 130px; margin-top: 20px;">
+                                                                <h1 class="sc_title sc_title_iconed margin_top_tiny margin_bottom_null sc_a-us-margin-type-c fsz_cust" style="color: #88ccca; font-family: delicious;">Para crear algo excepcional debemos de buscar que cada<br> detalle, cliente, evento o servicio sea realmente significativo.</h1>
+                                                                <img src="images/titulos_2-12.png" style="width: 130px; margin-bottom: 130px; margin-top: 20px;">
                                                                 <p style="margin-top: -110px; color: #737373; font-size: 18px;">
                                                                     Estamos dedicados a la creación y planificación de eventos con un alto nivel de profesionalismo,<br> en donde nos aseguramos de innovar para sorprender a todos y cada uno de nuestros clientes,<br> cuidando que nuestros servicios se cumplan en tiempo y forma.
                                                                 </p>
-                                                                <img src="images/titulos_2-13.png" style="width: 190px; margin-bottom: 20px; margin-top: 20px;">
+                                                                <img src="images/titulos_2-13.png" style="width: 130px; margin-bottom: 20px; margin-top: 20px;">
                                                                 <p style="color: #737373; font-size: 18px;">
                                                                     Ser una empresa líder dentro de la industria de los eventos, siendo ampliamente reconocidos por nuestro<br> profesionalismo, calidad, vocación y compromiso con los objetivos de nuestros clientes. 
                                                                 </p>
@@ -134,9 +134,9 @@
                                                                     </div>
                                                                 </div>
                                                                 <p style="font-size: 20px; color: #88ccca;">
-                                                                    todo aquello que te gusta, buscas e imaginas te aseguramos<br> que lo encontrarás con nosotros.<br>
+                                                                    Todo aquello que te gusta, buscas e imaginas te aseguramos que lo encontrarás con nosotros.<br>
                                                                     Hemos planificado y ejecutado eventos únicos y esperamos sean más.<br>
-                                                                    Nos sentimos increíblemente afortunados de ser parte de un momento tan<br> especial en la vida de nuestras parejas y clientes, y estamos ansiosos de<br> ayudarlos con cada detalle especial. Siempre buscaremos la perfección en<br> nuestro trabajo: no existe una boda bien, sólo existen bodas perfectas.
+                                                                    Nos sentimos increíblemente afortunados de ser parte de un momento tan especial en la vida de<br> nuestras parejas y clientes, y estamos ansiosos de ayudarlos con cada detalle especial. Siempre<br> buscaremos la perfección en nuestro trabajo: no existe una boda bien, sólo existen bodas perfectas.
                                                                 </p>
                                                             </div>
                                                         </div>

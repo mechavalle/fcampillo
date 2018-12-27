@@ -92,7 +92,7 @@
                                                                             <p>
                                                                               Soy Fer, Licenciada en Dirección de Empresas de Entretenimiento y certificada por el INIBEP en Wedding & Event Planner. 
                                                                             <br>
-                                                                              Lo que más me caracteriza es que siempre estoy creando ideas nuevas, es por eso que este gran proyecto lo creé para ti de una forma muy especial y junto con mi equipo coordinaremos minuciosamente cada paso en la organización de tu boda o evento.
+                                                                              Lo que más me caracteriza es que siempre estoy creando ideas nuevas, es por eso que este proyecto lo creé para ti de una forma muy especial y junto con mi equipo coordinaremos minuciosamente cada paso en la organización de tu boda o evento.
                                                                             </p>
                                                                             <p>
                                                                              <font color="#88ccca">Fernanda Campillo Wedding & Event Planner</font> es una empresa que opera en México, eficiente y dedicada a la creación y planificación de bodas y eventos. Su gestión y realización se basan en la combinación de estrategia y creatividad, utilizando recursos y experiencia para seguir satisfaciendo clientes, destacando en elementos visuales.
@@ -118,13 +118,13 @@
                                                             <img src="images/titulos_2-18.png" style="width: 500px; margin-bottom: 0px; margin-top:-60px;">
                                                             <div class="column-1_1" style="text-align: center; color: #737373; margin-bottom: 0px; margin-top: 0px;">
                                                             <p>
-                                                                Nos comprometemos a encontrar soluciones para los clientes y cumplir sus sueños. Usamos nuestro<br> conocimiento y experiencia para crear un servicio a medida. Para nosotros es necesario estar conectados<br> con los clientes y ponernos en sus zapatos, para así lograr que se enamoren de nuestro trabajo.
+                                                                Nos comprometemos a encontrar soluciones para los clientes y cumplir sus sueños. <br>Usamos nuestro conocimiento y experiencia para crear un servicio a medida. Para<br> nosotros es necesario estar conectados con los clientes y ponernos en sus zapatos, para<br> así lograr que se enamoren de nuestro trabajo.
                                                             </p>
                                                             <p>
-                                                                Somos un equipo creativo capaz de diseñar un evento de la A a la Z. A partir de un sólo detalle,<br> elaboramos un proyecto basado en la visión de cada cliente.
+                                                                Somos un equipo creativo capaz de diseñar un evento de la A a la Z. A partir de un <br>sólo detalle, elaboramos un proyecto basado en la visión de cada cliente.
                                                             </p>
                                                             <p>
-                                                                Nos fascinan las flores, los muebles, los decorados y los detalles, que transforman un lugar sencillo en un<br> conjunto de ensueño. Proporcionamos proveedores de alto nivel, que representan la excelencia mexicana,<br> porque creemos firmemente que lo que queda en la memoria no es sólo el entorno sino también la<br> excelente hospitalidad por la que México es famoso.
+                                                                Nos fascinan las flores, los muebles, los decorados y los detalles, que transforman un lugar sencillo<br> en un conjunto de ensueño. Proporcionamos proveedores de alto nivel, que representan<br> la excelencia mexicana, porque creemos firmemente que lo que queda en la memoria no es solo<br> el entorno sino también la excelente hospitalidad por la que México es famoso.
                                                             </p>
                                                         </div>
                                                     </div>

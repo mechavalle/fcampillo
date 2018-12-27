@@ -299,7 +299,7 @@ textarea {
   font-size: 1.07em;
   line-height: 1.55em;
   height: 2.55em;
-  width: 220px;
+  width: 200px;
 }
 .scheme_original input[type="text"],
 .scheme_original input[type="tel"],
@@ -1207,7 +1207,7 @@ select {
 .scheme_original .header_mobile .menu_main_cart .top_panel_cart_button .contact_icon:hover,
 .scheme_original .header_mobile .menu_main_cart.top_panel_icon:hover .top_panel_cart_button .contact_icon,
 .scheme_original .header_mobile .side_wrap .close:hover {
-  color: #a3ad6f;
+  color: #cab374;
 }
 .scheme_original .header_mobile .menu_main_nav > li a,
 .scheme_original .header_mobile .menu_main_nav > li > a:hover {

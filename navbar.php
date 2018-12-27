@@ -69,7 +69,7 @@ switch($menu)
     <div class="content_wrap" style="margin: 0px auto;">
         <div class="menu_button icon-menu"></div>
         <div class="logo">
-            <a href="#"><img src="images/logotipo.png" class="logo_main" alt=""></a>
+            <a href="index.php"><img src="images/logotipo.png" class="logo_main" alt=""></a>
         </div>
     </div>
     <div class="side_wrap">
@@ -108,4 +108,5 @@ switch($menu)
             </div>
         </div>
     </div>
+    <?php  require("sliderbar.php"); ?>
 </div>

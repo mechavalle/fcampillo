@@ -92,8 +92,7 @@
                                                                                                 <!--.info-back  -->
                                                                                                 <div class="info-back">
                                                                                                     <p style="position: absolute; top: 50%; left: 50%; -ms-transform: translate(-50%, -50%); transform: translate(-50%, -50%); width: 100%;">
-                                                                                                        Cuéntanos lo que tienes en mente y nuestro equipo se encargará de ayudarte a hacerlo realidad.
-                                                                                                        Nos encargaremos de brindarte una experiencia y hacer que desde el más mínimo detalle haga la diferencia. Cada amor es una historia por contar.
+                                                                                                       Cuéntanos lo que tienes en mente y nuestro equipo se encargará de ayudarte a hacerlo realidad. Nos encargaremos de brindarte una experiencia inigualable y hacer que desde el más mínimo detalle haga la diferencia. Cada amor es una historia por contar.
                                                                                                     </p>
                                                                                                     <!--end .info-back  -->
                                                                                                 </div>
@@ -107,7 +106,7 @@
                                                                     </div>
                                                                 </div>
                                                                 <div class="sc_services_item_content" style="text-align: center;">
-                                                                    <img src="images/titulos_2-14.png" style="width: 390px;">
+                                                                    <img src="images/titulos_2-14.png" style="width: 393px;">
                                                                 </div>
                                                             </div>
                                                         </div><div class="column-1_2 column_padding_bottom">
@@ -130,8 +129,7 @@
                                                                                                 <!--.info-back  -->
                                                                                                 <div class="info-back">
                                                                                                     <p style="position: absolute; top: 50%; left: 50%; -ms-transform: translate(-50%, -50%); transform: translate(-50%, -50%); width: 100%;">
-                                                                                                        Cuéntanos lo que tienes en mente y nuestro equipo se encargará de ayudarte a hacerlo realidad.
-                                                                                                        Nos encargaremos de brindarte una experiencia y hacer que desde el más mínimo detalle haga la diferencia. Cada amor es una historia por contar.
+                                                                                                        Cuéntanos lo que tienes en mente y nuestro equipo se encargará de ayudarte a hacerlo realidad. Nos encargaremos de brindarte una experiencia inigualable y hacer que desde el más mínimo detalle haga la diferencia. Cada amor es una historia por contar.
                                                                                                     </p>
                                                                                                     <!--end .info-back  -->
                                                                                                 </div>
@@ -168,8 +166,7 @@
                                                                                                 <!--.info-back  -->
                                                                                                 <div class="info-back">
                                                                                                     <p style="position: absolute; top: 50%; left: 50%; -ms-transform: translate(-50%, -50%); transform: translate(-50%, -50%); width: 100%;">
-                                                                                                        Cuéntanos lo que tienes en mente y nuestro equipo se encargará de ayudarte a hacerlo realidad.
-                                                                                                        Nos encargaremos de brindarte una experiencia y hacer que desde el más mínimo detalle haga la diferencia. Cada amor es una historia por contar.
+                                                                                                        Cuéntanos lo que tienes en mente y nuestro equipo se encargará de ayudarte a hacerlo realidad. Nos encargaremos de brindarte una experiencia inigualable y hacer que desde el más mínimo detalle haga la diferencia. Cada amor es una historia por contar.
                                                                                                     </p>
                                                                                                     <!--end .info-back  -->
                                                                                                 </div>
@@ -206,8 +203,7 @@
                                                                                                 <!--.info-back  -->
                                                                                                 <div class="info-back">
                                                                                                     <p style="position: absolute; top: 50%; left: 50%; -ms-transform: translate(-50%, -50%); transform: translate(-50%, -50%); width: 100%;">
-                                                                                                        Cuéntanos lo que tienes en mente y nuestro equipo se encargará de ayudarte a hacerlo realidad.
-                                                                                                        Nos encargaremos de brindarte una experiencia y hacer que desde el más mínimo detalle haga la diferencia. Cada amor es una historia por contar.
+                                                                                                        Cuéntanos lo que tienes en mente y nuestro equipo se encargará de ayudarte a hacerlo realidad. Nos encargaremos de brindarte una experiencia inigualable y hacer que desde el más mínimo detalle haga la diferencia. Cada amor es una historia por contar.
                                                                                                     </p>
                                                                                                     <!--end .info-back  -->
                                                                                                 </div>
@@ -221,7 +217,7 @@
                                                                     </div>
                                                                 </div>
                                                                 <div class="sc_services_item_content" style="text-align: center;">
-                                                                    <img src="images/titulos_2-16.png" style="width: 300px;">
+                                                                    <img src="images/titulos_2-16.png" style="width: 280px;">
                                                                 </div>
                                                             </div>
                                                         </div>

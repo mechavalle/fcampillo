@@ -3213,6 +3213,7 @@ ul.sc_list_style_iconed {
 	margin-top: 1.95em;
 	margin-right: 1em; /*index columnas*/
 	margin-left: 1em; /*index columnas*/
+	height: 40em; /*anterior ninguno*/
 }
 .sc_price_block .sc_price_block_money .sc_price_block_icon {
 	font-size: 4em;
@@ -3238,7 +3239,7 @@ ul.sc_list_style_iconed {
 }
 .sc_price_block .sc_price_block_description {
 	text-align:center;
-	padding:0 5em;
+	padding: 0 3em; /*padding:0 5em;*/
 	overflow:hidden;
 }
 
@@ -3262,10 +3263,11 @@ ul.sc_list_style_iconed {
 	font-size: 14pt;
 }
 .sc_price_block .sc_price_block_link {
-	height: 3em;
+	height: 0em;/*3em*/
 	text-align:center;
-	padding-top: 3em;
+	padding-top: 1em;/*3em*/
 	padding-bottom: 6em;
+	overflow: hidden;
 }
 .sc_price_block .sc_price_block_link .sc_button {
 	background-color:rgba(255, 255, 255);

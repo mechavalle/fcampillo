@@ -1695,7 +1695,7 @@ fieldset legend {
 -------------------------------------------------------------- */
 .page_wrap,
 .content_wrap {
-	margin:-33px auto;
+	margin:-33px auto 0px auto;
 }
 .body_style_boxed .page_wrap {
 	width: 1349px;
@@ -1705,7 +1705,7 @@ fieldset legend {
 .slider_boxed,
 .content_container {
 	width:1170px;
-	margin:33px auto;
+	margin:33px auto 0px auto;
 }
 .content_wrap:after,
 .content_container:after {
@@ -1885,6 +1885,7 @@ body:not(.top_panel_fixed) .top_panel_position_over .top_panel_bottom {
 	left:0;
 	right:0;
 	z-index: 1000;
+	background-color: white;
 }
 .sidebar_outer_left.top_panel_fixed .top_panel_wrap {
 	left:290px;
