@@ -32,20 +32,12 @@
                         </div>
                     </div> 
                     <div class="column-1_3" style="text-align: center !important;">
-                        <div class="logo" style="letter-spacing: 20px;">
+                        <div class="logo" style="letter-spacing: 30px;">
                             <div class="row">
-                                <div class="column-1_3" style="text-align: center !important;">
-                                    <img src="images/badge-gold_es_MX@2x.jpg" class="logo_main">
-                                </div>
-                                <div class="column-1_3" style="text-align: center !important;">
-                                    <img src="images/2.png" class="logo_main">
-                                </div>
-                                <div class="column-1_3" style="text-align: center !important;">
-                                    <img src="images/unnamed.jpeg" class="logo_main">
-                                </div>
-                                <div class="column-2_2" style="text-align: center !important; padding-top: 20px;">
-                                    <img src="images/seal_bodas_es_MX.png" class="logo_main">
-                                </div>    
+                                <img src="images/badge-gold_es_MX@2x.jpg" class="logo_main">
+                                <img src="images/2.png" class="logo_main">
+                                <img src="images/unnamed.jpeg" class="logo_main">
+                                <img src="images/seal_bodas_es_MX.png" class="logo_main" style=" margin-top: 20px;">
                             </div>
                         </div>
                     </div>
