@@ -59,7 +59,7 @@
       padding: 15px;
       background: #fff;
       border-radius: 0px;
-      width: 350px;
+      width: 375px;
       position: relative;
       transition: all 5s ease-in-out;
       border-style: solid;
