@@ -3349,7 +3349,7 @@ Very common low res
 		font-size: 1em;
 		letter-spacing: 0;
 		text-transform: none;
-		font-family: Poppins;
+		font-family: bariol,Arial; /*Poppins*/
 	}
 
 	.header_mobile .sidebar_cart{

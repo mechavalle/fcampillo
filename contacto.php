@@ -38,11 +38,6 @@
       border-color: #cab374;
       border-width: 1px;
     }
-    textarea 
-    {
-    min-height: 3em;
-    }
-
 
 #map-canvas {
     margin: 0;
