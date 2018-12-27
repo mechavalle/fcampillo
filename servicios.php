@@ -245,7 +245,7 @@
                                         <img class="grow" src="images/ICONOS-08.png" style="width: 80%; height: auto">
                                     </div>
                                     <div class="column-1_7">
-                                        <img class="grow" src="images/ICONOS-09.png">
+                                        <img class="grow" src="images/ICONOS-09.png" style="width: 80%; height: auto">
                                     </div>
                                     <div class="column-1_7">
                                         <img class="grow" src="images/ICONOS-10.png">
