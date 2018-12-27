@@ -309,8 +309,8 @@
                                                                                         <td><input type="text" name="apellidos" required></td>
                                                                                     </tr>
                                                                                     <tr>
-                                                                                        <td style="text-align: left;"> &nbsp;&nbsp; NOMBRE</td>
-                                                                                        <td style="text-align: left;"> &nbsp;&nbsp; APELLIDOS</td>
+                                                                                        <td style="text-align: left;"> &nbsp; &nbsp; NOMBRE</td>
+                                                                                        <td style="text-align: left;"> &nbsp; &nbsp; APELLIDOS</td>
                                                                                     </tr>
                                                                                 </table>
                                                                             </div>
@@ -324,8 +324,8 @@
                                                                                         <td><input type="email" name="email" required></td>
                                                                                     </tr>
                                                                                     <tr>
-                                                                                        <td style="text-align: left;"> &nbsp;&nbsp; TELÉFONO</td>
-                                                                                        <td style="text-align: left;"> &nbsp;&nbsp; E-MAIL</td>
+                                                                                        <td style="text-align: left;"> &nbsp; &nbsp; TELÉFONO</td>
+                                                                                        <td style="text-align: left;"> &nbsp; &nbsp; E-MAIL</td>
                                                                                     </tr>
                                                                                 </table>
                                                                             </div>
@@ -339,8 +339,8 @@
                                                                                         <td><input type="text" name="ciudad"></td>
                                                                                     </tr>
                                                                                     <tr>
-                                                                                        <td style="text-align: left;"> &nbsp;&nbsp; FECHA DEL EVENTO</td>
-                                                                                        <td style="text-align: left;"> &nbsp;&nbsp; CIUDAD</td>
+                                                                                        <td style="text-align: left;"> &nbsp; &nbsp; FECHA DEL EVENTO</td>
+                                                                                        <td style="text-align: left;"> &nbsp; &nbsp; CIUDAD</td>
                                                                                     </tr>
                                                                                 </table>
                                                                             </div>
@@ -360,7 +360,7 @@
                                                                             <div class="column-1_1">
                                                                                 <table width="99%">
                                                                                     <tr>
-                                                                                        <td align="left"> &nbsp;&nbsp; ¿QUÉ TIPO DE EVENTO BUSCAS</td>
+                                                                                        <td align="left"> &nbsp; &nbsp; ¿QUÉ TIPO DE EVENTO BUSCAS</td>
                                                                                     </tr>
                                                                                 </table>
                                                                             </div>
@@ -377,7 +377,7 @@
                                                                             <div class="column-1_1">
                                                                                 <table width="99%">
                                                                                     <tr>
-                                                                                        <td align="left"> &nbsp;&nbsp; ¿EN QUÉ CIUDAD TE GUSTARÍA REALIZARLO?</td>
+                                                                                        <td align="left"> &nbsp; &nbsp; ¿EN QUÉ CIUDAD TE GUSTARÍA REALIZARLO?</td>
                                                                                     </tr>
                                                                                 </table>
                                                                             </div>
@@ -394,7 +394,7 @@
                                                                             <div class="column-1_1">
                                                                                 <table width="99%">
                                                                                     <tr>
-                                                                                        <td align="left"> &nbsp;&nbsp; ¿QUÉ TIPO DE SERVICIO(S) BUSCAS?</td>
+                                                                                        <td align="left"> &nbsp; &nbsp; ¿QUÉ TIPO DE SERVICIO(S) BUSCAS?</td>
                                                                                     </tr>
                                                                                 </table>
                                                                             </div>
@@ -454,8 +454,8 @@
                                                                                         <td><input type="text" name="apellidos" required></td>
                                                                                     </tr>
                                                                                     <tr>
-                                                                                        <td style="text-align: left;"> &nbsp;&nbsp; NOMBRE</td>
-                                                                                        <td style="text-align: left;"> &nbsp;&nbsp; APELLIDOS</td>
+                                                                                        <td style="text-align: left;"> &nbsp; &nbsp; NOMBRE</td>
+                                                                                        <td style="text-align: left;"> &nbsp; &nbsp; APELLIDOS</td>
                                                                                     </tr>
                                                                                 </table>
                                                                             </div>
@@ -469,8 +469,8 @@
                                                                                         <td><input type="email" name="email" required></td>
                                                                                     </tr>
                                                                                     <tr>
-                                                                                        <td style="text-align: left;"> &nbsp;&nbsp; TELÉFONO</td>
-                                                                                        <td style="text-align: left;"> &nbsp;&nbsp; E-MAIL</td>
+                                                                                        <td style="text-align: left;"> &nbsp; &nbsp; TELÉFONO</td>
+                                                                                        <td style="text-align: left;"> &nbsp; &nbsp; E-MAIL</td>
                                                                                     </tr>
                                                                                 </table>
                                                                             </div>
@@ -484,8 +484,8 @@
                                                                                         <td><input type="text" name="ciudad"></td>
                                                                                     </tr>
                                                                                     <tr>
-                                                                                        <td style="text-align: left;"> &nbsp;&nbsp; FECHA DEL EVENTO</td>
-                                                                                        <td style="text-align: left;"> &nbsp;&nbsp; CIUDAD</td>
+                                                                                        <td style="text-align: left;"> &nbsp; &nbsp; FECHA DEL EVENTO</td>
+                                                                                        <td style="text-align: left;"> &nbsp; &nbsp; CIUDAD</td>
                                                                                     </tr>
                                                                                 </table>
                                                                             </div>
@@ -505,7 +505,7 @@
                                                                             <div class="column-1_1">
                                                                                 <table width="100%">
                                                                                     <tr>
-                                                                                        <td align="left"> &nbsp;&nbsp; ¿QUÉ TIPO DE EVENTO BUSCAS</td>
+                                                                                        <td align="left"> &nbsp; &nbsp; ¿QUÉ TIPO DE EVENTO BUSCAS</td>
                                                                                     </tr>
                                                                                 </table>
                                                                             </div>
@@ -522,7 +522,7 @@
                                                                             <div class="column-1_1">
                                                                                 <table width="100%">
                                                                                     <tr>
-                                                                                        <td align="left"> &nbsp;&nbsp; ¿EN QUÉ CIUDAD TE GUSTARÍA REALIZARLO?</td>
+                                                                                        <td align="left"> &nbsp; &nbsp; ¿EN QUÉ CIUDAD TE GUSTARÍA REALIZARLO?</td>
                                                                                     </tr>
                                                                                 </table>
                                                                             </div>
@@ -539,7 +539,7 @@
                                                                             <div class="column-1_1">
                                                                                 <table width="100%">
                                                                                     <tr>
-                                                                                        <td align="left"> &nbsp;&nbsp; ¿QUÉ TIPO DE SERVICIO(S) BUSCAS?</td>
+                                                                                        <td align="left"> &nbsp; &nbsp; ¿QUÉ TIPO DE SERVICIO(S) BUSCAS?</td>
                                                                                     </tr>
                                                                                 </table>
                                                                             </div>
@@ -589,8 +589,8 @@
                                                                                         <td><input type="text" name="apellidos" required></td>
                                                                                     </tr>
                                                                                     <tr>
-                                                                                        <td style="text-align: left;"> &nbsp;&nbsp; NOMBRE</td>
-                                                                                        <td style="text-align: left;"> &nbsp;&nbsp; APELLIDOS</td>
+                                                                                        <td style="text-align: left;"> &nbsp; &nbsp; NOMBRE</td>
+                                                                                        <td style="text-align: left;"> &nbsp; &nbsp; APELLIDOS</td>
                                                                                     </tr>
                                                                                 </table>
                                                                             </div>
@@ -604,8 +604,8 @@
                                                                                         <td><input type="email" name="email" required></td>
                                                                                     </tr>
                                                                                     <tr>
-                                                                                        <td style="text-align: left;"> &nbsp;&nbsp; TELÉFONO</td>
-                                                                                        <td style="text-align: left;"> &nbsp;&nbsp; E-MAIL</td>
+                                                                                        <td style="text-align: left;"> &nbsp; &nbsp; TELÉFONO</td>
+                                                                                        <td style="text-align: left;"> &nbsp; &nbsp; E-MAIL</td>
                                                                                     </tr>
                                                                                 </table>
                                                                             </div>
@@ -619,8 +619,8 @@
                                                                                         <td><input type="text" name="ciudad"></td>
                                                                                     </tr>
                                                                                     <tr>
-                                                                                        <td style="text-align: left;"> &nbsp;&nbsp; FECHA DEL EVENTO</td>
-                                                                                        <td style="text-align: left;"> &nbsp;&nbsp; CIUDAD</td>
+                                                                                        <td style="text-align: left;"> &nbsp; &nbsp; FECHA DEL EVENTO</td>
+                                                                                        <td style="text-align: left;"> &nbsp; &nbsp; CIUDAD</td>
                                                                                     </tr>
                                                                                 </table>
                                                                             </div>
@@ -640,7 +640,7 @@
                                                                             <div class="column-1_1">
                                                                                 <table width="100%">
                                                                                     <tr>
-                                                                                        <td align="left"> &nbsp;&nbsp; ¿QUÉ TIPO DE EVENTO BUSCAS</td>
+                                                                                        <td align="left"> &nbsp; &nbsp; ¿QUÉ TIPO DE EVENTO BUSCAS</td>
                                                                                     </tr>
                                                                                 </table>
                                                                             </div>
@@ -657,7 +657,7 @@
                                                                             <div class="column-1_1">
                                                                                 <table width="100%">
                                                                                     <tr>
-                                                                                        <td align="left"> &nbsp;&nbsp; ¿EN QUÉ CIUDAD TE GUSTARÍA REALIZARLO?</td>
+                                                                                        <td align="left"> &nbsp; &nbsp; ¿EN QUÉ CIUDAD TE GUSTARÍA REALIZARLO?</td>
                                                                                     </tr>
                                                                                 </table>
                                                                             </div>
@@ -674,7 +674,7 @@
                                                                             <div class="column-1_1">
                                                                                 <table width="100%">
                                                                                     <tr>
-                                                                                        <td align="left"> &nbsp;&nbsp; ¿QUÉ TIPO DE SERVICIO(S) BUSCAS?</td>
+                                                                                        <td align="left"> &nbsp; &nbsp; ¿QUÉ TIPO DE SERVICIO(S) BUSCAS?</td>
                                                                                     </tr>
                                                                                 </table>
                                                                             </div>
