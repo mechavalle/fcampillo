@@ -114,13 +114,11 @@
 
 <body class="single single-product woocommerce woocommerce-page">
 
-    <header class="top_panel_wrap top_panel_style_1 scheme_original">
-        <?php  include("sliderbar.php"); ?>
-        <?php  
-            $menu="agenda";
-            include("navbar.php");
-        ?> 
-    </header>
+    <?php  include("sliderbar.php"); ?>
+    <?php  
+        $menu="agenda";
+        include("navbar.php");
+    ?>
         
     <div class="page_content_wrap page_paddings_yes">
         <div class="sc_services_wrap">

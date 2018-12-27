@@ -23,18 +23,16 @@
 
 <body class="single single-product woocommerce woocommerce-page">
 
-    <header class="top_panel_wrap top_panel_style_1 scheme_original">
-        <?php  include("sliderbar.php"); ?>
-        <?php  
-            $menu="portafolio";
-            include("navbar.php");
-        ?> 
-    </header>
-    <br>
+   <?php  include("sliderbar.php"); ?>
+    <?php  
+        $menu="portafolio";
+        include("navbar.php");
+    ?>
+
     <div class="page_content_wrap page_paddings_yes">
         <div class="sc_services_wrap">
             <div class="sc_services sc_services_style_services-1 sc_services_type_images  margin_top_tiny- margin_bottom_large full-width" style="text-align: center;">
-                <img src="images/titulos_2-01.png" style="width: 600px; margin-bottom: 0px; margin-top: 10px;">
+                <img src="images/titulos_2-01.png" style="width: 600px; margin-bottom: 0px; margin-top: 20px;">
             </div>    
             <div class="content_wrap">
                 <div class="content">

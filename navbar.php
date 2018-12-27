@@ -43,7 +43,7 @@ switch($menu)
 
 <div class="page_wrap">
     <div class="top_panel_wrap_inner top_panel_inner_style_2 top_panel_position_above">
-        <header class="top_panel_wrap top_panel_style_2 scheme_original">
+        <header class="top_panel_wrap top_panel_style_2 scheme_original" style="display: block;">
             <div class="top_panel_bottom">
                 <div class="content_wrap clearfix">
                     <nav class="menu_main_nav_area menu_hover_fade">
@@ -65,8 +65,8 @@ switch($menu)
             </div>
         </div>
 </header>
-<div class="header_mobile">
-    <div class="content_wrap" style="margin: 0px auto;">
+<div class="header_mobile"> 
+    <div class="content_wrap" style="margin: 12px auto;">
         <div class="menu_button icon-menu"></div>
         <div class="logo">
             <a href="index.php"><img src="images/logotipo.png" class="logo_main" alt=""></a>
@@ -108,5 +108,4 @@ switch($menu)
             </div>
         </div>
     </div>
-    <?php  require("sliderbar.php"); ?>
 </div>

@@ -20,22 +20,24 @@
     <link property="stylesheet" rel='stylesheet' href='css/responsive.css' type='text/css' media='all' />
     <link rel="stylesheet" href="fw/css/font-awesome.css"></link>
     <link property="stylesheet" rel='stylesheet' href='css/bootstrap.min.css' type='text/css' media='all' />
+
     <style type="text/css">
-        .barra {
-  background-image: url("images/nosback.png");
-  background-color: #ffffff;
-  width: 850px;
-  height: 116px;
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
-  position: relative;
-  margin: 10px auto;
-  text-align: center; 
-  vertical-align: middle;
-  display: inline-flex;
-  margin-bottom: 50px;
-}
+    .barra 
+    {
+      background-image: url("images/nosback.png");
+      background-color: #ffffff;
+      width: 850px;
+      height: 116px;
+      background-position: center;
+      background-repeat: no-repeat;
+      background-size: cover;
+      position: relative;
+      margin: 10px auto;
+      text-align: center; 
+      vertical-align: middle;
+      display: inline-flex;
+      margin-bottom: 50px;
+    }
 
 .grow:hover
         {
@@ -47,19 +49,17 @@
 </head>
 
 <body class="single single-team">
-    <!--.body_wrap -->
-    <header class="top_panel_wrap top_panel_style_1 scheme_original">
-        <?php  include("sliderbar.php"); ?>
-        <?php  
-            $menu="nosotros";
-            include("navbar.php");
-        ?> 
-    </header>
+    
+    <?php  include("sliderbar.php"); ?>
+    <?php  
+        $menu="nosotros";
+        include("navbar.php");
+    ?>
 
     <div class="page_content_wrap page_paddings_yes">
         <div class="sc_services_wrap">
             <div class="sc_services sc_services_style_services-1 sc_services_type_images  margin_top_tiny- margin_bottom_large full-width" style="text-align: center;">
-                <img src="images/titulos_2-06.png" style="width: 400px; margin-top: 20px;">
+                <img src="images/titulos_2-06.png" style="width: 400px; margin-top: 30px;">
             </div>    
             <div class="content_wrap">
                 <div class="content">

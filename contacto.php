@@ -117,13 +117,11 @@
 
 <body class="single single-product woocommerce woocommerce-page">
 
-    <header class="top_panel_wrap top_panel_style_1 scheme_original">
-        <?php  include("sliderbar.php"); ?>
-        <?php  
-            $menu="contacto";
-            include("navbar.php");
-        ?> 
-    </header>
+    <?php  include("sliderbar.php"); ?>
+    <?php  
+        $menu="contacto";
+        include("navbar.php");
+    ?>
         
     <div class="page_content_wrap page_paddings_no scheme_original" style="text-align: center;">
         <img src="images/titulos_2-19.png" style="width: 600px; margin-bottom: 20px; margin-top: 40px;">

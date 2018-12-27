@@ -29,13 +29,11 @@
 
 <body class="single single-product woocommerce woocommerce-page">
 
-    <header class="top_panel_wrap top_panel_style_1 scheme_original">
-        <?php  include("sliderbar.php"); ?>
-        <?php  
-            $menu="";
-            include("navbar.php");
-        ?> 
-    </header>
+    <?php  include("sliderbar.php"); ?>
+    <?php  
+        $menu="";
+        include("navbar.php");
+    ?>
         
     <div class="content_wrap">
         <div class="content" style="text-align: center; padding-top: 30px;">

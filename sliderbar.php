@@ -5,9 +5,8 @@
 	display: block;
 	position: fixed; 
 	left: 0px; 
-	top: 100px;
+	top: 110px;
 	z-index: 2000;
-	line-height: initial;
 	font-size: smaller;
 	list-style: none;
 	background-color: #88ccca36;

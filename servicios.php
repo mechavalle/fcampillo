@@ -20,6 +20,7 @@
     <link property="stylesheet" rel='stylesheet' href='css/responsive.css' type='text/css' media='all' />
     <link rel="stylesheet" href="fw/css/font-awesome.css"></link>
     <link property="stylesheet" rel='stylesheet' href='css/core.portfolio.css' type='text/css' media='all' />
+
     <style type="text/css">
     .grow:hover
         {
@@ -44,14 +45,12 @@
 
 <body class="single single-product woocommerce woocommerce-page">
 
-    <header class="top_panel_wrap top_panel_style_1 scheme_original">
-        <?php  include("sliderbar.php"); ?>
-        <?php  
-            $menu="servicios";
-            include("navbar.php");
-        ?> 
-    </header>
-    <br>
+    <?php  include("sliderbar.php"); ?>
+    <?php  
+        $menu="servicios";
+        include("navbar.php");
+    ?>
+
 	<!--.page_content_wrap -->		
 	<div class="page_content_wrap page_paddings_yes">
         <!--.content-->
