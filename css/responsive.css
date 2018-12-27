@@ -3506,7 +3506,7 @@ Very common low res
     }
 
     .sc_price_block .sc_price_block_money {
-    height: 53em;
+    height: auto;
 	}
 
 	.popup 
