@@ -369,7 +369,7 @@ textarea {
 .scheme_original input[type="password"]:focus,
 .scheme_original select:focus,
 .scheme_original textarea:focus {
-  border-color: #a3ad6f;
+  border-color: #cab374;
 }
 .scheme_original input::-webkit-input-placeholder,
 .scheme_original textarea::-webkit-input-placeholder {

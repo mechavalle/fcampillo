@@ -32,7 +32,7 @@
                         </div>
                     </div> 
                     <div class="column-1_3" style="text-align: center !important;">
-                        <div class="logo" style="letter-spacing: 30px;">
+                        <div class="logo" style="letter-spacing: 20px;">
                             <div class="row">
                                 <img src="images/badge-gold_es_MX@2x.jpg" class="logo_main">
                                 <img src="images/2.png" class="logo_main">
