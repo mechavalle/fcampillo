@@ -22,6 +22,7 @@
     <link property="stylesheet" rel='stylesheet' href='js/vendor/testimonialcarousel/slick/slick.css' type='text/css' media='all' />
     <link property="stylesheet" rel='stylesheet' href='css/responsive.css' type='text/css' media='all' /> 
     <link rel="stylesheet" href="fw/css/font-awesome.css"></link>
+    <link property="stylesheet" rel='stylesheet' href='css/bootstrap.min.css' type='text/css' media='all' />
 </head>
 
 <style type="text/css">

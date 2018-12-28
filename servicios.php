@@ -20,6 +20,7 @@
     <link property="stylesheet" rel='stylesheet' href='css/responsive.css' type='text/css' media='all' />
     <link rel="stylesheet" href="fw/css/font-awesome.css"></link>
     <link property="stylesheet" rel='stylesheet' href='css/core.portfolio.css' type='text/css' media='all' />
+    <link property="stylesheet" rel='stylesheet' href='css/bootstrap.min.css' type='text/css' media='all' />
 
     <style type="text/css">
     .grow:hover
