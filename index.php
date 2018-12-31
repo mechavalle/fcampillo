@@ -298,7 +298,7 @@
                                                             <div id="presupuesto" class="overlay">
                                                                 <div class="popup">
                                                                     <a class="close" href="#">&times;</a>
-                                                                    <p align="left"><img src="images/titulos-08.png"></p>
+                                                                    <p align="left"><img src="images/titulos-08.png" style="width: 300px;"></p>
                                                                     <div class="content" style="text-align: center;"> 
 
                                                                         <div class="row">
@@ -562,7 +562,7 @@
                                                 </div><div class="column-1_3 sc_column_item odd">
                                                     <div class="sc_price_block sc_price_block_style_1">
                                                         <div class="featured_image"><img alt="Full Package" src="images/COORDINATIONPACKAGE.jpg"></div>
-                                                        <div class="sc_price_block_title"><img src="images/titulos_2-11.png" style="width: 95%;"></div>
+                                                        <div class="sc_price_block_title"><img src="images/titulos_2-11.png"></div>
                                                         <div class="sc_price_block_description">
                                                             <ul>
                                                                 <li style="font-size: 16px;">¡Relájate y deja todo en nuestras manos!</li>
