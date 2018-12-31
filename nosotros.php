@@ -106,7 +106,7 @@
                                                                 </p>
                                                                 <img src="images/titulos_2-13.png" style="width: 130px; margin-bottom: 20px; margin-top: 20px;">
                                                                 <p style="color: #737373; font-size: 18px;">
-                                                                    Ser una empresa líder dentro de la industria de los eventos, siendo ampliamente reconocidos por nuestro profesionalismo,<br> calidad, vocación y compromiso con los objetivos de nuestros clientes. 
+                                                                    Ser una empresa líder dentro de la industria de los eventos, siendo ampliamente reconocidos por nuestro profesionalismo, calidad,<br> vocación y compromiso con los objetivos de nuestros clientes. 
                                                                 </p>
                                                                 <br>
                                                                 <p style="text-align: center; font-size: 20px; color: #88ccca;">
@@ -136,7 +136,7 @@
                                                                 <p style="font-size: 20px; color: #88ccca;">
                                                                     Todo aquello que te gusta, buscas e imaginas te aseguramos que lo encontrarás con nosotros.<br>
                                                                     Hemos planificado y ejecutado eventos únicos y esperamos sean más.<br>
-                                                                    Nos sentimos increíblemente afortunados de ser parte de un momento tan especial en la vida de nuestras parejas<br> y clientes, y estamos ansiosos de ayudarlos con cada detalle especial. Siempre buscaremos la perfección en<br> nuestro trabajo: no existe una boda bien, sólo existen bodas perfectas.
+                                                                    Nos sentimos increíblemente afortunados de ser parte de un momento tan especial en la vida de nuestras parejas y<br> clientes, y estamos ansiosos de ayudarlos con cada detalle especial. Siempre buscaremos la perfección en nuestro<br> trabajo: no existe una boda bien, sólo existen bodas perfectas.
                                                                 </p>
                                                             </div>
                                                         </div>
