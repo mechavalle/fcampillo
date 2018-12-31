@@ -142,7 +142,7 @@
                                         <div class="m_wrapper">
                                             <div class="sc_form_wrap">
                                                 <div class="sc_form sc_form_style_form_1 aligncenter sc-contacts-form" style="margin-top: 2.8em;">
-                                                    <img src="images/titulos_2-08.png" style="width: 400px; margin-bottom: 20px; margin-top: 0px;">
+                                                    <img src="images/titulos_2-08.png" style="margin-bottom: 20px; margin-top: 0px;">
                                                     <form class="sc_input_hover_default" data-formtype="form_1" method="post" action="include/contact-form.php">
                                                     <div class="sc_form_info columns_wrap">
                                                         <div class="sc_form_item sc_form_field label_over column-1_2">

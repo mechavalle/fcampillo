@@ -106,7 +106,7 @@
                                                                     </div>
                                                                 </div>
                                                                 <div class="sc_services_item_content" style="text-align: center;">
-                                                                    <img src="images/titulos_2-14.png" style="width: 393px;">
+                                                                    <img src="images/titulos_2-14.png">
                                                                 </div>
                                                             </div>
                                                         </div><div class="column-1_2 column_padding_bottom">
@@ -143,7 +143,7 @@
                                                                     </div>
                                                                 </div>
                                                                 <div class="sc_services_item_content" style="text-align: center;">
-                                                                    <img src="images/titulos_2-15.png" style="width: 304px;">
+                                                                    <img src="images/titulos_2-15.png">
                                                                 </div>
                                                             </div>
                                                         </div><div class="column-1_2 column_padding_bottom">
@@ -180,7 +180,7 @@
                                                                     </div>
                                                                 </div>
                                                                 <div class="sc_services_item_content" style="text-align: center;">
-                                                                    <img src="images/titulos_2-17.png" style="width: 350px;">
+                                                                    <img src="images/titulos_2-17.png">
                                                                 </div>
                                                             </div>
                                                         </div><div class="column-1_2 column_padding_bottom">
@@ -217,7 +217,7 @@
                                                                     </div>
                                                                 </div>
                                                                 <div class="sc_services_item_content" style="text-align: center;">
-                                                                    <img src="images/titulos_2-16.png" style="width: 280px;">
+                                                                    <img src="images/titulos_2-16.png">
                                                                 </div>
                                                             </div>
                                                         </div>
@@ -231,25 +231,25 @@
                                 </div>
                                 <div class="row" style="text-align: center; vertical-align: middle;">
                                     <div class="column-1_7">
-                                        <img class="grow" src="images/ICONOS-04.png" style="width: 80%; height: auto">
+                                        <img class="grow" src="images/ICONOS-29.png">
                                     </div>
                                     <div class="column-1_7">
-                                        <img class="grow" src="images/ICONOS-05.png" style="width: 80%; height: auto">
+                                        <img class="grow" src="images/ICONOS-30.png">
                                     </div>
                                     <div class="column-1_7"">
-                                        <img class="grow" src="images/ICONOS-06.png" style="width: 80%; height: auto">
+                                        <img class="grow" src="images/ICONOS-31.png">
                                     </div>
                                     <div class="column-1_7">
-                                        <img class="grow" src="images/ICONOS-07.png" style="width: 80%; height: auto">
+                                        <img class="grow" src="images/ICONOS-32.png">
                                     </div>
                                     <div class="column-1_7">
-                                        <img class="grow" src="images/ICONOS-08.png" style="width: 80%; height: auto">
+                                        <img class="grow" src="images/ICONOS-33.png">
                                     </div>
                                     <div class="column-1_7">
-                                        <img class="grow" src="images/ICONOS-09.png" style="width: 80%; height: auto">
+                                        <img class="grow" src="images/ICONOS-34.png">
                                     </div>
                                     <div class="column-1_7">
-                                        <img class="grow" src="images/ICONOS-10.png">
+                                        <img class="grow" src="images/ICONOS-28.png">
                                     </div>
                                 </div>
                             </div>

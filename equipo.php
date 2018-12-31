@@ -85,7 +85,7 @@
                                                         <div class="sc_services sc_services_style_services-1 sc_services_type_images  margin_top_tiny- margin_bottom_large full-width">
                                                             <div class="sc_columns columns_wrap" style="margin-top: 50px; text-align: center !important;">
                                                                 <div class="column-1_2 column_padding_bottom">
-                                                                    <img src="images/titulos_2-03.png" style="width: 450px; margin-bottom: 20px; margin-top: 0px;">
+                                                                    <img src="images/titulos_2-03.png" style="margin-bottom: 20px; margin-top: 0px;">
                                                                     <div class="sc_services_item odd first">
                                                                         <div class="sc_services_item_content">
                                                                             <p>
@@ -99,7 +99,7 @@
                                                                         </div>
                                                                     </div>
                                                                 </div><div class="column-1_2 column_padding_bottom">
-                                                                    <img src="images/titulos_2-04.png" style="width: 400px; margin-bottom: 20px; margin-top: 10px;">
+                                                                    <img src="images/titulos_2-04.png" style="margin-bottom: 20px; margin-top: 10px;">
                                                                     <div class="sc_services_item even">
                                                                         <div class="sc_services_item_content">
                                                                             <p>
@@ -114,7 +114,7 @@
                                                             </div>
                                                         </div>
                                                         <div class="container" style="text-align: center !important;">
-                                                            <img src="images/titulos_2-18.png" style="width: 500px; margin-bottom: 0px; margin-top:-60px;">
+                                                            <img src="images/titulos_2-18.png" style="width: 600px; margin-bottom: 0px; margin-top:-60px;">
                                                             <div class="column-1_1" style="text-align: center; color: #737373; margin-bottom: 0px; margin-top: 0px;">
                                                             <p>
                                                                 Nos comprometemos a encontrar soluciones para los clientes y cumplir sus sueños. <br>Usamos nuestro conocimiento y experiencia para crear un servicio a medida. Para<br> nosotros es necesario estar conectados con los clientes y ponernos en sus zapatos, para<br> así lograr que se enamoren de nuestro trabajo.

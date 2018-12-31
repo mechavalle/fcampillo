@@ -29,7 +29,8 @@
 </head>
 
 <style type="text/css">
-    .overlay 
+
+        .overlay 
     {
       position: fixed;
       top: 0;
@@ -51,11 +52,11 @@
 
     .popup 
     {
-      margin: 5px auto 5px auto;
-      padding: 10px;
+      margin: 70px auto 5px auto;
+      padding: 15px;
       background: #fff;
       border-radius: 0px;
-      width: 350px;
+      width: 375px;
       position: relative;
       transition: all 5s ease-in-out;
       border-style: solid;
@@ -80,11 +81,6 @@
     .popup .close:hover 
     {
       color: #a3ad6f;
-    }
-
-    .popup .content 
-    {
-      overflow: auto;
     }
 
     .scheme_original input[type="text"],
@@ -173,13 +169,13 @@
                                                                     <div class="sc_services_item even">
                                                                         <div class="sc_services_item_featured post_featured">
                                                                             <div class="post_thumb">
-                                                                                <img class="post-image" alt="Wedding Planning" src="images/agenda2.jpg">
+                                                                                <img class="post-image" alt="Wedding Planning" src="images/agenda2copia.jpg">
                                                                             </div>
                                                                         </div>
                                                                         <div class="sc_services_item_content">
                                                                             <p>
                                                                               Descripción:<br>
-                                                                              20 x 20 cm.<br>
+                                                                              15.5 x 20.5 cm.<br>
                                                                               Pastas rígidas forradas en terminado mate.<br>
                                                                               Páginas interiores en papel bond 120 gramos.<br>
                                                                               Hojas para notas.<br>
@@ -206,14 +202,14 @@
 
                                                                                         <div class="row">
                                                                                             <div class="column-1_1">
-                                                                                                <table width="100%">
+                                                                                                <table width="99%">
                                                                                                     <tr>
                                                                                                         <td><input type="text" name="nombre" aria-required></td>
                                                                                                         <td><input type="text" name="apellidos" required></td>
                                                                                                     </tr>
                                                                                                     <tr>
-                                                                                                        <td style="text-align: left;"> &nbsp; NOMBRE</td>
-                                                                                                        <td style="text-align: left;"> &nbsp; APELLIDOS</td>
+                                                                                                        <td style="text-align: left;"> &nbsp; &nbsp; NOMBRE</td>
+                                                                                                        <td style="text-align: left;"> &nbsp; &nbsp; APELLIDOS</td>
                                                                                                     </tr>
                                                                                                 </table>
                                                                                             </div>
@@ -221,14 +217,14 @@
 
                                                                                         <div class="row">
                                                                                             <div class="column-1_1">
-                                                                                                <table width="100%">
+                                                                                                <table width="99%">
                                                                                                     <tr>
                                                                                                         <td><input type="tel" name="telefono"></td>
                                                                                                         <td><input type="email" name="email" required></td>
                                                                                                     </tr>
                                                                                                     <tr>
-                                                                                                        <td style="text-align: left;"> &nbsp; TELÉFONO</td>
-                                                                                                        <td style="text-align: left;"> &nbsp; E-MAIL</td>
+                                                                                                        <td style="text-align: left;"> &nbsp; &nbsp; TELÉFONO</td>
+                                                                                                        <td style="text-align: left;"> &nbsp; &nbsp; E-MAIL</td>
                                                                                                     </tr>
                                                                                                 </table>
                                                                                             </div>
@@ -236,22 +232,7 @@
 
                                                                                         <div class="row">
                                                                                             <div class="column-1_1">
-                                                                                                <table width="100%">
-                                                                                                    <tr>
-                                                                                                        <td><input type="text" name="fecha"></td>
-                                                                                                        <td><input type="text" name="ciudad"></td>
-                                                                                                    </tr>
-                                                                                                    <tr>
-                                                                                                        <td style="text-align: left;"> &nbsp; FECHA DEL EVENTO</td>
-                                                                                                        <td style="text-align: left;"> &nbsp; CIUDAD</td>
-                                                                                                    </tr>
-                                                                                                </table>
-                                                                                            </div>
-                                                                                        </div>
-
-                                                                                        <div class="row">
-                                                                                            <div class="column-1_1">
-                                                                                                <table width="100%">
+                                                                                                <table width="99%">
                                                                                                     <tr>
                                                                                                         <td>&nbsp;&nbsp;</td>
                                                                                                     </tr>
@@ -261,51 +242,17 @@
 
                                                                                         <div class="row">
                                                                                             <div class="column-1_1">
-                                                                                                <table width="100%">
+                                                                                                <table width="99%">
                                                                                                     <tr>
-                                                                                                        <td align="left"> &nbsp; ¿QUÉ TIPO DE EVENTO BUSCAS</td>
+                                                                                                        <td align="left"> &nbsp; &nbsp; ¿CUÁNTAS PIEZAS REQUIERES?</td>
                                                                                                     </tr>
                                                                                                 </table>
                                                                                             </div>
                                                                                             <div class="column-1_1">
-                                                                                                <table width="100%">
+                                                                                                <table width="99%">
                                                                                                     <tr>      
                                                                                                         <td><textarea type="text" name="quenecesitas"></textarea></td>
                                                                                                     </tr>  
-                                                                                                </table>
-                                                                                            </div>
-                                                                                        </div>
-                                                                                        <br>
-                                                                                        <div class="row">
-                                                                                            <div class="column-1_1">
-                                                                                                <table width="100%">
-                                                                                                    <tr>
-                                                                                                        <td align="left"> &nbsp; ¿EN QUÉ CIUDAD TE GUSTARÍA REALIZARLO?</td>
-                                                                                                    </tr>
-                                                                                                </table>
-                                                                                            </div>
-                                                                                            <div class="column-1_1">
-                                                                                                <table width="100%">
-                                                                                                    <tr>      
-                                                                                                        <td><textarea type="text" name="quenecesitas"></textarea></td>
-                                                                                                    </tr>  
-                                                                                                </table>
-                                                                                            </div>
-                                                                                        </div>
-                                                                                        <br>
-                                                                                        <div class="row">
-                                                                                            <div class="column-1_1">
-                                                                                                <table width="100%">
-                                                                                                    <tr>
-                                                                                                        <td align="left"> &nbsp; ¿QUÉ TIPO DE SERVICIO(S) BUSCAS?</td>
-                                                                                                    </tr>
-                                                                                                </table>
-                                                                                            </div>
-                                                                                            <div class="column-1_1">
-                                                                                                <table width="100%">
-                                                                                                    <tr>      
-                                                                                                        <td><textarea type="text" name="quenecesitas"></textarea></td>
-                                                                                                    </tr>   
                                                                                                 </table>
                                                                                             </div>
                                                                                         </div>

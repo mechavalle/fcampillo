@@ -42,7 +42,7 @@
             <h3>AVISO DE PRIVACIDAD</h3>
             <p style="color: #737373;">
             De conformidad con lo establecido en la Ley Federal de Protección de Datos Personales en Posesión de los Particulares, MEXOUT EVENTS, S.A.<br> 
-            DE C.V. (“MEXOUT EVENTS") pone a su disposición el siguiente aviso de privacidad.<br>
+            DE C.V. (“MEXOUT EVENTS”) pone a su disposición el siguiente aviso de privacidad.<br>
             </p>
             <p style="color: #737373;">
             MEXOUT EVENTS, es responsable del uso y protección de sus datos personales, en este sentido y atendiendo las obligaciones legales<br>

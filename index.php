@@ -277,7 +277,7 @@
                                                 <div class="column-1_3 sc_column_item odd first">
                                                     <div class="sc_price_block sc_price_block_style_1">
                                                         <div class="featured_image"><img src="images/FULLSERVICEGUIDE.jpg"></div>
-                                                        <div class="sc_price_block_title"><img src="images/titulos_2-09.png" style="width: 280px;"></div>
+                                                        <div class="sc_price_block_title"><img src="images/titulos_2-09.png"></div>
                                                         <div class="sc_price_block_description">
                                                             <ul>
                                                                 <li style="font-size: 16px;">¡Estamos aquí para ti!</li>
@@ -298,7 +298,7 @@
                                                             <div id="presupuesto" class="overlay">
                                                                 <div class="popup">
                                                                     <a class="close" href="#">&times;</a>
-                                                                    <p align="left"><img src="images/titulos-08.png" style="width: 300px;"></p>
+                                                                    <p align="left"><img src="images/titulos-08.png"></p>
                                                                     <div class="content" style="text-align: center;"> 
 
                                                                         <div class="row">
@@ -360,7 +360,7 @@
                                                                             <div class="column-1_1">
                                                                                 <table width="99%">
                                                                                     <tr>
-                                                                                        <td align="left"> &nbsp; &nbsp; ¿QUÉ TIPO DE EVENTO BUSCAS</td>
+                                                                                        <td align="left"> &nbsp; &nbsp; ¿QUÉ TIPO DE EVENTO BUSCAS?</td>
                                                                                     </tr>
                                                                                 </table>
                                                                             </div>
@@ -417,7 +417,7 @@
                                                 </div><div class="column-1_3 sc_column_item even">
                                                     <div class="sc_price_block sc_price_block_style_1">
                                                         <div class="featured_image"><img src="images/DAY-OFCORDINATION.jpg"></div>
-                                                        <div class="sc_price_block_title"><img src="images/titulos_2-10.png" style="width: 295px;"></div>
+                                                        <div class="sc_price_block_title"><img src="images/titulos_2-10.png"></div>
                                                         <div class="sc_price_block_description">
                                                             <ul>
                                                                 <li style="font-size: 16px;">¡Tú planeas, nosotros lo ejecutamos!</li>
@@ -505,7 +505,7 @@
                                                                             <div class="column-1_1">
                                                                                 <table width="100%">
                                                                                     <tr>
-                                                                                        <td align="left"> &nbsp; &nbsp; ¿QUÉ TIPO DE EVENTO BUSCAS</td>
+                                                                                        <td align="left"> &nbsp; &nbsp; ¿QUÉ TIPO DE EVENTO BUSCAS?</td>
                                                                                     </tr>
                                                                                 </table>
                                                                             </div>
@@ -640,7 +640,7 @@
                                                                             <div class="column-1_1">
                                                                                 <table width="100%">
                                                                                     <tr>
-                                                                                        <td align="left"> &nbsp; &nbsp; ¿QUÉ TIPO DE EVENTO BUSCAS</td>
+                                                                                        <td align="left"> &nbsp; &nbsp; ¿QUÉ TIPO DE EVENTO BUSCAS?</td>
                                                                                     </tr>
                                                                                 </table>
                                                                             </div>
