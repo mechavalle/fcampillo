@@ -102,11 +102,11 @@
                                                                 <h1 class="sc_title sc_title_iconed margin_top_tiny margin_bottom_null sc_a-us-margin-type-c fsz_cust" style="color: #88ccca; font-family: delicious;">Para crear algo excepcional debemos de buscar que cada<br> detalle, cliente, evento o servicio sea realmente significativo.</h1>
                                                                 <img src="images/titulos_2-12.png" style="width: 130px; margin-bottom: 130px; margin-top: 20px;">
                                                                 <p style="margin-top: -110px; color: #737373; font-size: 18px;">
-                                                                    Estamos dedicados a la creación y planificación de eventos con un alto nivel de profesionalismo, en donde nos<br> aseguramos de innovar para sorprender a todos y cada uno de nuestros clientes, cuidando que nuestros servicios<br> se cumplan en tiempo y forma.
+                                                                    Estamos dedicados a la creación y planificación de eventos con un alto nivel de profesionalismo, en donde nos aseguramos de<br> innovar para sorprender a todos y cada uno de nuestros clientes, cuidando que nuestros servicios se cumplan en tiempo y forma.
                                                                 </p>
                                                                 <img src="images/titulos_2-13.png" style="width: 130px; margin-bottom: 20px; margin-top: 20px;">
                                                                 <p style="color: #737373; font-size: 18px;">
-                                                                    Ser una empresa líder dentro de la industria de los eventos, siendo ampliamente reconocidos por nuestro<br> profesionalismo, calidad, vocación y compromiso con los objetivos de nuestros clientes. 
+                                                                    Ser una empresa líder dentro de la industria de los eventos, siendo ampliamente reconocidos por nuestro profesionalismo,<br> calidad, vocación y compromiso con los objetivos de nuestros clientes. 
                                                                 </p>
                                                                 <br>
                                                                 <p style="text-align: center; font-size: 20px; color: #88ccca;">
@@ -136,7 +136,7 @@
                                                                 <p style="font-size: 20px; color: #88ccca;">
                                                                     Todo aquello que te gusta, buscas e imaginas te aseguramos que lo encontrarás con nosotros.<br>
                                                                     Hemos planificado y ejecutado eventos únicos y esperamos sean más.<br>
-                                                                    Nos sentimos increíblemente afortunados de ser parte de un momento tan especial en la vida de nuestras<br> parejas y clientes, y estamos ansiosos de ayudarlos con cada detalle especial. Siempre buscaremos la<br> perfección en nuestro trabajo: no existe una boda bien, sólo existen bodas perfectas.
+                                                                    Nos sentimos increíblemente afortunados de ser parte de un momento tan especial en la vida de nuestras parejas<br> y clientes, y estamos ansiosos de ayudarlos con cada detalle especial. Siempre buscaremos la perfección en<br> nuestro trabajo: no existe una boda bien, sólo existen bodas perfectas.
                                                                 </p>
                                                             </div>
                                                         </div>
