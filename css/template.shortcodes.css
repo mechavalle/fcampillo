@@ -3184,7 +3184,7 @@ ul.sc_list_style_iconed {
 
 .sc_price_block .sc_price_block_title {
 	font-size: 1.643em;
-	height: 3.67em;
+	height: 2.67em; /*anterior height: 3.67em;*/
 	margin-top: 1em;
 	padding: 0;
 	position:relative;

@@ -277,7 +277,7 @@
                                                 <div class="column-1_3 sc_column_item odd first">
                                                     <div class="sc_price_block sc_price_block_style_1">
                                                         <div class="featured_image"><img src="images/FULLSERVICEGUIDE.jpg"></div>
-                                                        <div class="sc_price_block_title"><img src="images/titulos_2-09.png"></div>
+                                                        <div class="sc_price_block_title"><img src="images/titu18.png"></div>
                                                         <div class="sc_price_block_description">
                                                             <ul>
                                                                 <li style="font-size: 16px;">¡Estamos aquí para ti!</li>
@@ -417,7 +417,7 @@
                                                 </div><div class="column-1_3 sc_column_item even">
                                                     <div class="sc_price_block sc_price_block_style_1">
                                                         <div class="featured_image"><img src="images/DAY-OFCORDINATION.jpg"></div>
-                                                        <div class="sc_price_block_title"><img src="images/titulos_2-10.png"></div>
+                                                        <div class="sc_price_block_title"><img src="images/titu17.png"></div>
                                                         <div class="sc_price_block_description">
                                                             <ul>
                                                                 <li style="font-size: 16px;">¡Tú planeas, nosotros lo ejecutamos!</li>
@@ -562,7 +562,7 @@
                                                 </div><div class="column-1_3 sc_column_item odd">
                                                     <div class="sc_price_block sc_price_block_style_1">
                                                         <div class="featured_image"><img alt="Full Package" src="images/COORDINATIONPACKAGE.jpg"></div>
-                                                        <div class="sc_price_block_title"><img src="images/titulos_2-11.png"></div>
+                                                        <div class="sc_price_block_title"><img src="images/titu16.png"></div>
                                                         <div class="sc_price_block_description">
                                                             <ul>
                                                                 <li style="font-size: 16px;">¡Relájate y deja todo en nuestras manos!</li>

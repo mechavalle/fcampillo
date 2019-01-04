@@ -106,7 +106,7 @@
                                                                     </div>
                                                                 </div>
                                                                 <div class="sc_services_item_content" style="text-align: center;">
-                                                                    <img src="images/titulos_2-14.png">
+                                                                    <img src="images/titu2.png">
                                                                 </div>
                                                             </div>
                                                         </div><div class="column-1_2 column_padding_bottom">
@@ -143,7 +143,7 @@
                                                                     </div>
                                                                 </div>
                                                                 <div class="sc_services_item_content" style="text-align: center;">
-                                                                    <img src="images/titulos_2-15.png">
+                                                                    <img src="images/titu11.png">
                                                                 </div>
                                                             </div>
                                                         </div><div class="column-1_2 column_padding_bottom">
@@ -180,7 +180,7 @@
                                                                     </div>
                                                                 </div>
                                                                 <div class="sc_services_item_content" style="text-align: center;">
-                                                                    <img src="images/titulos_2-17.png">
+                                                                    <img src="images/titu13.png">
                                                                 </div>
                                                             </div>
                                                         </div><div class="column-1_2 column_padding_bottom">
@@ -217,7 +217,7 @@
                                                                     </div>
                                                                 </div>
                                                                 <div class="sc_services_item_content" style="text-align: center;">
-                                                                    <img src="images/titulos_2-16.png">
+                                                                    <img src="images/titu12.png">
                                                                 </div>
                                                             </div>
                                                         </div>
