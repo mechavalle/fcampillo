@@ -1,7 +1,7 @@
 <?php
 global $_REQUEST;
 $response = array('error'=>'');
-$contact_email = 'il.diabolo@gmail.com';
+$contact_email = 'info@fernandacampillo.com';
 
 // type
 $type = $_REQUEST['type'];

@@ -50,7 +50,7 @@
     max-width: none !important;
 }
 .gm-style-iw {
-    width: 350px !important;
+    width: 260px !important;
     top: 15px !important;
     left: 0px !important;
     background-color: #fff;

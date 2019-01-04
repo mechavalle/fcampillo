@@ -28,6 +28,7 @@
         -webkit-transform: scale(1.3);
         -ms-transform: scale(1.3);
         transform: scale(1.3);
+        max-width: 80%;
         }
 
         /* margin: 0; */
@@ -39,6 +40,11 @@
     transform: translate(-50%, -50%);
     width: 100%;
     }
+
+    .popb {
+    max-width: 80% !important;
+
+        }
     </style>
    
 </head>
@@ -53,7 +59,7 @@
     ?>
 
 	<!--.page_content_wrap -->		
-	<div class="page_content_wrap page_paddings_yes">
+	<div class="page_content_wrap page_paddings_yes" style="margin-bottom: 60px;">
         <!--.content-->
         <div class="content">
             <!--.post_item .post_item_single .page .type-page -->
@@ -229,27 +235,27 @@
                                         </div>
                                     </div>
                                 </div>
-                                <div class="row" style="text-align: center; vertical-align: middle;">
+                                <div class="row" style="text-align: center; vertical-align: middle; margin: 0 50px;">
                                     <div class="column-1_7">
-                                        <img class="grow" src="images/ICONOS-29.png">
+                                        <img class="grow popb" src="images/ICONOS-29.png">
                                     </div>
                                     <div class="column-1_7">
-                                        <img class="grow" src="images/ICONOS-30.png">
+                                        <img class="grow popb" src="images/ICONOS-30.png">
                                     </div>
                                     <div class="column-1_7"">
-                                        <img class="grow" src="images/ICONOS-31.png">
+                                        <img class="grow popb" src="images/ICONOS-31.png">
                                     </div>
                                     <div class="column-1_7">
-                                        <img class="grow" src="images/ICONOS-32.png">
+                                        <img class="grow popb" src="images/ICONOS-32.png">
                                     </div>
                                     <div class="column-1_7">
-                                        <img class="grow" src="images/ICONOS-33.png">
+                                        <img class="grow popb" src="images/ICONOS-33.png">
                                     </div>
                                     <div class="column-1_7">
-                                        <img class="grow" src="images/ICONOS-34.png">
+                                        <img class="grow popb" src="images/ICONOS-34.png">
                                     </div>
                                     <div class="column-1_7">
-                                        <img class="grow" src="images/ICONOS-28.png">
+                                        <img class="grow popb" src="images/ICONOS-28.png">
                                     </div>
                                 </div>
                             </div>
