@@ -100,11 +100,11 @@
                                                             </div>
                                                             <div class="container" style="text-align: center !important;">
                                                                 <h1 class="sc_title sc_title_iconed margin_top_tiny margin_bottom_null sc_a-us-margin-type-c fsz_cust" style="color: #88ccca; font-family: delicious;">Para crear algo excepcional debemos de buscar que cada<br> detalle, cliente, evento o servicio sea realmente significativo.</h1>
-                                                                <img src="images/titulos_2-12.png" style="width: 130px; margin-bottom: 130px; margin-top: 20px;">
+                                                                <img src="images/titu15.png" style="width: 444px; margin-bottom: 120px; margin-top: 20px;">
                                                                 <p style="margin-top: -110px; color: #737373; font-size: 18px;">
                                                                     Estamos dedicados a la creación y planificación de eventos con un alto nivel de profesionalismo, en donde nos aseguramos de<br> innovar para sorprender a todos y cada uno de nuestros clientes, cuidando que nuestros servicios se cumplan en tiempo y forma.
                                                                 </p>
-                                                                <img src="images/titulos_2-13.png" style="width: 130px; margin-bottom: 20px; margin-top: 20px;">
+                                                                <img src="images/titu14.png" style="width: 444px; margin-bottom: 10px; margin-top: 20px;">
                                                                 <p style="color: #737373; font-size: 18px;">
                                                                     Ser una empresa líder dentro de la industria de los eventos, siendo ampliamente reconocidos por nuestro profesionalismo, calidad,<br> vocación y compromiso con los objetivos de nuestros clientes. 
                                                                 </p>
