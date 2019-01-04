@@ -64,7 +64,7 @@
     <div class="page_content_wrap page_paddings_yes">
         <div class="sc_services_wrap">
             <div class="sc_services sc_services_style_services-1 sc_services_type_images  margin_top_tiny- margin_bottom_large full-width" style="text-align: center;">
-                <img src="images/titulos_2-06.png" style="width: 400px; margin-top: 30px;">
+                <img src="images/titu5.png" style="margin-top: 30px;">
             </div>    
             <div class="content_wrap">
                 <div class="content">

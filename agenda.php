@@ -120,7 +120,7 @@
     <div class="page_content_wrap page_paddings_yes">
         <div class="sc_services_wrap">
             <div class="sc_services sc_services_style_services-1 sc_services_type_images  margin_top_tiny- margin_bottom_large full-width" style="text-align: center;">
-                <img src="images/titulos_2-02.png" style="width: 600px; margin-bottom: 0px; margin-top: 40px;">
+                <img src="images/titu7.png" style="margin-bottom: 0px; margin-top: 40px;">
             </div>    
             <div class="content_wrap">
                 <div class="content">
@@ -151,7 +151,7 @@
                                                                               Este planeador te servirá de apoyo para que consideres y plasmes cada detalle en la organización de tu boda. Queremos que en este día tan especial vivas cada momento y todo salga como lo soñaste.
                                                                             </p>
                                                                             <p style="color: #88ccca">
-                                                                              Esta libreta está pensanda 100% en ti, novia, que con las prisas y el estrés muchas veces olvidas detalles pequeños que pueden ser importantes para ese día.
+                                                                              Esta libreta está pensada 100% en ti, novia, que con las prisas y el estrés muchas veces olvidas detalles pequeños que pueden ser importantes para ese día.
                                                                             </p>
                                                                             <p>
                                                                               Incluye:<br>
@@ -195,12 +195,11 @@
                                                                             </p>
                                                                             <a href="#presupuesto" class="sc_button sc_button_square sc_button_size_small" style="border-style: solid; border-width: 2px;">Pedir Presupuesto</a>
                                                                             <div id="presupuesto" class="overlay">
-                                                                                <form class="sc_input_hover_default" data-formtype="form_1" method="post" action="include/contact-form-agenda.php">
-                                                                                <div class="sc_form_info popup">
+                                                                                <div class="popup">
                                                                                     <a class="close" href="#">&times;</a>
                                                                                     <p align="left"><img src="images/titulos-08.png" style="width: 300px;"></p>
                                                                                     <div class="content" style="text-align: center;"> 
-                                                                                      
+
                                                                                         <div class="row">
                                                                                             <div class="column-1_1">
                                                                                                 <table width="99%">
@@ -220,7 +219,7 @@
                                                                                             <div class="column-1_1">
                                                                                                 <table width="99%">
                                                                                                     <tr>
-                                                                                                        <td><input type="text" name="telefono"></td>
+                                                                                                        <td><input type="tel" name="telefono"></td>
                                                                                                         <td><input type="email" name="email" required></td>
                                                                                                     </tr>
                                                                                                     <tr>
@@ -252,24 +251,16 @@
                                                                                             <div class="column-1_1">
                                                                                                 <table width="99%">
                                                                                                     <tr>      
-                                                                                                        <td><textarea type="text" name="piezas"></textarea></td>
+                                                                                                        <td><textarea type="text" name="quenecesitas"></textarea></td>
                                                                                                     </tr>  
                                                                                                 </table>
                                                                                             </div>
                                                                                         </div>
 
                                                                                         <br>
-                                                                                       <div class="sc_form_item sc_form_button">
-                                                                                         <button type="submit" class="sc_button sc_button_square sc_button_size_small" style="border-style: solid; border-width: 2px; line-height: 0.2857em; color: #cbb9a6; background-color: rgba(255, 255, 255);">Enviar</button>
-                                                                                      </div>
-                                                                                      <div class="result sc_infobox"></div>
-                                                                                    
+                                                                                        <a type="submit" class="sc_button sc_button_square sc_button_size_small" style="border-style: solid; border-width: 2px; line-height: 0.2857em;">Enviar</a>
                                                                                     </div>
                                                                                 </div>
-
-                                                                                </form>
-
-
                                                                             </div>
                                                                         </div>
                                                                     </div>

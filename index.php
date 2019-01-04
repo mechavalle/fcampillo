@@ -261,7 +261,7 @@
                             <div class="m_wrapper">
                                 <div class="sc_section sc_section_block sc_home-margin-type-j">
                                     <div class="sc_section_inner">
-                                        <img src="images/titulos_2-05.png" style="width: 400px; margin-bottom: 10px; margin-top:-120px;">
+                                        <img src="images/titu3.png" style="margin-bottom: 10px; margin-top:-120px;">
                                         <p style="font-size: 18px;">
                                             ¿No sabes por dónde empezar con tus planes?<br>
                                             ¿Necesitas un poco de apoyo adicional para completar tus últimos detalles?<br>

@@ -76,7 +76,7 @@
                                             <div class="sc_services_wrap">
                                                 <!-- .sc_services -->
                                                 <div class="sc_services sc_services_style_services-1 sc_services_type_images  margin_top_tiny- margin_bottom_large full-width" style="text-align: center;">
-                                                    <img src="images/titulos_2-07.png" style="width: 400px; margin-bottom: 20px; margin-top: 0px;">
+                                                    <img src="images/titu4.png" style="margin-bottom: 20px; margin-top: 0px;">
                                                     <div class="sc_columns columns_wrap">
                                                         <div class="column-1_2 column_padding_bottom">
                                                             <div  class="sc_blogger">
@@ -98,7 +98,7 @@
                                                                                                 <!--.info-back  -->
                                                                                                 <div class="info-back">
                                                                                                     <p style="position: absolute; top: 50%; left: 50%; -ms-transform: translate(-50%, -50%); transform: translate(-50%, -50%); width: 100%;">
-                                                                                                       Cuéntanos lo que tienes en mente y nuestro equipo se encargará de ayudarte a hacerlo realidad. Nos encargaremos de brindarte una experiencia inigualable y hacer que desde el más mínimo detalle haga la diferencia. Cada amor es una historia por contar.
+                                                                                                       Cuéntanos lo que tienes en mente y nuestro equipo se encargará de ayudarte a hacerlo realidad. Nos encargaremos de brindarte una experiencia y hacer que desde el más mínimo detalle haga la diferencia. Cada amor es una historia por contar...
                                                                                                     </p>
                                                                                                     <!--end .info-back  -->
                                                                                                 </div>
@@ -135,7 +135,7 @@
                                                                                                 <!--.info-back  -->
                                                                                                 <div class="info-back">
                                                                                                     <p style="position: absolute; top: 50%; left: 50%; -ms-transform: translate(-50%, -50%); transform: translate(-50%, -50%); width: 100%;">
-                                                                                                        Cuéntanos lo que tienes en mente y nuestro equipo se encargará de ayudarte a hacerlo realidad. Nos encargaremos de brindarte una experiencia inigualable y hacer que desde el más mínimo detalle haga la diferencia. Cada amor es una historia por contar.
+                                                                                                        Tu boda no debe de quitarte el sueño, esto es una fiesta, algo feliz y mágico, no puede provocar estrés ni nervios. Sabemos que esté día es la composición perfecta entre el amor y la personalidad, es por eso que realizamos bodas a la medida y hacemos los sueños realidad. 
                                                                                                     </p>
                                                                                                     <!--end .info-back  -->
                                                                                                 </div>
@@ -172,7 +172,7 @@
                                                                                                 <!--.info-back  -->
                                                                                                 <div class="info-back">
                                                                                                     <p style="position: absolute; top: 50%; left: 50%; -ms-transform: translate(-50%, -50%); transform: translate(-50%, -50%); width: 100%;">
-                                                                                                        Cuéntanos lo que tienes en mente y nuestro equipo se encargará de ayudarte a hacerlo realidad. Nos encargaremos de brindarte una experiencia inigualable y hacer que desde el más mínimo detalle haga la diferencia. Cada amor es una historia por contar.
+                                                                                                        Con la contratación de este servicio te ayudamos a planificar, organizar y coordinar tu evento de principio a fin. Queremos que este día sea un recuerdo y te cause emoción. Nos dedicaremos a orientarte y hacer que todo salga a la perfección.
                                                                                                     </p>
                                                                                                     <!--end .info-back  -->
                                                                                                 </div>
@@ -209,7 +209,7 @@
                                                                                                 <!--.info-back  -->
                                                                                                 <div class="info-back">
                                                                                                     <p style="position: absolute; top: 50%; left: 50%; -ms-transform: translate(-50%, -50%); transform: translate(-50%, -50%); width: 100%;">
-                                                                                                        Cuéntanos lo que tienes en mente y nuestro equipo se encargará de ayudarte a hacerlo realidad. Nos encargaremos de brindarte una experiencia inigualable y hacer que desde el más mínimo detalle haga la diferencia. Cada amor es una historia por contar.
+                                                                                                        Este servicio está enfocado en las parejas que residen en el extranjero y deciden casarse en México o bien, aquellos que viven en México y buscan casarse fuera de su ciudad. Nos encargaremos de organizar absolutamente todo.  
                                                                                                     </p>
                                                                                                     <!--end .info-back  -->
                                                                                                 </div>

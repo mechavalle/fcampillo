@@ -106,7 +106,7 @@
                                                                               Soy Andrea, Coordinadora de Eventos en <font color="#88ccca">Fernanda Campillo Wedding & Event Planner (Riviera Maya)</font>. Realicé dos cursos por parte del Event Planning Academy en Diseño y Ambientación de Eventos y Tendencias en Eventos Sociales. 
                                                                             </p>
                                                                             <p>
-                                                                              Me encanta todo lo que tiene que ver con decoración, los colores, las texturas, olores, etc. y con esto no sólo me comprometo a hacer que tu boda o evento no pierda tu esencia sino que también crearemos experiencias únicas, en donde no sólo tú como cliente estés satisfecho sino que tus invitados vivan el sueño a través de todo lo que trabajamos durante meses.                                                          
+                                                                              Me encanta todo lo que tiene que ver con decoración, los colores, las texturas, olores, etc. y con esto no sólo me comprometo a hacer que tu boda o evento no pierda tu esencia, sino que también crearemos experiencias únicas, en donde no sólo tú como cliente estés satisfecho, sino que tus invitados vivan el sueño a través de todo lo que trabajamos durante meses.                                                          
                                                                             </p>   
                                                                         </div>
                                                                     </div>
