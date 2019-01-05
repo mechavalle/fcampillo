@@ -2369,6 +2369,11 @@ Very common low res
 		margin-left:0 !important;
 	}
 
+	.txtfooter
+		{
+		margin-left: 30px;
+		}
+
 	/* Grid */
 	.container, .container-fluid {
 		padding-left:  0;

@@ -1,10 +1,11 @@
+
 <div class="footer_wrap_inner widget_area_inner">
     <div class="content_wrap">
         <aside id="lovestory_widget_socials-2" class="widget_number_1 widget widget_socials">
             <div class="widget_inner">
                 <div class="row">
                     <div class="column-1_3">
-                        <div style="text-align: left;">
+                        <div class="txtfooter" style="text-align: left;">
                             <p style="font-size: 13.7px;">
                                 <a style="font-size: 13.7px;">CDMX</a><br>  
                                 Boulevard Manuel Ávila Camacho 24,<br>
