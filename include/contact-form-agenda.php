@@ -1,24 +1,14 @@
 <?php
 global $_REQUEST;
-$response = array('error'=>'');
-//$contact_email = 'info@fernandacampillo.com';
-$contact_email = 'il.diabolo@gmail.com';
-//$post_data['nombre']." ".$post_data['apellidos']
-
-//echo "<pre>".print_r($_REQUEST,true)."</pre>";
-//exit();
-/*
-// type
-$type = $_REQUEST['type'];
-// parse
-parse_str($_POST['data'], $post_data);
-*/
+$response = "ok";
+$contact_email = 'info@fernandacampillo.com';
+//$contact_email = 'il.diabolo@gmail.com';
 
 
 $user_name = stripslashes(strip_tags(trim($_REQUEST['nombre']." ".$_REQUEST['apellidos'])));
 $telefono = stripslashes(strip_tags(trim($_REQUEST['telefono'])));
 $user_email = stripslashes(strip_tags(trim($_REQUEST['email'])));
-$piezas = stripslashes(strip_tags(trim($_REQUEST['piezas'])));
+$piezas = stripslashes(strip_tags(trim($_REQUEST['quenecesitas'])));
 
 
 if (trim($contact_email)!='') {
@@ -32,12 +22,12 @@ if (trim($contact_email)!='') {
 		. "From: $user_email\n";
 
 	if (!@mail($contact_email, $subj, $msg, $head)) {
-		$response['error'] = 'Error enviando mensaje!';
+		$response = 'Error enviando mensaje!';
 	}
 } else
-	$response['error'] = 'Error enviando mensaje!';
+	$response = 'Error enviando mensaje!';
 
 
-//echo json_encode($response);
+echo $response;
 die();
 ?>

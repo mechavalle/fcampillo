@@ -25,6 +25,7 @@
     <link property="stylesheet" rel='stylesheet' href='js/vendor/mediaelement/wp-mediaelement.css' type='text/css' media='all' />
     <link property="stylesheet" rel='stylesheet' href='css/responsive.css' type='text/css' media='all' /> 
     <link rel="stylesheet" href="fw/css/font-awesome.css"></link>
+    <link property="stylesheet" rel='stylesheet' href='css/bootstrap.min.css' type='text/css' media='all' />
 </head>    
 
 <style type="text/css">
@@ -38,11 +39,6 @@
       border-color: #cab374;
       border-width: 1px;
     }
-    textarea 
-    {
-    min-height: 3em;
-    }
-
 
 #map-canvas {
     margin: 0;
@@ -54,7 +50,7 @@
     max-width: none !important;
 }
 .gm-style-iw {
-    width: 350px !important;
+    width: 260px !important;
     top: 15px !important;
     left: 0px !important;
     background-color: #fff;
@@ -106,21 +102,25 @@
     background: -ms-linear-gradient(top, rgba(255,255,255,0) 0%, rgba(255,255,255,1) 100%);
 }
 
+.scheme_original .sc_form .sc_form_button button:hover {
+    background-color: #fff;
+}
 
+.scheme_original .sc_form .sc_form_item.sc_form_button button {
+    background-color: #fff;
+}
 </style>
 
 <body class="single single-product woocommerce woocommerce-page">
 
-    <header class="top_panel_wrap top_panel_style_1 scheme_original">
-        <?php  include("sliderbar.php"); ?>
-        <?php  
-            $menu="contacto";
-            include("navbar.php");
-        ?> 
-    </header>
+    <?php  include("sliderbar.php"); ?>
+    <?php  
+        $menu="contacto";
+        include("navbar.php");
+    ?>
         
     <div class="page_content_wrap page_paddings_no scheme_original" style="text-align: center;">
-        <img src="images/titulos_2-19.png" style="width: 600px; margin-bottom: 20px; margin-top: 40px;">
+        <img src="images/titu10.png" style="margin-bottom: 20px; margin-top: 40px;">
         <div class="content">
             <!-- .post_item_single .page .type-page  -->
             <article class="post_item_single page type-page">
@@ -142,7 +142,7 @@
                                         <div class="m_wrapper">
                                             <div class="sc_form_wrap">
                                                 <div class="sc_form sc_form_style_form_1 aligncenter sc-contacts-form" style="margin-top: 2.8em;">
-                                                    <img src="images/titulos_2-08.png" style="width: 400px; margin-bottom: 20px; margin-top: 0px;">
+                                                    <img src="images/titu19.png" style="margin-bottom: 30px; margin-top: 0px;">
                                                     <form class="sc_input_hover_default" data-formtype="form_1" method="post" action="include/contact-form.php">
                                                     <div class="sc_form_info columns_wrap">
                                                         <div class="sc_form_item sc_form_field label_over column-1_2">
@@ -158,7 +158,7 @@
                                                         </div>
                                                     </div>
                                                     <div class="sc_form_item sc_form_button">
-                                                       <a type="submit" class="sc_button sc_button_square sc_button_size_small" style="border-style: solid; border-width: 2px; line-height: 0.2857em;">Enviar</a>
+                                                       <button type="submit" class="sc_button sc_button_square sc_button_size_small" style="border-style: solid; border-width: 2px; line-height: 0.2857em; color: #cbb9a6;">Enviar</button>
                                                     </div>
                                                     <div class="result sc_infobox"></div>
                                                     </form> 
@@ -185,20 +185,19 @@
     <a href="#" class="scroll_to_top icon-up" title="Scroll to top"></a>
     
     <script type='text/javascript' src='js/vendor/jquery-3.1.1.js'></script>
-    <script type='text/javascript' src='js/vendor/jquery-migrate.min.js'></script>
-    <script type='text/javascript' src='js/vendor/photostack/modernizr.min.js'></script>
+    
+    
+    
     <script type='text/javascript' src='js/vendor/superfish.js'></script>
     <script type="text/javascript" src="js/custom/_main.js"></script>
     <script type='text/javascript' src='js/custom/core.utils.js'></script>
     <script type='text/javascript' src='js/custom/core.init.js'></script>
-    <script type='text/javascript' src='js/custom/template.init.js'></script>
-    <script type='text/javascript' src='js/custom/template.shortcodes.js'></script>
-    <script type='text/javascript' src='js/vendor/magnific/jquery.magnific-popup.min.js'></script>
-    <script type='text/javascript' src='js/vendor/core.messages/core.messages.js'></script>
-    <script type='text/javascript' src='http://maps.google.com/maps/api/js?key=AIzaSyBUWtDt2T2JDstiqHj9u6fEZ5rtFxGNL6E'></script>
-    <script type='text/javascript' src='js/custom/core.googlemap.js'></script>  
+    
 
-    <script type="text/javascript" src="js/map.js"></script>
+    <script type='text/javascript' src='js/custom/template.shortcodes.js'></script>
+    
+    
+
 
 </body>
 </html>

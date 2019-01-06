@@ -28,6 +28,7 @@
     <link rel="stylesheet" href="css/bootstrap.min.css">
     <script type="text/javascript" src="js/jquery-3.3.1.min.js"></script>
     <script type="text/javascript" src="js/bootstrap.min.js"></script>
+    <script type="text/javascript" src="js/fns.js"></script>
 
 </head> 
 
@@ -137,8 +138,131 @@
     height: 70px;
     }
 
-</style>
+.msjok
+    {
+    /*color: #cbb9a6;*/
+    font-size: large;
+    }
 
+.esvisible
+    {
+    display: inherit;   
+    }
+
+.novisible
+    {
+    display: none;    
+    }
+
+</style>
+<script type="text/javascript">
+            function isNumberKey(evt)
+                {
+                var charCode = (evt.which) ? evt.which : event.keyCode
+                
+                //alert(charCode);
+                //if (charCode == 45)
+                //      return true;
+                
+                if (charCode > 31 && (charCode < 48 || charCode > 57))
+                    return false;
+                return true;
+                }
+            
+
+            function go()
+                {
+                validacion_email = /^[a-zA-Z0-9_\.\-]+@[a-zA-Z0-9\-]+\.[a-zA-Z0-9\-\.]+$/;
+                if(document.edicion.nombre.value=="")
+                    {
+                     alert('falta tu nombre');
+                    document.edicion.nombre.focus();
+                    return 0;
+                    }
+                if(document.edicion.email.value=="")
+                    {
+                    alert('falta tu E-mail');
+                    document.edicion.email.focus();
+                    return 0;
+                    }
+
+                if(!validacion_email.test(document.edicion.email.value))
+                    {
+                    alert('el correo debe ser válido');
+                    document.edicion.email.focus();
+                    return 0;
+                    }
+
+                if(document.edicion.fecha.value=="")
+                    {
+                    alert('falta la fecha de tu evento');
+                    document.edicion.fecha.focus();
+                    return 0;
+                    }
+                
+                if(document.edicion.quenecesitas.value=="")
+                    {
+                    alert('falta el tipo de evento');
+                    document.edicion.quenecesitas.focus();
+                    return 0;
+                    }
+                
+                if(document.edicion.ciudadevento.value=="")
+                    {
+                    alert('falta la ciudad de tu evento');
+                    document.edicion.ciudadevento.focus();
+                    return 0;
+                    }
+
+                if(document.edicion.serviciosevento.value=="")
+                    {
+                    alert('falta el servicio que buscas');
+                    document.edicion.serviciosevento.focus();
+                    return 0;
+                    }
+
+                document.getElementById("divboton").className="novisible";
+                document.getElementById("divmsj").className="esvisible";
+                var datos = 'nombre='+ document.edicion.nombre.value + '&apellidos='+document.edicion.apellidos.value+'&telefono=' + document.edicion.telefono.value + '&email=' + document.edicion.email.value + '&fecha=' + document.edicion.fecha.value + '&ciudad='+document.edicion.ciudad.value+'&quenecesitas='+document.edicion.quenecesitas.value+'&ciudadevento='+document.edicion.ciudadevento.value+'&serviciosevento=' + document.edicion.serviciosevento.value;
+                             
+                conexion1=crearXMLHttpRequest();
+                conexion1.onreadystatechange = proresultado;
+                conexion1.open("GET", "include/contact-form-presu.php?"+datos, true);
+                conexion1.send(null);
+                }
+
+            function proresultado()
+                {
+                  if(conexion1.readyState == 4)
+                      {
+                     // alert (conexion1.responseText);
+                        if(Left(conexion1.responseText,5)=="ERROR")
+                            alert (conexion1.responseText);
+                        else
+                            {
+                            //alert(conexion1.responseText);   
+                            document.edicion.nombre.value="";
+                            document.edicion.apellidos.value="";
+                            document.edicion.telefono.value="";
+                            document.edicion.email.value="";
+                            document.edicion.fecha.value="";
+                            document.edicion.ciudad.value="";
+                            document.edicion.quenecesitas.value="";
+                            document.edicion.ciudadevento.value="";
+                            document.edicion.serviciosevento.value=""; 
+                            document.getElementById("divmsj").className ="esvisible msjok"; 
+                            document.getElementById("divmsj").innerHTML="Gracias.<br>Nos pondremos en contacto contigo pronto";
+                            
+                            }
+                        }
+                }
+            function botonback()
+                {
+                document.getElementById("divmsj").className ="novisible"; 
+                document.getElementById("divmsj").innerHTML="<i class='fa fa-refresh fa-spin fa-2x'></i>";
+                document.getElementById("divboton").className="esvisible";  
+                }
+        </script>
 <body class="single single-product woocommerce woocommerce-page">
 
     <?php  include("sliderbar.php"); ?>
@@ -297,9 +421,9 @@
                                                             <a href="#presupuesto" class="sc_button sc_button_square sc_button_size_small" style="border-style: solid; border-width: 2px;">Pedir Presupuesto</a>
                                                             <div id="presupuesto" class="overlay">
 
-                                                                <form class="sc_input_hover_default" data-formtype="form_1" method="post" action="include/contact-form-presu.php">
+                                                                <form class="sc_input_hover_default" data-formtype="form_1" method="post" name="edicion" target="_self">
                                                                 <div class="sc_form_info popup">
-                                                                    <a class="close" href="#">&times;</a>
+                                                                    <a class="close" href="#" onclick="botonback();">&times;</a>
                                                                     <p align="left"><img src="images/titulos-08.png" style="width: 300px;"></p>
                                                                     <div class="content" style="text-align: center;"> 
 
@@ -307,8 +431,8 @@
                                                                             <div class="column-1_1">
                                                                                 <table width="99%">
                                                                                     <tr>
-                                                                                        <td><input id="sc_form_username" type="text" name="nombre" required></td>
-                                                                                        <td><input id="sc_form_username" type="text" name="apellidos" required></td>
+                                                                                        <td><input id="sc_form_username" type="text" name="nombre"></td>
+                                                                                        <td><input id="sc_form_username" type="text" name="apellidos"></td>
                                                                                     </tr>
                                                                                     <tr>
                                                                                         <td style="text-align: left;"> &nbsp; &nbsp; NOMBRE</td>
@@ -323,7 +447,7 @@
                                                                                 <table width="99%">
                                                                                     <tr>
                                                                                         <td><input id="sc_form_username" type="text" name="telefono"></td>
-                                                                                        <td><input id="sc_form_username" type="email" name="email" required></td>
+                                                                                        <td><input id="sc_form_username" type="email" name="email"></td>
                                                                                     </tr>
                                                                                     <tr>
                                                                                         <td style="text-align: left;"> &nbsp; &nbsp; TELÉFONO</td>
@@ -337,7 +461,7 @@
                                                                             <div class="column-1_1">
                                                                                 <table width="99%">
                                                                                     <tr>
-                                                                                        <td><input type="text" name="fecha" required></td>
+                                                                                        <td><input type="text" name="fecha"></td>
                                                                                         <td><input type="text" name="ciudad"></td>
                                                                                     </tr>
                                                                                     <tr>
@@ -369,7 +493,7 @@
                                                                             <div class="column-1_1">
                                                                                 <table width="99%">
                                                                                     <tr>      
-                                                                                        <td><textarea type="text" name="quenecesitas"  required></textarea></td>
+                                                                                        <td><textarea type="text" name="quenecesitas" ></textarea></td>
                                                                                     </tr>  
                                                                                 </table>
                                                                             </div>
@@ -386,7 +510,7 @@
                                                                             <div class="column-1_1">
                                                                                 <table width="99%">
                                                                                     <tr>      
-                                                                                        <td><textarea type="text" name="ciudadevento" required></textarea></td>
+                                                                                        <td><textarea type="text" name="ciudadevento"></textarea></td>
                                                                                     </tr>  
                                                                                 </table>
                                                                             </div>
@@ -403,17 +527,20 @@
                                                                             <div class="column-1_1">
                                                                                 <table width="99%">
                                                                                     <tr>      
-                                                                                        <td><textarea type="text" name="serviciosevento" required></textarea></td>
+                                                                                        <td><textarea type="text" name="serviciosevento"></textarea></td>
                                                                                     </tr>   
                                                                                 </table>
                                                                             </div>
                                                                         </div>
 
                                                                         <br>
-                                                                         <div class="sc_form_item sc_form_button">
-                                                                           <button type="submit" class="sc_button sc_button_square sc_button_size_small" style="border-style: solid; border-width: 2px; line-height: 0.2857em; color: #cbb9a6;">Enviar</button>
+                                                                        <div id="divmsj" class="novisible">
+                                                                            <i class='fa fa-refresh fa-spin fa-2x'></i>
                                                                         </div>
-                                                                        <div class="result sc_infobox"></div>
+                                                                        <div id="divboton">
+                                                                           <button type="button" onclick="go();" class="sc_button sc_button_square sc_button_size_small" style="border-style: solid; border-width: 2px; line-height: 0.2857em; color: #cbb9a6;">Enviar</button>
+                                                                        </div>
+                                                                        
                                                                     </div>
                                                                 </div>
                                                                 
