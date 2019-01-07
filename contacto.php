@@ -120,7 +120,7 @@
     ?>
         
     <div class="page_content_wrap page_paddings_no scheme_original" style="text-align: center;">
-        <img src="images/titu10.png" style="margin-bottom: 20px; margin-top: 40px;">
+        <img src="images/titu10.png" style="width: auto; margin-bottom: 20px; margin-top: 40px;">
         <div class="content">
             <!-- .post_item_single .page .type-page  -->
             <article class="post_item_single page type-page">

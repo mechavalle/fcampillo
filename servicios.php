@@ -76,7 +76,7 @@
                                             <div class="sc_services_wrap">
                                                 <!-- .sc_services -->
                                                 <div class="sc_services sc_services_style_services-1 sc_services_type_images  margin_top_tiny- margin_bottom_large full-width" style="text-align: center;">
-                                                    <img src="images/titu4.png" style="margin-bottom: 20px; margin-top: 0px;">
+                                                    <img src="images/titu4.png" style="width: auto; margin-bottom: 20px; margin-top: 0px;">
                                                     <div class="sc_columns columns_wrap">
                                                         <div class="column-1_2 column_padding_bottom">
                                                             <div  class="sc_blogger">
