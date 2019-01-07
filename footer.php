@@ -35,10 +35,10 @@
                     <div class="column-1_3" style="text-align: center !important;">
                         <div class="logo" style="letter-spacing: 20px;">
                             <div class="row">
-                                <img src="images/badge-gold_es_MX@2x.jpg" class="logo_main">
+                                <a href="https://www.bodas.com.mx/organizadores-de-bodas/fernanda-campillo-wedding-&-event-planner--e198597" target="_blank"><img src="images/badge-gold_es_MX@2x.jpg" class="logo_main"></a>
                                 <img src="images/2.png" class="logo_main">
                                 <img src="images/unnamed.jpeg" class="logo_main">
-                                <img src="images/seal_bodas_es_MX.png" class="logo_main" style=" margin-top: 20px;">
+                                <a href="https://www.bodas.com.mx/organizadores-de-bodas/fernanda-campillo-wedding-&-event-planner--e198597" target="_blank"><img src="images/seal_bodas_es_MX.png" class="logo_main" style=" margin-top: 20px;"></a>
                             </div>
                         </div>
                     </div>
